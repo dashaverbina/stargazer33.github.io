@@ -103,4 +103,8 @@ a.detail-icon:visited{
 }
 .dropdown-fields {
   padding-left: 12px;
+  width: 280px;
+}
+.btn-group, .input-group {
+  margin: 2px;
 }
