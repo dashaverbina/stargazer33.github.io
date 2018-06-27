@@ -1,6 +1,129 @@
 {
  "items": [
   {
+    "id": "GxhdnN5hQkqVnIMzVBx1Rg",
+    "url": "https://stackoverflow.com/jobs/126185/senior-java-engineer-for-elasticsearch-elastic?a=GjKrUhCABjO",
+    "title": "Senior Java Engineer for Elasticsearch Distributed Systems Area at Elastic  ",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``3N( 2N(work,remot), OR(us,across,globe,world,planet,100,set 3W hour) )",
+      "DBG_TECH1:k/t/w:java-developer/java/26",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:lucene/java/8",
+      "DBG_TECH1:k/t/w:wordpress/php/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=36, gamedev=0, php=5, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 24, 2018 9:06:45 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Data &amp; Analytics, Search, Software Development / Engineering</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>501-1k people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>VC Funded</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>elasticsearch</a><a rel='nofollow'>java</a><a rel='nofollow'>distributed-system</a><a rel='nofollow'>concurrency</a><a rel='nofollow'>asynchronous</a>                    </div>                                            <h2>Job description</h2>                <div><p>At Elastic, we have a simple goal: to solve the world's data problems with products that delight and inspire. As the company behind the popular open source projects — Elasticsearch, Kibana, Logstash, and Beats — we help people around the world do great things with their data. From stock quotes to Twitter streams, Apache logs to WordPress blogs, our products are extending what's possible with data, delivering on the promise that good things come from connecting the dots. We unite Elasticians across 30+ countries (and counting!), 18 timezones and 30 different languages into one coherent team, while the broader community spans across over 100 countries.</p><p><strong><strong>Engineering</strong> <strong>Philosophy</strong></strong></p><p>Engineering a highly complex distributed system that is easy to operate via elegantly designed APIs is a non-trivial effort. It requires solid software development skills, and more importantly, a sharp mind and the ability to think like a user. We also care deeply about giving you full ownership of what you’re working on. Our company fundamentally believes great minds achieve greatness when they are set free and are surrounded and challenged by their peers, which is clearly visible in our organization. At Elastic, we effectively don’t have a hierarchy to speak of. We feel that anyone needs to be in the position to comment on really anything, regardless of their role within the company.</p><p>Right now, we are on the lookout for a talented <strong>Senior</strong> <strong>Java</strong> <strong>Engineer</strong> to join our <strong>Elasticsearch</strong> team and focusing on the distributed aspects of Elasticsearch. This role can be based (pretty much) anywhere in the world.</p><p><strong><strong>What</strong> <strong>You</strong> <strong>Will</strong> <strong>Be</strong> <strong>Doing:</strong></strong></p><ul><li>Elasticsearch’s internal systems that support concurrent and consistent indexing across multiple machines.</li><li>Cluster coordination and how it responds to nodes leaving and joining the cluster.</li><li>Shard allocation, recovery and migration.</li><li>Backup solutions (a.k.a Snapshot and Restore).</li><li>Cross cluster replication of data to support disaster recovery and geo-replication.</li><li>Look into all kind of issues, including performance or concurrency issues, and propose solutions.</li><li>Supporting our support engineers with the harder problems.</li></ul><p><strong><strong>What</strong> <strong>you</strong> <strong>bring</strong> <strong>along:</strong></strong></p><ul><li>We are looking for strong engineers that can work on complex systems.</li><li>You are able to take on projects and guide them from beginning to end. This covers both technical design and working with other engineers to develop needed components.</li><li>You demonstrate the ability to build and debug features that involve multiple subsystems and run on multiple machines.</li><li>You are comfortable with concurrency and asynchronous execution.</li></ul><p><strong><strong>Bonus points for knowledge of:</strong></strong></p><ul><li>Distributed systems internals</li><li>Data stores</li><li>Search, analytics, Lucene</li><li>Strong knowledge of the JDK</li></ul><p><strong><strong>Additional</strong> <strong>Information:</strong></strong></p><p>We're looking to hire team members invested in realizing the goal of making real-time data exploration easy and available to anyone. As a distributed company, we believe that diversity drives our vibe! Whether you're looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life.</p><ul><li>Competitive pay based on the work you do here and not your previous salary</li><li>Stock options</li><li>Global minimum of 16 weeks of paid in full parental leave (moms &amp; dads)</li><li>Generous vacation time and one week of volunteer time off</li><li>Your age is only a number. It doesn't matter if you're just out of college or your children are; we need you for what you can do.</li></ul><p>Elastic is an Equal Employment employer committed to the principles of equal employment opportunity and affirmative action for all applicants and employees. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status or any other basis protected by federal, state or local law, ordinance or regulation. Elastic also makes reasonable accommodations for disabled employees consistent with applicable law.</p>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://grnh.se/795dfed91' rel='nofollow'>                        Apply now        </a></div>                                    </div>                        </div>        </div>                    <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>401k Matching Up to 6 % in US and Pensions in some other countries</span>                            </li>                            <li>                                <span></span>                                <span>Health Care Insurance</span>                            </li>                            <li>                                <span></span>                                <span>Vacation Time Determined By Location</span>                            </li>                            <li>                                <span></span>                                <span>Lunch and Breakfast in Most Offices</span>                            </li>                            <li>                                <span></span>                                <span>100% Remote work possible</span>                            </li>                    </ul>                "
+  },
+  {
+    "id": "jjJc-wgjR8mzdgAQ2oGYPQ",
+    "url": "http://jobmote.com/jobs/14546-back-end-developer-java-remote-blockchain-start-up",
+    "title": "Back End Developer - Java - remote - blockchain start-up",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java-developer/java/26",
+      "DBG_TECH1:k/t/w:java/java/6",
+      "DBG_TECH1:k/t/w:java/mobile/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=3, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=32, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 23, 2018 12:20:49 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "Back End Developer - Java - remote - blockchain start-up - Jobmote<div><div><h2>Back End Developer - Java - remote - blockchain start-up</h2><h5>Knowit Recruitment Ltd</h5></div></div><div><div><div><div></div></div><div><div><div><p><strong>Java Developer - remote - blockchain start-up</strong><br><strong>A blockchain start-up building a new cryptowallet are looking for a Senior Java Developer capable of helping them building a completely greenfield product.</strong><br><strong>Description</strong><br>You will work in close collaboration with one of the founders to build the Back End..... click apply for full job details </p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
+  },
+  {
+    "id": "7UwWhqx8TLq5ID2L-YwmJw",
+    "url": "http://workinstartups.com/job-board/job/70299/android-developer-at-printt/",
+    "title": "Android Developer",
+    "tags": [
+      "DBG:surround``flexibl 3W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:android/java/6",
+      "DBG_TECH1:k/t/w:android/mobile/12",
+      "DBG_TECH1:k/t/w:embedded/c/2",
+      "DBG_TECH1:k/t/w:embedded/embedded/16",
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:kotlin/mobile/5",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:retrofit/java/8",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=0, c=2, mobile=18, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=2, java=16, gamedev=0, php=0, embedded=16, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/embedded",
+      "TECH1/java",
+      "TECH1/mobile",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "embedded",
+      "java",
+      "mobile"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 25000,
+      "maxValue": 45000,
+      "info": "",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 21, 2018 6:04:54 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "Printt (Formerly called AIWIP) was founded 2014 in London; Our team of 10 have successfully grown from 50 to 500 printers.<br />We are the world’s only network of public printers; It allows anybody to print straight from their phone to one of our printers with zero configuration. In addition, It also enables students to print for free via advertising. <br />It’s a disruptive service that’s changing the printing industry — one that prints millions of pages every year. <br /><br />About the Role<br /><br />You would be helping to craft the next generation of our Android application for both mobile and embedded devices to help us grow to the next 5k printers.<br />You will join our small team of 4 engineers to help build the next iteration of our service. You will liase with our CTO and founding team to plan features and create a great expeirence for our users<br />You will be working with Java, RxJava, Retrofit, Butterknife, iBeacon and OkHTTP. We haven’t embraced Kotlin yet but we are keeping our eye on it.<br />If you are someone looking for the next step in their career? Then this could would be ideal for you<br /><br />Essential<br /><br />At least 3 years experience in Android development, from conceptualisation through to successful launch of an application in Google Play<br />* You have experience in using git and version control in combination with agile development.<br />* You are up to date with the latest features and developments for Android, including features in upcoming SDKs, resource optimisation techniques, device quirks and social network integration (e.g. Facebook)<br />* Ideally you should know about VPN Services and Bluetooth Beacons<br />* You have developed good personal time management and team working skills.<br />* You can describe complex issues to non-technical users and debugging problems.<br /><br />Desirable<br /><br />* Experience with Pusher, Stripe, Fabric and Facebook SDKs<br />* * Experience in deploying Android Apps to embedded devices (For example a Smart TVs or POS systems)<br />* Knowledge of RxJava<br />* Sense of humour and a love of hummus<br /><br />Benefits:<br /><br />* Pick your own holidays– it puts you in control of the amount of holiday you take, no waiting for it to accrue<br />* Flexible Working – Work from home when you want a pyjama day or you just need to catch up on things (It happens!)<br />* Small and Friendly Team – Relaxed atmosphere with opportunities for growth, learning new skills and hopefully teaching eachother.<br />* Choose your own laptop (Mac or PC)<br />* Free Beer on Tap <br />* Bring your pet to the office to enjoy the balcony with Tower Bridge Views<br /><br />We are empathetic, so if you feel you meet some of these requirements then don’t hesitate to apply.<br />We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br />"
+  },
+  {
     "id": "UiuDniwVTeSxvB_XCkukZQ",
     "url": "https://stackoverflow.com/jobs/194454/software-engineering-manager-java-crossover?a=13dg0dBR8nsI",
     "title": "Software Engineering Manager (Java) at Crossover  ",
@@ -3170,7 +3293,7 @@
     "employmentType": "UNSET",
     "published": "May 24, 2018 5:31:24 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>java</a><a rel='nofollow'>agile</a><a rel='nofollow'>java-ee</a><a rel='nofollow'>spring</a><a rel='nofollow'>mysql</a>                    </div>                                            <h2>Job description</h2>                <div><p><strong>DESCRIPTION</strong></p><p>Clevertech is looking for a Java Engineer to join our global team. This role has database design and implementation responsibilities including alternative data structures such as nosql, redis, elasticsearch and more. Clevertech looks for craftsmen developers who take ownership of their code.</p><p>You can deliver quickly while being clever to avoid missteps. You have an effective positive attitude that shines as you show you care about client and colleague concerns. You are always learning and are a transparent communicator even when it is challenging. You thrive on challenging yourself daily and seek to surround yourself with like minded individuals.</p><p><strong>REQUIREMENTS</strong></p><ul><li>Programming skills– You are comfortable writing code in multiple languages, confident in choosing the right strongly or dynamically typed language for the job. Preferred language familiarity: Java, NodeJS, Ruby, Scala, and/or Go.</li><li>Database skills – You understand the use cases for relational and non-relational data, you’ve implemented code against several different database platforms.</li><li>Development experience - Java Web Applications, Service Oriented Architecture and Micro-Services.</li><li>Knowledge of micro-services networking, load balancing, and service discovery concepts and technologies.</li><li>Conduct code walk-throughs, peer reviews, and produce technical documentation.</li><li>Bachelor’s Degree in Computer Science/Engineering or equivalent years of hands-on coding experience.</li><li>Strong communicator and fluent in English with excellent written and verbal communication skills.</li><li>Knowledge of Agile Methodologies</li></ul><p><strong>BENEFITS</strong></p><p><strong>Own Your Time</strong></p><p>We are a completely remote team. That means we have a large amount of trust and a lot of flexibility. World travelers, young parents, nature lovers, and commute avoiders love working here. We also will pay for a co-working space in case you feel like working outside of your normal setting.</p><p><strong>Recharge Time</strong></p><p>We insist that you take recharge time. We are closed for major holidays and then require that you take at least two weeks a year to refresh.</p><p><strong>Care For Yourself</strong></p><p>You’ll receive a health/wellness monthly stipend that goes towards covering medical insurance, dental insurance or joining a gym!</p><p><strong>Focused Work</strong></p><p>You will work together on a dedicated team with your eye on one finish line at a time. Our teams are nimble and agile, and cover the technical range you would expect in world class product delivery teams.</p><p><strong>Learn at your edges</strong></p><p>We believe in learning and provide unique programs that improve your tech skills, leadership skills and even challenge you in personal development. CleverFridays, guest speakers, mentorship opportunities and in-depth industry exposure are all on offer here. And of course, if you speak at a tech conference, we cover all expenses.</p><p><strong>Clevertech Swag</strong></p><p>And keep your eye on the mail - we send out swag everywhere in the world and there are celebratory pictures of Clevertech socks, hoodies, and mugs all over Slack.</p><p>Want to learn more about Clevertech and the team? Check out&nbsp;<a href='http://why.clevertech.biz/' rel='nofollow'>why.clevertech.biz</a>.</p><p>APPLY FOR THIS POSITION</p>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://hire.clevertech.biz/job/57c74d1b6a58c5b13eb0b36d?src=STO' rel='nofollow'>                        Apply now        </a></div>                                    </div>                        </div>        </div>            <h2>About Clevertech</h2>            <div><p><strong>We’re always looking for smart, driven, entrepreneurial developers to join our team.</strong></p><p><strong>If you like new ideas and want to work with a virtual but absurdly talented group of people in a learning-friendly environment, check out the open positions.</strong></p><p><strong>No matter what you do at Clevertech, you'll play a part in transforming ideas into software that changes the world.</strong></p><p><strong>Just answer a few quick questions and learn a little more about our culture.</strong></p><p><strong>We’re waiting for you, and ready to do great things together!</strong></p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Full-Time Telecommuting</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Schedules</span>                            </li>                            <li>                                <span></span>                                <span>Paid Time Off</span>                            </li>                            <li>                                <span></span>                                <span>Ability to Work with Cutting-Edge Technology</span>                            </li>                            <li>                                <span></span>                                <span>Opportunity to Work with and Learn from Top Developers</span>                            </li>                            <li>                                <span></span>                                <span>Contribute to Open Source</span>                            </li>                    </ul>                "
+    "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Backend Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>java</a><a rel='nofollow'>agile</a><a rel='nofollow'>java-ee</a><a rel='nofollow'>spring</a><a rel='nofollow'>mysql</a>                    </div>                                            <h2>Job description</h2>                <div><p><strong>DESCRIPTION</strong></p><p>Clevertech is looking for a Java Engineer to join our global team. This role has database design and implementation responsibilities including alternative data structures such as nosql, redis, elasticsearch and more. Clevertech looks for craftsmen developers who take ownership of their code.</p><p>You can deliver quickly while being clever to avoid missteps. You have an effective positive attitude that shines as you show you care about client and colleague concerns. You are always learning and are a transparent communicator even when it is challenging. You thrive on challenging yourself daily and seek to surround yourself with like minded individuals.</p><p><strong>REQUIREMENTS</strong></p><ul><li>Programming skills– You are comfortable writing code in multiple languages, confident in choosing the right strongly or dynamically typed language for the job. Preferred language familiarity: Java, NodeJS, Ruby, Scala, and/or Go.</li><li>Database skills – You understand the use cases for relational and non-relational data, you’ve implemented code against several different database platforms.</li><li>Development experience - Java Web Applications, Service Oriented Architecture and Micro-Services.</li><li>Knowledge of micro-services networking, load balancing, and service discovery concepts and technologies.</li><li>Conduct code walk-throughs, peer reviews, and produce technical documentation.</li><li>Bachelor’s Degree in Computer Science/Engineering or equivalent years of hands-on coding experience.</li><li>Strong communicator and fluent in English with excellent written and verbal communication skills.</li><li>Knowledge of Agile Methodologies</li></ul><p><strong>BENEFITS</strong></p><p><strong>Own Your Time</strong></p><p>We are a completely remote team. That means we have a large amount of trust and a lot of flexibility. World travelers, young parents, nature lovers, and commute avoiders love working here. We also will pay for a co-working space in case you feel like working outside of your normal setting.</p><p><strong>Recharge Time</strong></p><p>We insist that you take recharge time. We are closed for major holidays and then require that you take at least two weeks a year to refresh.</p><p><strong>Care For Yourself</strong></p><p>You’ll receive a health/wellness monthly stipend that goes towards covering medical insurance, dental insurance or joining a gym!</p><p><strong>Focused Work</strong></p><p>You will work together on a dedicated team with your eye on one finish line at a time. Our teams are nimble and agile, and cover the technical range you would expect in world class product delivery teams.</p><p><strong>Learn at your edges</strong></p><p>We believe in learning and provide unique programs that improve your tech skills, leadership skills and even challenge you in personal development. CleverFridays, guest speakers, mentorship opportunities and in-depth industry exposure are all on offer here. And of course, if you speak at a tech conference, we cover all expenses.</p><p><strong>Clevertech Swag</strong></p><p>And keep your eye on the mail - we send out swag everywhere in the world and there are celebratory pictures of Clevertech socks, hoodies, and mugs all over Slack.</p><p>Want to learn more about Clevertech and the team? Check out&nbsp;<a href='http://why.clevertech.biz/' rel='nofollow'>why.clevertech.biz</a>.</p><p>APPLY FOR THIS POSITION</p>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://hire.clevertech.biz/job/57c74d1b6a58c5b13eb0b36d?source=STO' rel='nofollow'>                        Apply now        </a></div>                                    </div>                        </div>        </div>            <h2>About Clevertech</h2>            <div><p><strong>We’re always looking for smart, driven, entrepreneurial developers to join our team.</strong></p><p><strong>If you like new ideas and want to work with a virtual but absurdly talented group of people in a learning-friendly environment, check out the open positions.</strong></p><p><strong>No matter what you do at Clevertech, you'll play a part in transforming ideas into software that changes the world.</strong></p><p><strong>Just answer a few quick questions and learn a little more about our culture.</strong></p><p><strong>We’re waiting for you, and ready to do great things together!</strong></p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Full-Time Telecommuting</span>                            </li>                            <li>                                <span></span>                                <span>Flexible Schedules</span>                            </li>                            <li>                                <span></span>                                <span>Paid Time Off</span>                            </li>                            <li>                                <span></span>                                <span>Ability to Work with Cutting-Edge Technology</span>                            </li>                            <li>                                <span></span>                                <span>Opportunity to Work with and Learn from Top Developers</span>                            </li>                            <li>                                <span></span>                                <span>Contribute to Open Source</span>                            </li>                    </ul>                "
   },
   {
     "id": "iBxSdaHmSVaJUs3Piyumlw",
@@ -4904,145 +5027,6 @@
     "published": "Apr 28, 2018 11:39:38 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Full-time</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Mid-Level, Senior</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Full Stack Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Software Development</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p>Are you passionate about web applications and real estate and want to combine them in your career? &nbsp; FBS is looking for&nbsp;a C# web developer to join our new Spring&nbsp;development team. We lead real estate software innovation with our web application&nbsp;<a href='http://flexmls.com/' rel='nofollow'>Flexmls</a>&nbsp;and are a profitable, 100% employee owned company, <a href='https://www.flexmls.com/about/' rel='nofollow'>celebrating 40&nbsp;years</a>&nbsp;in the real estate industry.&nbsp; <a href='http://geekestateblog.com/fbs-acquires-solid-earths-spring-software-platform/' rel='nofollow'>FBS&nbsp;recently acquired Spring</a>, which&nbsp;helps real estate MLSs, brokers, and agents with tools to grow their businesses and for consumers to search for homes.&nbsp;You'd be building features and improving existing features for our <a href='https://www.flexmls.com/products/spring-mls-portal/' rel='nofollow'>Spring&nbsp;system</a>, which serves real estate multiple listing services, brokers, and agents across the country, including their home buyer and seller clients.</p><p><strong>Skills &amp; Requirements</strong></p><p>C#, HTML, CSS, Node.js, JavaScript, jQuery, MongoDB, Git, and passion for web development and delighting customers by continually improving the customer experience. &nbsp;Ability to consider the impacts of new and changed code on the entire system in addition to the current piece of code is essential, with an eye towards creating sustainable systems for the long run.&nbsp; Experience with relational and non-relational databases and use of APIs as data storage is useful as well.&nbsp; Excellent communication skills are important, as you'll often be working with remote teammates.&nbsp; This position can be either remote or in FBS's office in Fargo, ND.</p>                    </div>                            <h2>                About FBS            </h2>            <div><p>Here at FBS, our software products drive our success. Hiring the best and the brightest means we pay competitively, have strong healthcare benefits, provide a professional-yet-casual, resource-rich working environment and enjoy the freedom to be individuals who work together towards common goals. Your peers aren't co-workers, they're owners; FBS is 100% employee owned. That means&nbsp;you and your coworkers&nbsp;earn company stock in addition to your salaries for maintaining the company's growth and success. There's no bureaucracy and no red tape; just a solid team of experts who love coming to work, getting things done and making customers happy every day.&nbsp; At FBS, you get entrepreneurial energy, innovation and big thinking: deadlines to beat, challenges to conquer, and emerging technology to chase without the volatility, uncertainty and risk of a start-up. As an owner at FBS, you actually do get out what you've put in.<br><br>So if you are looking for a place where your creativity, knowledge and software quality assurance expertise will be appreciated and rewarded in a team of passionate, intelligent and fun folks, we encourage you to apply.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Health, vision, and dental insurance for the employee, and 401k                            </div>                            <div>                                 &quot;Pick 6&quot; long weekend program                            </div>                            <div>                                 100% employee owned                            </div>                            <div>                                 2 weeks vacation plus 5 floating and 5 fixed days off                            </div>                            <div>                                 Hardware and tools                            </div>                            <div>                                 Books and other learning materials                            </div>                            <div>                                 Remote work                            </div>                            <div>                                 Flexible hours                            </div>                            <div>                                 Smart, passionate co-workers                            </div>                            <div>                                 Ownership culture                            </div>                    "
-  },
-  {
-    "id": "_AqRFlJfRVGc7qwl7SgTRQ",
-    "url": "https://stackoverflow.com/jobs/146501/experienced-java-engineer-citrusbyte?a=N8aZulr6jZe",
-    "title": "Experienced Java Engineer at Citrusbyte  ",
-    "tags": [
-      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:elixir/other/5",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:java-developer/java/13",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:node.js/nodejs/13",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:ruby-on-rails/ruby/8",
-      "DBG_TECH1:k/t/w:ruby/ruby/4",
-      "DBG_TECH1:k/t/w:rust/other/5",
-      "DBG_TECH1:k/t/w:sinatra/ruby/8",
-      "DBG_TECH1:techWeightMap:{python=2, other=10, dotnet=5, c=2, mobile=1, go=3, nodejs=13, bigdata-ml=0, ruby=20, apple=0, java=15, gamedev=0, php=0, embedded=0, frontend=5}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TECH1/ruby",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java",
-      "ruby"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 24, 2018 10:44:01 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "                        <h2>About this job</h2>                        <div>                                <div>                                        <div>                                            <span>Job type: </span>                                            <span>Full-time</span>                                        </div>                                        <div>                                            <span>Experience level: </span>                                            <span>Senior, Lead, Manager</span>                                        </div>                                        <div>                                            <span>Role: </span>                                            <span>Full Stack Developer, Backend Developer</span>                                        </div>                                </div>                                <div>                                        <div>                                            <span>Industry: </span>                                            <span>Software Development, Web Design</span>                                        </div>                                        <div>                                            <span>Company size: </span>                                            <span>51-200 people</span>                                        </div>                                        <div>                                            <span>Company type: </span>                                            <span>Private</span>                                        </div>                                </div>                        </div>                                        <h2>Job description</h2>                    <div><p><a href='https://citrusbyte.com/' rel='nofollow'>Citrusbyte</a>&nbsp;is a software consultancy that believes in using simple tools to solve problems. We build custom systems for both startups and enterprises - You can see our&nbsp;<a href='https://citrusbyte.com/portfolio' rel='nofollow'>portfolio</a>&nbsp;for more information about our clients.</p><p>We have offices in Los Angeles and New York, but we work remotely with people from all around the world.</p><p><br>Our engineers have experience in a consultative environment, excellent communication skills and a desire to work with talented teams building innovative products. We work closely with our clients, sharing our experience and processes to help them define and create their products.</p><p>For the position we're currently hiring for, experience with&nbsp;<strong>Java&nbsp;</strong>is required, as well as demonstrable experience working with a services oriented architecture.</p><p><br>Most of our other projects are written in&nbsp;<strong>Ruby</strong>, so experience in this language is also a solid plus. In general we are looking for polyglot engineers who have a hunger for learning new languages and tools. At Citrusbyte, learning is part of the job, and you should always be able to answer the question: &quot;what have I learned this week?&quot;</p><p><br>We believe that less is more and we vehemently value simplicity. This is reflected in the tools we choose to work with. For this reason we tend to avoid using big frameworks like Ruby on Rails and instead lean towards smaller tools like Sinatra, Roda or Cuba.</p><p><br>We have also done projects in&nbsp;<strong>Elixir, Rust, Node.js, Go, Python, Lua</strong>,&nbsp;<strong>C#</strong>, etc. And strive to learn new tools and languages everyday. We believe in always choosing the right tool for the job and we are very open minded about trying different technologies.</p><p><strong>Skills &amp; Requirements</strong></p><ul><li>Smart, gets things done</li><li>Excellent communication skills</li><li>Consulting experience</li><li>Passionate about software development</li><li>Experience working in a highly distributed company</li><li>Open minded and&nbsp;<strong>always&nbsp;learning</strong></li></ul>                    </div>                            <h2>                About Citrusbyte            </h2>            <div><p><strong><a href='https://citrusbyte.com/' rel='nofollow'>Citrusbyte</a></strong>&nbsp;is a software consultancy that believes in using simple tools to solve all types of problems. Our teams&nbsp;work closely with clients to create products of great quality and improve existing ones. We have considerable experience building custom systems for both startups and enterprises - check out our <a href='https://citrusbyte.com/portfolio' rel='nofollow'>portfolio</a>&nbsp;for more information about our clients.</p><p>We strongly advocate minimalism and this is represented in the tools we choose to work with. Every team gets to decide their own stack depending on the requirements of the project.</p><p>Our main offices are in Los Angeles and New York, but we work remotely with people from all around the world.</p>            </div>                                <h2>Benefits</h2>                            <div>                                 Open Vacation Policy                            </div>                            <div>                                 Hardware                            </div>                            <div>                                 Health, Vision, Dental Benefits                            </div>                            <div>                                 Fitness Reimbursement Program                            </div>                            <div>                                 Flexible Work Hours                            </div>                            <div>                                 Paternity &amp; Maternity Leave                            </div>                            <div>                                 Education Allowance                            </div>                            <div>                                 Conference Assistance                            </div>                            <div>                                 Annual Company Retreat                            </div>                    "
-  },
-  {
-    "id": "SmXE33ByRgO_bR37BF8ApA",
-    "url": "http://jobmote.com/jobs/6976-java-developer-remote",
-    "title": "JAVA developer Remote",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG:surround``remot W OR(applic,candid) 4W OR(consid,consider)",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:java-developer/java/39",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/2",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=2, c=0, mobile=1, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=41, gamedev=0, php=0, embedded=0, frontend=25}",
-      "REMOTE1/50",
-      "TECH1/java",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 24, 2018 10:23:51 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "JAVA developer Remote - Jobmote<div><div><h2>JAVA developer Remote</h2><h5>A-Line Staffing Solutions</h5></div></div><div><div><div><div></div></div><div><div><div><p>Job Description</p><p>REMOTE OR GLEN ALLEN VA</p><p>8 mths with right to hire</p><p>Description:<br>This position serves as an expert technical and industry resource to management, clients and development staff in new uses of information technology and in all phases of major system and subsystem development. Provides consultation on internal and industry IT technical and business process capabilities including leadership in the identification and recommendation of new IT opportunities. Formulates, contributes to, and directs task identification, work effort estimates, and work schedules for research, prototype, and proof-of-concept IT activities. Directs and participates in software/hardware releases and installation tasks. Essential Functions:- Analyze problems and program in two or more programming language/platforms. - Understand and develop functional and non-functional requirements for a system.- Work with multiple programming frameworks.- Develop, test and maintain code using software development methodology and appropriate technologies for the system being used.- Integrate systems to databases and other applications and consume or produce SOAP or REST based services, etc. Agile, DevOPS and Cloud:- Proficient in automated testing strategies, including TDD.- Understand advanced concepts of Containers, Micro-Services, Continuous Integration.- Understand Cloud computing concepts and how to build Cloud deployable application.- Perform load and performance testing on the application and do regular performance tuning.</p><p>Requirements/Certifications:<br>While this is not a contract to hire position, we would like to retain the right to hire this individual; therefore, the candidate must not require H1-B sponsorship.</p><p>The position is located in Glen Allen, VA. Remote candidates will be considered for those that have 2+ years of experience working remotely for another company.</p><p>5+ years of programming experience. Strong working knowledge of modern programming languages including Java and at least one Javascript framework (e.g. Angular, Vue.js, React). Critical thinker. Demonstrated problem solving techniques. Strong verbal and written communication skills. IT Bachelors: computer and Information Science (Required)</p><p>The following are not required, but would be highly valued in a candidate. Experience working for a PBM (Pharmacy Benefits Manager) company. Experience writing and maintaining MS SQL Server stored procedures.</p><p></p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "IQXtFNlgQcKZRKIA8-k5nQ",
-    "url": "http://jobmote.com/jobs/6971-full-stack-cloud-software-engineer-on-site-or-remote",
-    "title": "Full Stack Cloud Software Engineer (On site or Remote )",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:artificial-intelligence/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:c/c/10",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:k/t/w:gradle/java/13",
-      "DBG_TECH1:k/t/w:hadoop/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:maven/java/13",
-      "DBG_TECH1:k/t/w:python/python/2",
-      "DBG_TECH1:k/t/w:scala/java/3",
-      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=0, c=10, mobile=1, go=8, nodejs=1, bigdata-ml=10, ruby=0, apple=0, java=31, gamedev=0, php=0, embedded=0, frontend=1}",
-      "REMOTE1/100",
-      "TECH1/java",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "java"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 24, 2018 10:23:46 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Full Stack Cloud Software Engineer (On site or Remote ) - Jobmote<div><div><h2>Full Stack Cloud Software Engineer (On site or Remote )</h2><h5>Verticalmove, Inc.</h5></div></div><div><div><div><div></div></div><div><div><div><p>Job Description</p><p>We are building v1 greenfield solutions that have established our company as the leading Data Warehouse as a Service, Advanced Analytics as a Service, and Data Lake as a Service provider in the world. We've assembled a leading team of technologists that leverage technologies such as Docker, Kubernetes, Mesosphere, AWS/OpenStack, HashiCorp tools (Vagrant, Packer), Ansible etc in one of the largest deployments in the world. </p><p><strong>Job Responsibilities:</strong> </p><p>• You must be able to design, develop, document and implement software leveraging agile and CI/CD methodologies.<br>• Comfortable in a team environment that is highly collaborative and places strong emphasis on peer review.<br>• You are able to engineer applications and web services that can run in the cloud, on premise or in hybrid environments.<br>• You have a strong passion for developing incredibly simple yet highly functional interfaces.<br>• You have experience with infrastructure virtualization technology including Mesos and Kubernetes.<br>• You have experience with container based technology, specifically Docker.<br>• You must have experience with SQL and NoSQL technologies and can leverage them to develop new products / solutions.<br>• You are knowledgeable with open source tools and technologies and can use / extend them where appropriate to develop solutions.</p><p><strong>Required Qualifications:</strong><br>- BS with 8+ years of related experience or US Master's with 6 years of experience<br>• Agile (Scrum, Kanban, Lean) and Test Driven Development<br>• Languages: Java, Scala, Golang, Python, or C/C . Javascript a plus but not required.<br>• Building SOA based systems a must.<br>• Building and/or leveraging distributed systems.<br>• Big Data - Hadoop (HDFS, YARN) and Kafka experience a plus.<br>• RDBMS (MySQL, PosgreSQL, etc,) and SQL.<br>• RESTful API development.<br>• Public Cloud - AWS, Private Cloud - Openstack, VMWare.<br>• Containerization technology - Docker.<br>• Virtualizaiton software - Mesos.<br>• Building and leveraging CI/CD pipelines.<br>• Build tools - Gradle, Maven, make.<br>• Github.<br>• Continuous Integration solutions such as Jenkins, TeamCity or Bamboo.<br>• CI/CD tools: Jenkins, Travis CI.</p><p>Company DescriptionYou're the definition of a true technologist. You use words like INVENT, INNOVATE and DISRUPT. You get excited not about today's technology, but the future of Augmented Reality, Virtual Reality, Robotics and Applied Sciences. Verticalmove is responsible for building what could be the coolest innovation lab in Seattle, perhaps in the entire United States. Founded and financed by a Fortune 100 brand that produces more than $50.0 billion in revenue, and produces $5.0 billion in annual profit, there is no shortage of funding. </p><p>Here are some of the exciting technologies that you'll get to work with: </p><p>• Photogrammetry<br>• Artificial Intelligence<br>• HoloLens (AR/VR)<br>• Robotics<br>• 3D Printing<br>•ARKit/ARCore</p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
   }
 ]
 }
