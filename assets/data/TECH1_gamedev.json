@@ -758,47 +758,6 @@
     "published": "Apr 30, 2018 9:16:43 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "JOB TYPE: Full time<br /><br />LOCATION: <br />Remote<br />Anywhere in<br />North America<br /><br />EXPERIENCE: intermediate<br /><br />COMPANY: Ghostly Bear Games; 75-100 employees; 75-100% remote;<br /><br />SKILLS: <br />• Video Game Development<br />• Programming<br /><br />Ghostly Bear Games (GBG) is seeking our first Senior Engineer to help design and implement an exciting multiplayer game utilizing a combination of modern video game engines and custom code. We are a distributed company so you will be working from home with a multidisciplinary team, digitally attending daily planning meetings, and using collaboration tools to drive your projects forward. The position requires a highly collaborative person, excited to explore multiple technologies relevant to service-based 3D multiplayer games and hands on development of the underlying game systems. As a full stack developer, you will be a key contributor working across both game client and server code as well as building web based tools and interfaces. Your contributions will also enable non technical teams to rapidly produce high quality assets so the company can meet our goals. We feel building a team with a wide set of backgrounds and experiences is key to a healthy and long lived business, so GBG is focused on actively recruiting a diverse workforce.<br /><br />Responsibilities:<br />Leadership - You will provide leadership by establishing technical standards, processes, and driving build vs. buy decisions.<br /><br /><br /><br />Planning - Collaborate with the other teams to define engineering stories for game features, tools, and infrastructure with an accurate estimation of development effort.<br /><br /><br /><br />Design - You will design complex game and infrastructure systems including multiplayer networking, data platforms, and 3D art pipelines.<br /><br /><br /><br />Programming - Contribute to development across multiple languages and platforms with a focus on simplicity, maintainability, and security.<br /><br /><br /><br />Accountability - You will ensure on time delivery of projects through regular communication and collaboration with other teams.<br /><br /><br /><br />Quality - Craft application frameworks, design patterns, and continuous integration workflows to increase the quality and security of our games.<br /><br />Basic Qualifications:<br />The ability to work in multiple programming languages and frameworks depending on the feature or engine (e.g. C++, C#, Python, JavaScript).<br /><br />Strong familiarity with at least one game engine (e.g. Unreal, Unity, Lumberyard), source code management and software lifecycle challenges.<br /><br />Highly communicative and inquisitive, driving conversations should be the default.<br /><br />Direct experience developing and supporting game systems and 3D toolsets.<br /><br />Who We Are:<br />Ghostly Bear Games is a small distributed game studio, passionate about building games players want to make their own through creativity and competition. Our employees value developing trust through open discussions, rigorous feedback, and playful exploration."
-  },
-  {
-    "id": "Y3ZmYYOFTOSNtaZAGeie1Q",
-    "url": "https://angel.co/veraxis/jobs/62810-game-programmer",
-    "title": "Game Programmer",
-    "tags": [
-      "DBG:surround``fulltim 4N remot",
-      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/2",
-      "DBG_TECH1:k/t/w:unity3d/gamedev/16",
-      "DBG_TECH1:k/t/w:unity3d/mobile/10",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=10, go=0, nodejs=0, bigdata-ml=2, ruby=0, apple=0, java=0, gamedev=16, php=0, embedded=0, frontend=0}",
-      "Full Time",
-      "REMOTE1/100",
-      "Remote OK",
-      "San Francisco",
-      "Software Engineer",
-      "TECH1/gamedev",
-      "TITLE1/dev",
-      "TZ/unknown",
-      "Unity3D"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "gamedev"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Apr 25, 2018 11:19:57 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div><h2>Game Programmer at VerAxis</h2><div>San Francisco, Remote · Full Time</div><div></div></div><div><div>Skills</div><div>Unity3D</div><div>Compensation</div><div>$90K–$130K<br>1.0%–2.5%</div><div>Visa Sponsorship</div><div>Not available</div></div><h3>Job Description</h3><div><p>Great hardcore game coding skills (particularly Unity3d and multiplayer / 2D environments). Capable of tackling big projects whilst getting things done on time. </p><p>A highly creative yet robustly analytical mindset is sought for. Strong experience in game data analysis and machine learning will be highly advantageous, as will be a research level background in serious or educational games with a particular interest in learning metrics and adaptive teaching technology for game based learning.</p></div>"
   }
 ]
 }
