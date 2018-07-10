@@ -1,6 +1,38 @@
 {
  "items": [
   {
+    "id": "EphGJJcQQ8Ghr9MSlV_Ebw",
+    "url": "http://jobmote.com/jobs/15572-sr-aws-redshift-developer-or-architect-remote",
+    "title": "Sr. AWS/Redshift Developer or Architect(Remote)",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/dbms",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 5, 2018 2:21:28 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Technology: Sr. AWS/Redshift Developer or Architect.</p><p>Loction: Irvin, CA or Remote</p><p>We have a urgent requirement for Sr. AWS/Redshift Developer or Architect. 1-2 years of Redshift Admin experience will also work.</p><p>Need to have strong Database experience.</p><p>This is a Remote position, candidate could work out of any location with occasional paid travel to Irvin, CA.</p><p>&quot;CYMA SYSTEMS INC is an Equal Opportunity Employer (EOE). Qualified applicants are considered for employment without regard to age, race, color, religion, sex, national origin, sexual orientation, disability, or veteran status.&quot;</p><ul><li>provided by Dice Sr. AWS/Redshift Developer or Architect,strong Database experience </li></ul></div></div><div></div></div></div>"
+  },
+  {
     "id": "KExmlC1aTky8nvGduKMU_A",
     "url": "https://stackoverflow.com/jobs/194611/senior-server-engineer-imajion-co?a=13gwoT0mOaWY",
     "title": "Senior Server Engineer at Imajion Co (Syracuse, NY) ",
@@ -33,6 +65,43 @@
     "published": "Jun 28, 2018 12:25:04 AM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "                                    About this job                                                                                                                            <span>Job type: </span>                                        <span>Full-time</span>                                                                                                                <span>Experience level: </span>                                        <span>Senior</span>                                                                                                                <span>Role: </span>                                        <span>Backend Developer, Graphics/Game Developer</span>                                                                                                                                                                        <span>Industry: </span>                                        <span>Augmented Reality, Computer Software, Virtual Reality</span>                                                                                                                <span>Company size: </span>                                        <span>1-10 people</span>                                                                                                                <span>Company type: </span>                                        <span>VC Funded</span>                                                                                                                                        Technologies                                            <a rel='nofollow'>webrtc</a><a rel='nofollow'>kurento</a><a rel='nofollow'>media</a><a rel='nofollow'>c++</a><a rel='nofollow'>rtsp</a>                                                                Job description                <p><strong>Job Description:</strong></p><p>Imajion is developing industry leading communications solutions for the Architecture, Engineering and Construction sector leveraging Mixed Reality technology such as the HoloLens.&nbsp; Come help us build the first digital teleportation tool for AEC and make your mark in the communications technology landscape with mixed reality.</p><p><strong>Responsibilities:</strong></p><p>Integration, adaptation, and extension of Kurento Media Server capabilities to facilitate Mixed Reality usage scenarios.</p><p>Architecting Media Server back end services in support of high density client connections consisting of hundreds of simultaneous video/voice connections that will also carry composited Virtual 3D content.</p><p>Mentor and help us envision where the future of communications is headed, particularly with respect to MR and VR.</p><p><strong>Requirements:</strong></p><p>Familiarity with Kurento Media Server or similar Media Server implementations.</p><p>Deep understanding of video streaming and associated protocols such as WebRTC, RTSP, Video Over IP and like communications streaming systems.&nbsp;</p><p>Experience with video compositing (2D a must, 3D a bonus).</p><p>Recent extensive C++ development experience used to adapt and extend Media Server solutions.</p>                                                                                                                                        <a href='https://stackoverflow.com/jobs/apply/194611?reset=False&amp;ra=13gwoT0mOaWY&amp;oqs=a%3D13gwoT0mOaWY' rel='nofollow'>Apply now</a>                                                                                                    <a rel='nofollow'>Ask a question</a>                                                                                                                                                                                                Benefits                    <ul>                            <li>                                <span></span>                                <span>401k</span>                            </li>                            <li>                                <span></span>                                <span>health insurance</span>                            </li>                            <li>                                <span></span>                                <span>work remotely</span>                            </li>                            <li>                                <span></span>                                <span>family time off</span>                            </li>                    </ul>                "
+  },
+  {
+    "id": "ywh7XXuLTvik7L0c53UOyA",
+    "url": "https://whereverjobs.com/listing/3314/operations-admin-team-member",
+    "title": "Operations Admin Team Member",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:maven/java/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=13, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/dbms",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 27, 2018 5:02:10 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Operations Admin Team Member</h3><div>Company: Relationship Development<br><br></div><div>                                <div><span>Doyou LOVE getting things DONE? Do you love the feeling of checking those boxesoff your to do list? Do you love to see your good work come to life in theworld? Do you love to implement? Does figuring out the “HOW” of how to getsomething done excite you? Do you thrive on getting things executed? Do youLOVE systems and processes for streamlining tasks? <p></p></span></div><div><br></div><div></div><div><span>Doyou get tremendous satisfaction from seeing people’s lives become betterbecause of work that YOU did? Do you LOVE a fast-paced, dynamic environment whereyou can get LOTS of things done at once? Do you get bored when there’s only ONEthing to do? DO you LIGHT up when you get to move a whole bunch of stuffforward to completion?</span><br></div><div></div><div><span>Areyou someone that is looking for a meaningful career and not just another job?An organization where you aren’t a number, but instead a valued teammate? Acareer that is as rewarding as it is challenging? If your head is currentlynodding yes to all of these then this may be the long term career opportunityyou have been searching for.&nbsp;</span><br></div><div></div><div><span><br></span></div><div><b>ROLE</b><p></p></div><div><br></div><div><span>We are looking for a key member of our operations team, anoperations implementation team member. In this position, you will beresponsible for executing and implementing operations tasks in support of ourprograms, events and marketing.&nbsp;</span><br></div><div><span>The operations team member is an implementation role thathandles the tasks surrounding the creation, delivery, maintenance, and supportof our operations, programs, and events. This team member must keep our missionfront and center while executing the day-to-day tasks that keep our systems andprocesses moving forward in a timely, orderly, and efficient manner.</span><span>&nbsp;</span></div><div></div><div><br></div><div><span>The operations team member will work with the OperationsTeam to standardize processes and procedures to ensure scalability.</span><br></div><div><span>This means executing within the daily operations,communicating bottle-necks and holes in processes so they can be repaired,communicating with all team members, an ensuring that there are clear pathwaysto results.<p></p></span></div><div><br></div><div><b>Responsibilities</b></div><div><br></div><div><span>AssistProject Managers with all work flow to keep things moving forward so nothinggets dropped. <p></p></span></div><div><br></div><div><span>Implementand execute on all operations tasks that need to get done to support ourdelivery of programs and events. <p></p></span></div><div><br></div><div><span>Creating,editing, proofreading documents.<p></p></span></div><div><br></div><div><span>Navigatingcalendars, call schedules, timelines, and project plans.<p></p></span></div><div><br></div><div><span>Following upon outstanding issues with vendors, suppliers, and event sites.<p></p></span></div><div><br></div><div><span>Assistingwith product, site, and logistical research.<p></p></span></div><div><br></div><div><span>Communicatingand answering questions for team members.<p></p></span></div><div><br></div><div><span>Updating andmaintaining SOPs and assisting in the creation and maintenance of our onlinelearning base.<p></p></span></div><div><br></div><div><span>Work hand inhand with the project managers daily, to ensure that nothing gets missed andremove any blocks so that things can keep moving forward. <p></p></span></div><div><br></div><div><span>Bring yourRESOURCEFUL and PASSIONATE can-do attitude to anything that needs to get donefor this organization!<p></p></span></div><div><br></div><div><span>An expert increating and maintaining systems and processes to improve efficiencies, fillholes and catch what got missed so it doesn’t happen again. <p></p></span></div><div><br></div><div><span>Able toadapt quickly and explore new frontiers, as well as being able to see newopportunities<p></p></span></div><div><br></div><div><span>Able toorganize and execute on multiple operations tasks simultaneously<p></p></span></div><div><br></div><div><span>Strongbackground in executing and getting things done that you’ve not done before, asyou will be faced with juggling many tasks and solving challenges every singleday <p></p></span></div><div><br></div><div><span>Upholdingthe commitments, we make <p></p></span></div><div><br></div><div><span>Bringing astandard of excellence. Having a “whatever it takes” approach. And being a teamplayer who loves to help other team members get stuff done!<p></p></span></div><div><br></div><div><span>Keep theProject Management tool moving smoothly and keep it organized. <p></p></span></div><div><br></div><div><span>Keep SOPsupdated and create new ones where SOPs don’t exist yet. <p></p></span></div><div><br></div><div><span>Stay currentand available in SLACK, our messaging app, during your working hours.&nbsp;<p></p></span></div><div><br></div><div><span><b>RESULTS</b></span><br></div><div><span>Take stuff off of the plates of the owners and projectmanagers to keep them moving forward<p></p></span></div><div><br></div><div><span>If a project is stuck or tasks are not getting done, removethe log-jam and keep things moving forward <p></p></span></div><div><br></div><div><span>Be resourceful and bring your unique brilliance to helpRelationship Development have the impact we need to have.<p></p></span></div><div><br></div><div><span>Create that peace of mind in the team that we know that“you’ve got this”!</span><br></div><div><span><p></p></span></div><div></div><div><br></div><div><span><b>REQUIREMENTS</b></span></div><div><br></div><div><span>At least 2 years’ experience in operations andimplementation<p></p></span></div><div><br></div><div><span>Excellent skills in at least one of the majorproject management software platforms (we use Asana)<p></p></span></div><div><br></div><div><span>Technology maven (you do awesome with yourtech and easily pick up new tech)<p></p></span></div><div><br></div><div><span>You take 100% personal responsibility foryour life and your outcomes<p></p></span></div><div><br></div><div><span>ABSOLUTE Integrity<p></p></span></div><div><br></div><div><span>Do “whatever it takes” attitude<p></p></span></div><div><br></div><div><span><b>Perks:</b><p></p></span></div><div><br></div><div><span>Compensation: This full time position has a salary of $33,000 per year.<p></p></span><br></div><div><span>Remote:</span><span> This is a remote position, which allows you to workfrom anywhere.</span></div><div><br></div><div><span>*This job is notall-inclusive and certain activities, duties, or responsibilities may berequired of the employee as needed.</span><br></div><div></div><div><br></div>            </div><div>For the full role description and application, click here: <a href='https://forms.relationshipdevelopment.org/operations-team-member-role-app' rel='nofollow'>forms.relationshipdevelopment.org/operations-team-member-role-app</a></div>"
   },
   {
     "id": "KR7gLvt_SdSVMRdAyZlTMA",
@@ -237,6 +306,75 @@
     "published": "Jun 23, 2018 3:22:01 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "Partial Remote - SQL Server DBA in Hackensack, NJ - Jobmote<div><div><h2>Partial Remote - SQL Server DBA in Hackensack, NJ</h2><h5>SilverSearch, Inc.</h5></div></div><div><div><div><div></div></div><div><div><div><p>Must live locally to go in the officeMust send complete resume with full contact detailsUS Citizens/Green Card Holders onlyMust have an expertise in:3+ years experience in relational database design and development5+ years experience in SQL database administration in commercial production setting2+ years experience in Oracle database administrationNoSQL administration experience a plus (MongoDB, ElasticSearch..)Expert SQL abilities and use of tools and platforms and troubleshooting skillsMust demonstrate a clear mastery of the logical and physical database design (for both transactional and data warehouse) and data normalization conceptsMust have extensive hands-on experience: T-SQL, UDF, UDAF, View, Trigger, Stored Proc, SSIS, SSAS, SSRS, PowershellStrong Unix and Linux system administration skills and scriptingSend your resume with full contact information - phone and email?Your background will be kept confidential. - provided by Dice </p><p>SQL Server DBA<br></p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
+  },
+  {
+    "id": "rO6ngap7Rdyepx6eMT86YA",
+    "url": "https://www.remotejobr.com/jobs/operations-admin-team-member",
+    "title": "Operations Admin Team Member",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:maven/java/13",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=13, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/dbms",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 22, 2018 9:45:30 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div>                <br>                <div><p></p>                <div><a title=&quot;Share to Twitter&quot; rel='nofollow'></a><a title=&quot;Share to Facebook&quot; rel='nofollow'></a><a title=&quot;Share to Google+&quot; rel='nofollow'></a><a title=&quot;Share to Tumblr&quot; rel='nofollow'></a><a title=&quot;Share to Pinterest&quot; rel='nofollow'></a><a title=&quot;Share to Email&quot; rel='nofollow'></a><a title=&quot;Share to Linkedin&quot; rel='nofollow'></a><a title=&quot;Share to Reddit&quot; rel='nofollow'></a><a title=&quot;Share to Hacker News&quot; rel='nofollow'></a></div>            <h2>Operations Admin Team Member</h2>                            <p>      </p><p>  <strong>Headquarters:</strong> Bucks County, PA    <br><strong>URL:</strong> <a href='http://RelationshipDevelopment.org' rel='nofollow'>http://RelationshipDevelopment.org</a></p><div><span>Doyou LOVE getting things DONE? Do you love the feeling of checking those boxesoff your to do list? Do you love to see your good work come to life in theworld? Do you love to implement? Does figuring out the “HOW” of how to getsomething done excite you? Do you thrive on getting things executed? Do youLOVE systems and processes for streamlining tasks? <p></p></span></div><div><br></div><div></div><div><span>Doyou get tremendous satisfaction from seeing people’s lives become betterbecause of work that YOU did? Do you LOVE a fast-paced, dynamic environment whereyou can get LOTS of things done at once? Do you get bored when there’s only ONEthing to do? DO you LIGHT up when you get to move a whole bunch of stuffforward to completion?</span><br></div><div></div><div><span>Areyou someone that is looking for a meaningful career and not just another job?An organization where you aren’t a number, but instead a valued teammate? Acareer that is as rewarding as it is challenging? If your head is currentlynodding yes to all of these then this may be the long term career opportunityyou have been searching for.&nbsp;</span><br></div><div></div><div><span><br></span></div><div><b>ROLE</b><p></p></div><div><br></div><div><span>We are looking for a key member of our operations team, anoperations implementation team member. In this position, you will beresponsible for executing and implementing operations tasks in support of ourprograms, events and marketing.&nbsp;</span><br></div><div><span>The operations team member is an implementation role thathandles the tasks surrounding the creation, delivery, maintenance, and supportof our operations, programs, and events. This team member must keep our missionfront and center while executing the day-to-day tasks that keep our systems andprocesses moving forward in a timely, orderly, and efficient manner.</span><span>&nbsp;</span></div><div></div><div><br></div><div><span>The operations team member will work with the OperationsTeam to standardize processes and procedures to ensure scalability.</span><br></div><div><span>This means executing within the daily operations,communicating bottle-necks and holes in processes so they can be repaired,communicating with all team members, an ensuring that there are clear pathwaysto results.<p></p></span></div><div><br></div><div><b>Responsibilities</b></div><div><br></div><div><span>AssistProject Managers with all work flow to keep things moving forward so nothinggets dropped. <p></p></span></div><div><br></div><div><span>Implementand execute on all operations tasks that need to get done to support ourdelivery of programs and events. <p></p></span></div><div><br></div><div><span>Creating,editing, proofreading documents.<p></p></span></div><div><br></div><div><span>Navigatingcalendars, call schedules, timelines, and project plans.<p></p></span></div><div><br></div><div><span>Following upon outstanding issues with vendors, suppliers, and event sites.<p></p></span></div><div><br></div><div><span>Assistingwith product, site, and logistical research.<p></p></span></div><div><br></div><div><span>Communicatingand answering questions for team members.<p></p></span></div><div><br></div><div><span>Updating andmaintaining SOPs and assisting in the creation and maintenance of our onlinelearning base.<p></p></span></div><div><br></div><div><span>Work hand inhand with the project managers daily, to ensure that nothing gets missed andremove any blocks so that things can keep moving forward. <p></p></span></div><div><br></div><div><span>Bring yourRESOURCEFUL and PASSIONATE can-do attitude to anything that needs to get donefor this organization!<p></p></span></div><div><br></div><div><span>An expert increating and maintaining systems and processes to improve efficiencies, fillholes and catch what got missed so it doesn’t happen again. <p></p></span></div><div><br></div><div><span>Able toadapt quickly and explore new frontiers, as well as being able to see newopportunities<p></p></span></div><div><br></div><div><span>Able toorganize and execute on multiple operations tasks simultaneously<p></p></span></div><div><br></div><div><span>Strongbackground in executing and getting things done that you’ve not done before, asyou will be faced with juggling many tasks and solving challenges every singleday <p></p></span></div><div><br></div><div><span>Upholdingthe commitments, we make <p></p></span></div><div><br></div><div><span>Bringing astandard of excellence. Having a “whatever it takes” approach. And being a teamplayer who loves to help other team members get stuff done!<p></p></span></div><div><br></div><div><span>Keep theProject Management tool moving smoothly and keep it organized. <p></p></span></div><div><br></div><div><span>Keep SOPsupdated and create new ones where SOPs don’t exist yet. <p></p></span></div><div><br></div><div><span>Stay currentand available in SLACK, our messaging app, during your working hours.&nbsp;<p></p></span></div><div><br></div><div><span><b>RESULTS</b></span><br></div><div><span>Take stuff off of the plates of the owners and projectmanagers to keep them moving forward<p></p></span></div><div><br></div><div><span>If a project is stuck or tasks are not getting done, removethe log-jam and keep things moving forward <p></p></span></div><div><br></div><div><span>Be resourceful and bring your unique brilliance to helpRelationship Development have the impact we need to have.<p></p></span></div><div><br></div><div><span>Create that peace of mind in the team that we know that“you’ve got this”!</span><br></div><div><span><p></p></span></div><div></div><div><br></div><div><span><b>REQUIREMENTS</b></span></div><div><br></div><div><span>At least 2 years’ experience in operations andimplementation<p></p></span></div><div><br></div><div><span>Excellent skills in at least one of the majorproject management software platforms (we use Asana)<p></p></span></div><div><br></div><div><span>Technology maven (you do awesome with yourtech and easily pick up new tech)<p></p></span></div><div><br></div><div><span>You take 100% personal responsibility foryour life and your outcomes<p></p></span></div><div><br></div><div><span>ABSOLUTE Integrity<p></p></span></div><div><br></div><div><span>Do “whatever it takes” attitude<p></p></span></div><div><br></div><div><span><b>Perks:</b><p></p></span></div><div><br></div><div><span>Compensation: This full time position has a salary of $33,000 per year.<p></p></span><br></div><div><span>Remote:</span><span> This is a remote position, which allows you to workfrom anywhere.</span></div><div><br></div><div><span>*This job is notall-inclusive and certain activities, duties, or responsibilities may berequired of the employee as needed.</span><br></div><div></div><div><br></div><p><strong>To apply:</strong> For the full role description and application, click here: <a href='https://forms.relationshipdevelopment.org/operations-team-member-role-app' rel='nofollow'>https://forms.relationshipdevelopment.org/operations-team-member-role-app</a></p>    <p></p>        <p>            </p></div>        <br>            </div><div>            </div>"
+  },
+  {
+    "id": "7AdA9BNaRV-gL68lmoBIWw",
+    "url": "https://feeds.feedblitz.com/~/553959312/0/problogger/jobs~Freelance-Remote-Database-Administration-Writer/",
+    "title": "Freelance Remote Database Administration Writer",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/dbms",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 22, 2018 3:00:00 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2>Freelance Remote Database Administration Writer</h2><div>Company: Wpromote</div>Location: U.S.<br><br>Job Type: Freelance<div>  <h4>Description</h4>  <div>                    <p>We are looking for a detail-oriented, efficient, and reliable remote database administration expert to add to our team!</p><p><strong>You Will Be</strong></p><ul><li>Communicating directly with and taking direction from Wpromote’s SEO and Content Marketing Managers</li><li>Writing monthly batches of content that will include technical and informative blogs about our client's products and services plus industry news</li><li>Performing research on your client and becoming a brand expert</li><li>Performing research on your assigned monthly topics to create unique, quality content</li><li>Utilizing SEO best practices in your writing including the body, headings, and titles</li><li>Adhering to brand guides, matching the writing style of our client(s), which is technical in nature, and using verbiage that speaks to our target market(s)</li><li>Reviewing and proofing your work to ensure your copy is high-quality, clean, and error-free</li><li>Making edits and revisions as needed</li></ul><p><strong>You Must Have</strong></p><ul><li>Bachelor's degree; English, Writing, or related field preferred</li><li>Extensive experience writing on database administration — we are looking for an industry expert</li><li>Experience with remote DBA, operating system support, database and server monitoring, and applications support for Oracle EBS, Exchange, SharePoint, and Microsoft Business Intelligence</li><li>The lingo down of this niche market; knowledge about the industry and the ability to deliver high-level news</li><li>Knowledge of SEO best practices and experience writing SEO-optimized copy</li><li>Solid MS Office skills</li><li>Proven experience writing to different target audiences and adjusting your writing style as needed</li><li>The capacity to answer emails in a prompt manner and occasionally talk on the phone (reminder: This is a remote/freelance position)</li></ul>          </div>                <h4>Application Instructions</h4>    <div>                            If you feel like you’d be great fit for this role, we’d like to hear from you! Apply by emailing <span>[email&nbsp;protected]</span>, and please include the following in your application (failure to do so will result in not being considered for the position):<br><br>•    “DBA Writer” in the email subject line<br>•    Your résumé<br>•    Cover letter explaining why you would be the ideal writer for our client <br>•    3-5 relevant writing samples <br><br><br>We’re looking forward to hearing from you!                </div>          </div>"
   },
   {
     "id": "ee-d2GEhSvGN0JvE0sCSTA",
@@ -516,58 +654,6 @@
     "published": "May 18, 2018 11:22:54 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "Database Developer-Remote - Jobmote<div><div><h2>Database Developer-Remote</h2><h5>Vector Solutions</h5></div></div><div><div><div><div></div></div><div><div><div><p>Vector Solutions is an award winning, provider of cutting edge, technology-based training solutions for a range of markets including Architecture, Engineering, Construction, Industrial, Public Safety, IT, and Project Management. Our team members are dedicated, interesting, passionate, and results-oriented, and they're committed to ensuring that all clients receive only the best online learning solutions and world class customer service. </p><p>Vector Solutions is seeking a mid-level to senior Development DBA to support our multi-application databases. The optimal candidate would have some experience with C# and ASP.Net application development as well as performance tuning skills. </p><p><strong>Responsibilities:</strong>- Develop intimate knowledge of our enterprise systems underlying data structure;- Work with stake holders to understand data processing requirements- Create and run ad hoc SQL queries; provide organized, formatted query results to business users- Assist with data structure development and refactoring- Perform code reviews to ensure efficient database code.- Help in troubleshooting issues and providing technical solutions<strong>Requirements:</strong>- 4+ years of MS SQL Server programming experiencewriting complex queries, stored procedures etc.- C# development experience a plus but not mandatory- 4+ years of experience designing queries that can be consumed by various reporting engines- Ability to think conceptually and logically about both data and process- Good writing skills for general communication and for writing process documentation- Ability to communicate and work effectively with others- Ability to function in a high-volume environment<strong>Benefits:</strong>- Medical, dental and vision coverage- 401(k) matching- Generous paid time off- 10 paid holidays- Tuition reimbursement- Company social events</p><p></p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "bg37h2bKRuS91TGVCuUBuw",
-    "url": "https://weworkremotely.com/remote-jobs/magic-fuel-games-mobile-server-engineer",
-    "title": "Magic Fuel Games: Mobile Server Engineer",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
-      "DBG_TECH1:k/t/w:android/java/1",
-      "DBG_TECH1:k/t/w:android/mobile/2",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:c++/c/8",
-      "DBG_TECH1:k/t/w:google-app-engine/java/8",
-      "DBG_TECH1:k/t/w:ios/apple/2",
-      "DBG_TECH1:k/t/w:ios/mobile/2",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:unity3d/gamedev/8",
-      "DBG_TECH1:k/t/w:unity3d/mobile/5",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=5, c=10, mobile=9, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=2, java=9, gamedev=8, php=0, embedded=0, frontend=2}",
-      "REMOTE1/50",
-      "TECH1/c",
-      "TECH1/java",
-      "TECH1/mobile",
-      "TITLE1/dbms",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "c",
-      "java",
-      "mobile"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 3, 2018 5:48:27 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div>  <div>    <h2>Mobile Server Engineer</h2>      <h4>Posted May  3</h4>    <h3>      <span>Magic Fuel Games</span><br>      <span>Headquarters: San Leandro, CA</span><br>        <a href='https://magic-fuel-games.breezy.hr/p/d8f4db9c0e4f-mobile-server-engineer?source=weworkremotely' rel='nofollow'>https://magic-fuel-games.breezy.hr/p/d8f4db9c0e4f-mobile-server-engineer?source=weworkremotely</a>      <br>      <a rel='nofollow'>View all Magic Fuel Games jobs →</a>    </h3>  </div>    </div>  <div>    <div><span>Who We Are:</span></div><div><br></div><div>Magic Fuel Games is a mobile games startup created by a group of games industry veterans who have created a world-class team to create globally appealing titles. We are deep into development of our debut title and we are looking for an energetic and creative contributor to join us on our journey to launch and beyond.</div><div><br></div><div><span>Who You Are:</span></div><div><br></div><div>You should have a deep understanding of game server technology, and be able to switch effortlessly between prototyping ideas and writing scalable, bug-free production code.</div><div><br></div><div>Our team is small and you will be expected to take a significant part in improving the team's technology and engineering practices as well as implementing features. Day to day you'll be involved in evaluating design proposals for technical feasibility, working on features with designers, fixing bugs and reviewing code. You should expect to be working on aspects of the game that are as diverse as, collaborating with designers to develop highly engaging gameplay to designing and writing the server-side validation to ensure that features can't be easily hacked</div><div><br></div><div>Ideal candidates will have worked on an Android and/or iOS title with a client-server architecture. Unity knowledge is a plus and like all of our hires, you need to be a good team player.</div><div><br></div><div><span>What you’ll work on:</span></div><div><br></div><ul><li>Working within a team to build scalable features for a F2P mobile title</li><li>Optimizing features to ensure that our players are never impacted by load on our game server and database</li><li>Helping to secure the service from cheaters and fraudsters</li><li>Working with client engineers to ensure that features are developed to minimize server load and cost</li><li>Communicating clearly across all disciplines to explain complex problems, potential solutions and their advantages and disadvantages using metrics and evidence to back up points</li></ul><div><span>What you’ll need:</span></div><div><br></div><ul><li>Bachelor’s degree or better in Computer Science or equivalent experience</li><li>Demonstrable experience in building and scaling an online game service</li><li>Solid understanding of networking protocols</li><li>Experience working with cloud services such as AWS, Azure or Google App Engine</li><li>Knowledge of noSQL and SQL databases</li><li>Expert knowledge of javascript, C# or C++</li><li>Understanding of data structures and algorithms and their impact on service quality and cost</li><li>Awareness of the constraints faced by a mobile game and the impact they have on architecture</li><li>Desire to work in a creative, inspired start-up environment</li><li>A passion to continue to improve yourself and those you work with</li><li>Minimum of two years experience</li></ul><div><span>What would be a bonus:</span></div><div><br></div><ul><li>Experience of server engineering especially in javascript</li><li>An expert knowledge of MongdoDB</li></ul><div><span>What we offer:</span></div><div><br></div><ul><li>100% paid medical/dental/vision</li><li>Profit Sharing Plan</li><li>Equity Grants</li><li>Really cool office close to Bart</li><li>Opportunity for remote working from North America or Canada</li></ul>  </div>  <div>    <h4>Apply for this position</h4>    <p><a href='https://magic-fuel-games.breezy.hr/p/d8f4db9c0e4f-mobile-server-engineer?source=weworkremotely' rel='nofollow'>https://magic-fuel-games.breezy.hr/p/d8f4db9c0e4f-mobile-server-engineer?source=weworkremotely</a></p>  </div>"
   }
 ]
 }
