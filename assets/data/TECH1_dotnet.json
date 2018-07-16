@@ -1,6 +1,714 @@
 {
  "items": [
   {
+    "id": "ek_V37pDSuqZ3bFlna96lQ",
+    "url": "http://jobmote.com/jobs/17299-net-developer-50-000-fully-remote-uk-based",
+    "title": ".NET Developer, £50,000 - FULLY REMOTE (UK Based)",
+    "tags": [
+      "DBG:surround``2W( OR(100,fulli,entir), remot)",
+      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:apache-storm/java/8",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=16, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=8, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/Europe"
+    ],
+    "tagsNames1": [
+      "European time zones"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 15, 2018 1:21:25 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>.NET Developer, £50,000 - FULLY REMOTE (UK Based)</strong><br>Austin Fraser are currently supporting a cutting-edge, innovative company taking the UK by storm! They are gaining a large amount of momentum in their market due to the cutting edge, innovative ideas their current developers are creating..... click apply for full job details </p></div></div><div></div></div></div>"
+  },
+  {
+    "id": "mHMY6qKcS--XFE8efC233Q",
+    "url": "http://jobmote.com/jobs/17098-c-developer-for-a-long-term-project-with-some-remote-opportunity",
+    "title": "C# Developer for a long term project with some remote opportunity",
+    "tags": [
+      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/16",
+      "DBG_TECH1:k/t/w:c#/c/8",
+      "DBG_TECH1:k/t/w:c#/dotnet/20",
+      "DBG_TECH1:k/t/w:windows/dotnet/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=60, c=8, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 14, 2018 6:21:04 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>QAT Global, a 20 plus year Omaha based IT Consulting Practice, is seeking a highly skilled C# Developer to join our downtown based crew supporting a leading Global Elevator manufacturer. Position will be based in Omaha and we do allow some remote work. We need someone with solid tech skills and the ability to interface with the clients to ensure the client's needs are clearly defined so we are delivering high quality solutions for the client.</p><p>QUALIFICATIONS:</p><p>3-5+ years of C#, ASP.Net MVC, Windows Forms Crystal Reports, SQL, Oracle</p><p>QAT Global provides a competitive benefits package to include, Medical, Dental, 401k with match, Short/Long Term Disability and Life Insurance.</p><p>Interested candidates send your resume to</p><p>QAT Global provides a comprehensive range of technical and strategic consulting services; we focus on how IT can make a real difference to client's businesses by building in agility, streamlining business processes, integrating data assets in new ways, and transforming technical assets. We also help our clients quickly get to market with new or enhanced products including custom software solutions, web software, desktop software, line of business applications, mobile applications, third-party integration's, e-commerce solutions, content management systems, rich internet applications, and mainframe applications.</p><p>QAT Global is an Equal Opportunity Employer</p><ul><li>provided by Dice C#, ASP.Net, ASP, Windows Forms, MVC, SQL, Crystal Reports, Oracle </li></ul></div></div><div></div></div></div>"
+  },
+  {
+    "id": "2wwtkdbPQCy9v6H3_JISGA",
+    "url": "https://whereverjobs.com/listing/3510/front-end-developer-for-net-cloud-app",
+    "title": "Front-End Developer for .NET Cloud App",
+    "tags": [
+      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/26",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:reactjs/frontend/8",
+      "DBG_TECH1:k/t/w:vue.js/frontend/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=53, c=2, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=51}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 14, 2018 5:02:05 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Front-End Developer for .NET Cloud App</h3><div>Company: OnePager<br><br></div><div>                                <div>Join a high-powered group of people who&nbsp;write amazing graphics softwarefor project planners around the world.&nbsp; Our customers love us because wemake communicating project plans so much easier.&nbsp; We are anagile-methodology company and encourage flexible work arrangements. Most (butnot all) of us are in the Denver area, but we <i><b>all</b></i> work from home and gettogether in small groups when&nbsp;it makes sense.&nbsp; Your job is to be a major contributor on our new SPA cloud app built with anASP.NET Core 2.0 back end.&nbsp; This app is quite&nbsp;challengingbecause our customers expect it to be as powerful as our rich desktop apps.&nbsp; Infact, it's likely that you've never worked on an app like this before.&nbsp; We're looking for someone eager to meet the challenge of putting a high-function graphics application in the cloud.&nbsp; Weare confident that we can get it to market and achieve success, but we could use your expertise especially if you've been down the SPA road and have learned some lessons from experience.</div><div><br></div><div></div><div><b>Minimum Required Skills:</b><br></div><div></div><div></div><div></div><div></div><ul><li>3-5 years experience with C#, JavaScript<br></li><li>Experience with ASP.NET MVC</li><li>Proven skills at software design, coding, unit-testing, troubleshooting,and customer interaction.</li></ul><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div><br></div><div></div><div><b>Desirable Experience:</b><br></div><div></div><div></div><div></div><div></div><div></div><div></div><ul><li>Experience with Single-Page Applications in Angular, React, Vue.js, ...&nbsp;<br></li><li>Experience with .Net Core 2.0<br></li></ul><div><br></div><div><b>Other Job Requirements:</b></div><ul><li>Strong English</li><li>Time zone: Mountain Standard Time (Denver) +- 3 hrs</li></ul><div></div><div></div><div></div><div></div><div></div><div></div><div><br></div>            </div><div>How to apply:<br>E-mail your resume, cover letter, location (country/time zone), and compensation requirements to <a href='mailto:careers@onepager.com' rel='nofollow'>careers@onepager.com</a>. No telephone calls, third parties, or outsourcing proposals, please. Check out what we do at our web site: <a href='http://www.onepager.com' rel='nofollow'>www.onepager.com</a>.</div>"
+  },
+  {
+    "id": "pW5hHVqfRdSM9w3F8TfUjA",
+    "url": "https://stackoverflow.com/jobs/153754/senior-platform-engineer-mindbody-inc?a=PyZfXNCHkv6",
+    "title": "Senior Platform Engineer at MINDBODY, Inc. (San Luis Obispo, CA) ",
+    "tags": [
+      "DBG:surround``OR(pacif, pst, pdt, western, california, losangel, sanfrancisco, paloalto, sanmateo) 3W OR(time,timezon)",
+      "DBG:surround``remot 16W timezon",
+      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:visual-studio/dotnet/8",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=2, other=0, dotnet=24, c=0, mobile=0, go=3, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/America/West"
+    ],
+    "tagsNames1": [
+      "US Pacific time zone"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 100000,
+      "maxValue": 150000,
+      "info": "Equity",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 14, 2018 2:06:14 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2><span>Senior Platform Engineer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior, Lead</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>DevOps</span>                                    </div>                            </div>                    </div>                <div>Company: MINDBODY, Inc. | San Luis Obispo, CA<br></div>                        <h3>Remote details</h3>                        <div>                            <div>                                                                    <div>                                        <span>Preferred Timezone:</span>                                        <span>(GMT-08:00) Pacific Time +/- 4 hours</span>                                    </div>                                                                    <div>                                        <span>Office Location:</span>                                        <span>San Luis Obispo, CA.</span>                                            <span>Employees can also work full time from this office.</span>                                    </div>                                                                    <div>                                        <span>Visa Sponsorship:</span>                                        <span>Yes</span>                                    </div>                                                                    <div>                                        <span>Relocation Assistance:</span>                                        <span>Yes</span>                                    </div>                            </div>                        </div>                    <h3>Technologies</h3><div>chef</div><div>devops</div><div>windows</div><div>docker</div><div>cloud</div>                <h3>Job description</h3>                <div><p><em>San Luis Obispo, CA; San Diego, CA; Austin, TX; Atlanta, GA; Remote for the right candidate</em></p><p></p><p><strong><em>Leveraging technology to improve the wellness of the world</em></strong></p><p><em>From its first iteration, MINDBODY software has turned that vision into the technology that links more than 50,000 health, wellness, and beauty professionals to the millions of clients they serve.&nbsp; With over $2 billion in payments processed each year, MINDBODY leads the global online marketplace for wellness services. </em></p><p><strong>Platform Engineering mission…</strong></p><p>As a senior member of the Platform Engineering team, you’ll help create a roadmap to evolve our ability to provide a scalable &amp; maintainable platform for the MINDBODY software to rely on.&nbsp; You’ll lead complex projects that require multiple areas of technical expertise such as automation, configuration management, and release engineering.</p><p>As a team, we…</p><ul><li>Build systems and tools to enable developers to build, ship, and run their applications at scale</li><li>Focus on reliability and availability of our production systems</li><li>Assist developers with scalability, availability, and incident response</li></ul><p><strong>You own this if you have…</strong></p><ul><li>Demonstrated experience in commercial software development in a globally distributed PaaS/SaaS delivery model</li><li>Strong experience working with container orchestration tools such as Kubernetes or Docker Swarm in Production</li><li>Strong experience working with AWS, GCP, or Azure native services</li><li>Strong experience using source control, unit tests, and continuous delivery pipelines for deploying code</li><li>Experience using Terraform, CloudFormation, or similar infrastructure-as-code tools</li><li>Experience using JavaScript, Python, or Go for integrating with REST APIs</li><li>Experience in designing, analyzing and troubleshooting large-scale distributed systems</li><li>Understanding of service bus/message broker/caching layer architectures</li><li>Understanding of RDBMS &amp; NoSQL database applications</li><li>Understanding of Visual Studio, ASP.NET, and VSTS</li></ul><p><strong>We’ve got you covered…</strong></p><ul><li>MINDBODY has consistently been voted in the top 15 technology companies to work for in the USA. We’ve been featured by Glassdoor, Great Place to Work[1], Outside Magazine, American Heart Association, and AARP as a great workplace.</li><li>Employee stock purchase (ESPP) and restricted stock unit (RSU) program</li><li>20 vacation days per year</li><li>401(k) and health insurance benefits</li><li>Onsite wellness classes and massage therapists</li><li>Onsite childcare</li><li>And much more</li></ul>                </div>            <div>        <a href='https://app.jobvite.com/j?cj=oTHd7fwE&amp;s=Stackoverflow' rel='nofollow'>                        Apply now        </a></div>            <h3>About MINDBODY, Inc.</h3>            <div><p><strong>Leveraging technology to improve the wellness of the world</strong></p><p>Today, we’re the leading global online marketplace for wellness services — and like the speed of technology itself, we’re blazing ahead toward limitless possibilities. In 2016, we were ranked as #14 best places to work in the US.</p>            </div>        "
+  },
+  {
+    "id": "4uDSPaAFRmmMSFqOMIhdrw",
+    "url": "https://remoteok.io/jobs/68027",
+    "title": "Front End Developer with Full-Stack Experience",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:k/t/w:wcf/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=26, c=4, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=6}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 13, 2018 3:59:21 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<td><span><h2>Front End Developer with Full-stack Experience</h2></span><br><span><h3>Bocada LLC</h3></span></td><div><div>Bocada is seeking candidates for a remote Software Development role to augment our growing team. We are a leading IT automation company headquartered near the shores of Lake Washington in Kirkland, WA. Since 2001, Bocada has delivered enterprise data protection software to Fortune 500 companies globally. Through innovative, patented, agentless data collection Bocada eliminates manual backup reporting processes and gives IT managers the tools required to secure their data operations. The Bocada reporting application currently reports on over 4 million backup jobs per day across 15 backup products generating over 40 petabytes of backup data per day. Learn more about us at www.bocada.com.<br><br>The Bocada culture is relaxed but results oriented. We have a fast-paced software development culture where everyone is a decision-maker and owns meaningful outcomes. We not only manage data but we use data every day to set our priorities. Teamwork and in-office interaction is a critical feature of our success. Our employees simplify complex enterprise data challenges for our customers. Help us make, market and deliver the next generation of IT automation software!<br><br>The goal of Bocada software developers is to quickly turn customer requirements into functional features and products. Our best-in-class product is a multi-level distributed application that supports hundreds of thousands of managed clients working with high volumes of data. As part of an innovative, lean, agile engineering team, your work will focus on front end development (MVC, C#, .NET, HTML5 and JavaScript), but you will interact with our full stack (C#, SQL, and WCF). You have proven experience working on modern, commercial quality user interfaces.<br><br>You’ll have an immediate impact on the design, implementation and quality of our products. You will be directly involved in turning customer needs into released products. If you’re ready for big challenges and have the qualifications, we want to talk to you!<p><strong>Location:</strong> Must be within 4 hours of PST.</p><p>See more jobs at <span>Bocada LLC</span></p></div></div>"
+  },
+  {
+    "id": "-s7xFIoMQ0-_p_Gel8wgyw",
+    "url": "http://jobmote.com/jobs/16889-capacity-analyst-remote-work-option",
+    "title": "Capacity Analyst (Remote Work Option)",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=16, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 12, 2018 10:20:50 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>SELECT SOURCE INTERNATIONAL</p><p>Select Source International (SSI) has been serving major corporations for more than 15 years. At SSI, we believe in building a corporation with only the strongest and most capable individuals. Our world-class consultants have the expertise to meet our clients' demands. Here at SSI, we pride ourselves on the fundamental belief that our team is essential to our company's growth. We assist our consultants every step of the way in order to match them to the best possible position for their skills.</p><p><strong>Job Role:</strong> Capacity Analyst (Remote Work Option)</p><p><strong>Location:</strong> Richmond, VA</p><p><strong>Duration:</strong> Long term, C2H for high performers.</p><p><strong>Job Description:</strong></p><p><strong>Job responsibilities</strong></p><ul><li>Minimize the adverse effect on the business of incident and problems caused by capacity related issues in the infrastructure and to proactively prevent the occurrence of such incidents and problems</li><li>Ensure the successful, timely reactive and proactive resolution or initiation of resolution of detected capacity issues, including notification and escalation of high priority issues in infrastructure</li><li>Strong understanding of Server Capacity standards &amp; have clear demarcation on setting capacity recommendations</li><li>Design, Develop and Maintain Periodic Capacity plan - Capacity plan includes monitoring, trending, forecasting and assessing new demand</li><li>Create and Present Comprehensive Capacity Reports on various IT Infrastructure aspects of Data Center to Customers.</li><li>Provide trend analysis and present improvement plans specific to performance and capacity of Systems</li><li>Establish Demand assessment/management - Process ad-hoc and routine demands. Provide Analysis and cost effective recommendations</li><li>Interface with monitoring tools to ensure required capacity monitoring and tools configuration to get output required for capacity analysis are met.</li><li>Good knowledge in presenting different types of charts using MS Excel.</li><li>Good in Excel formulas such as VLOOKUP, COUNT, IF, MATCH, ISNA, IFERROR, PIVOTING etc.</li><li>Good in Excel SORTING, SUBTOTAL and using 'Variables' in formulas.</li><li>Proactive prevention of issues - trend analysis, targeting support action and communication</li><li>Participate in new service offering design reviews; provide input from capacity point of view</li><li>Participate in capacity management process definition, design &amp; maintenance</li><li>Monthly &amp; ad-hoc reporting, capacity related incident review on demand</li><li>Attending performance related issues &amp; provide solutions from the capacity point of view.</li><li>Identifying improvement opportunities and provide recommendations, or refer to business.</li></ul><p><strong>Skills</strong></p><ul><li>Over all 8 + Years of experience in IT Systems Management with at least 2 Years' experience in Capacity Analysis, Capacity Management and Reporting</li><li>Capacity Planning, Performance Analysis &amp; Reporting</li><li>Capacity Analysis using Trend &amp; Forecast (Predictive Analysis) methods</li><li>Good understanding of data center/network environment</li><li>Reporting knowledge using System, Network &amp; Application Monitoring tools</li><li>Good understanding of Server (CPU / MEM / DISK) concepts, SAN Storage Concepts, Database concepts, VMware &amp; Virtualization concepts</li><li>Excellent Skills in Presentation using Word &amp; PowerPoint</li><li>Advanced expertise in using MS Excel</li></ul><p><strong>Other Skills</strong></p><ul><li>Good understanding of Server hardware &amp; Functionality</li><li>Server Administration background (Any UNIX Flavor and / or Windows)</li><li>Background of Infrastructure Monitoring Tools Administration &amp; Deployment (ehealth/Nagios/Xymon)</li><li>Networking SNMP concepts and working functionality of network devices such as Routers, Switches &amp; Firewalls</li></ul><p><strong>Note:</strong> Selected candidates will be required to submit to a Background Check and a Drug Screen.</p><p>Best Regards,</p><p>Deepak Singh Tomar</p><p>Cell: , W: x 5050</p><p>Deepakt(at)selectsourceintl(dot)com</p><p>13911 Ridgedale Drive Suite 230 Minnetonka, Minnesota 55305</p><p>Disclaimer: Select Source International (SSI) does not tolerate discrimination against any applicant on the basis of gender, sexual orientation, race, religion, national origin, ethnicity, veteran status, disability, age, sexual preference or any other protected status designated by federal, state or local law. It is SSI's policy to affirmatively recruit, hire, train, assign, transfer, evaluate, compensate, provide benefits, promote, demote, layoff, recall, and terminate employees on their own abilities, achievements and experiences. This policy applies to all SSI employee activities. SSI encourages diversity in hiring, recognizing that this enriches the work environment for all SSI associates and that a broad variety of perspectives enhances decision-making and creativity.</p><p>SSI is an Equal Opportunity Employer.</p><ul><li>provided by Dice Over all 8 + Years of experience in IT Systems Management with at least 2 Years experience in Capacity Analysis, Capacity Management and Reporting </li></ul></div></div><div></div></div></div>"
+  },
+  {
+    "id": "W21bv6HxRdGjq-9qXobZVw",
+    "url": "https://stackoverflow.com/jobs/196487/angular-engineer-with-net-experience-remote-railroad19?a=13TwRtybUo92",
+    "title": "Angular Engineer with .Net experience (Remote U.S. location only) at Railroad19  ",
+    "tags": [
+      "DBG:surround``OR(employe,develop,engin,team,workmat) 2W locat",
+      "DBG:surround``remot 3W onli",
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:angular/frontend/40",
+      "DBG_TECH1:k/t/w:c#/c/8",
+      "DBG_TECH1:k/t/w:c#/dotnet/20",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/56",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/26",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:k/t/w:underscore.js/nodejs/5",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=76, c=8, mobile=0, go=0, nodejs=9, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=83}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 12, 2018 12:06:13 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2><span>Angular Engineer with .Net experience (Remote U.S. location only)</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Full Stack Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Cloud Services, Consulting, Software Development</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Railroad19 | No office location<br></div><h3>Technologies</h3><div></div><div>angular</div><div>.net</div><div>c#</div><div>javascript</div>                <h3>Job description</h3>                <div><p><strong>Angular Engineer w/.Net experience (Remote U.S. location only)</strong><br>&nbsp;<br>At Railroad19, we develop customized software solutions and provide software development services.&nbsp; We are currently seeking a talented Sr. Front-end Engineer with experience working with C# &amp; .NET. This role will be responsible for contributing to the development and implementation of front-end solutions for our client. In addition to doing front-end work the applicant should have some experience and comfort level with working in C# and/or .NET. In addition to contributing code and tangible deliverables the role is expected to work as an adviser to help identify, educate, and foster best-in-class solutions. The role requires the applicant to create and maintain strong relationships with stakeholders and team members.<br>&nbsp;<br>As a Railroad19 employee, you will be part of a company that values your work and gives you the tools you need to succeed. Our headquarters is in Saratoga Springs, New York.&nbsp; The position will be remote for the right candidate. &nbsp;Railroad19&nbsp;provides competitive compensation and excellent benefits~ Medical/Dental/Vision vacation and 401K.</p><p><br><strong>&nbsp;Core Responsibilities</strong></p><ul><li>Foster strong relationships with key stakeholders and provide expertise as well as customer service to meet a wide variety of requirements</li><li>Quickly provide insight and options to challenges</li><li>Collaborate with Product Managers, business teams and other developers to create consumer-like, elegant, intuitive experiences</li><li>Develop and maintain extensible, stable, code bases for a variety of applications</li><li>Provide architecture thought leadership</li><li>Stay current with the fast-changing software development landscape</li><li>Evaluate frameworks, technology, platforms, and tooling solutions</li><li>Support and troubleshoot issues (process &amp; system), identify root cause, and proactively implement sustainable corrective actions</li><li>Foster a strong environment for creating testable code</li></ul><p><strong>Senior Front-End Developer</strong>&nbsp;<strong>Skills &amp; Experience&nbsp;Required</strong></p><ul><li>Must have excellent working knowledge of Angular (5.x, 6.x, +)</li><li>Strong understanding of the DOM, HTML5, CSS3, JavaScript and TypeScript</li><li>Experience with C# and/or .NET</li><li>3+ years of experience with additional web libraries and frameworks.<br>Preferred: Underscore, Flux/Redux, Immutable.js, etc.</li><li>Experience with front-end tooling workflows (i.e. Webpack)</li><li>Strong understanding of debugging</li><li>Experience testing code</li><li>Experience with Responsive Web Design (RWD) patterns</li><li>Proven ability to create working prototypes (proof of concepts) at varying degrees of fidelity using HTML, CSS, and JavaScript</li><li>Experience with unidirectional data flow patterns (Redux, etc.)</li><li>Experience with data integration, microservices experience a plus</li><li>Agile environment</li><li>Strong team-building, vendor and customer relations skills</li><li>GIT and GitHub</li><li>Strong communication skills (wireframes, rapid prototypes, PoC’s, white boarding)</li></ul><p><strong>Working at Railroad19:</strong></p><ul><li>Competitive salaries and eligibility for yearly bonus</li><li>Excellent Health Care, Dental and Vision benefits</li><li>3 weeks’ vacation, 401K, work life balance</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/196487?reset=False&amp;ra=13TwRtybUo92&amp;oqs=a%3D13TwRtybUo92' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Railroad19</h3>            <div><p>At Railroad19, we develop customized software solutions and provide software development services. &nbsp;As a Railroad19 employee, you will be part of a company that values your work and gives you the tools you need to succeed.&nbsp; The team is comprised of senior software developers located only in&nbsp;the U.S.&nbsp;&nbsp;&nbsp;Railroad19 provides competitive compensation, excellent benefits, 401k and a great culture.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Employer 401K match plan</span>                            </li>                            <li>                                <span></span>                                <span>Brand new, modern and open office space</span>                            </li>                            <li>                                <span></span>                                <span>Located in downtown Saratoga and close to a variety of restaurants</span>                            </li>                            <li>                                <span></span>                                <span>Very Friendly and Upbeat work environment</span>                            </li>                            <li>                                <span></span>                                <span>Great location with free parking garages in close proximity</span>                            </li>                            <li>                                <span></span>                                <span>Competitive health, dental and vision insurance plans</span>                            </li>                            <li>                                <span></span>                                <span>Work Remotely</span>                            </li>                            <li>                                <span></span>                                <span>Work life balance</span>                            </li>                    </ul>                "
+  },
+  {
+    "id": "iBJes5SdQZiwDpi0vf60cw",
+    "url": "http://jobmote.com/jobs/16593-software-developer-telecommute-option",
+    "title": "Software Developer - Telecommute Option",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:c++/c/8",
+      "DBG_TECH1:k/t/w:com/dotnet/8",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:jboss/java/8",
+      "DBG_TECH1:k/t/w:macos/apple/2",
+      "DBG_TECH1:k/t/w:tomcat/java/16",
+      "DBG_TECH1:k/t/w:windows/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=21, c=10, mobile=2, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=2, java=28, gamedev=0, php=0, embedded=0, frontend=10}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TECH1/java",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet",
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 11, 2018 10:21:37 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>Description:</strong> Leidos has an immediate opening for a<br><strong>Software Developer</strong><br>supporting our team in San Diego, CA. Telecommuting is an option with preferred locations of Northern Virginia or Rhode Island. Leidos provides a comprehensive benefit package and career advancement is only limited by your desire!<br><strong>Position requires US citizenship and a DoD TS security clearance with eligibility to obtain a TS/SCI.</strong> </p><p><strong>Job Summary:</strong><br>Candidate will support the US Navy in the Battlespace Awareness and Information domain, and the successful candidate will be working in an integrated software development team at one of the Navy s premier Point Loma based software development laboratories. </p><ul><li>The successful candidate will be responsible for writing and maintaining web applications in JavaScript and HTML5 and web-services primarily in Java in a Linux environment, creating and maintaining software applications and applying frameworks involved in a software release.</li><li>The successful candidate will support projects through all aspects of the software development lifecycle including scope and work estimation, architecture and design, coding and unit testing. In addition will assist in determining and recommending the best designs based on customer business objectives, timelines and other resource constraints.</li><li>The successful candidate will be assigned software tasks and will be required to provide an estimate to complete those tasks within a two week sprint cycle.</li><li>Strong team participation including working closely with other engineers to develop the best technical design and approach for new product development.</li><li>Other duties include documenting, managing configuration, testing, and bug fixing involved in creating and maintaining applications and frameworks involved within an agile software release life cycle and resulting in a software product.</li><li><p>The successful candidate will also have excellent written and verbal communications skills and will be required to have contact with both a project technical lead and be able to take direction from our Navy government lead.<strong>Qualifications:</strong> <strong>Required Qualifications:</strong> </p></li><li><p>Position requires US citizenship and a minimum TS DoD security clearance with the ability to obtain a Top Secret / SCI clearance.</p></li><li><p>Bachelor s Degree in Software Engineering, Computer Science, or related field and 4-8 years of software engineering experience.</p></li><li><p>Solid experience using at least one high-level programming language: Java (preferred), C++, C#, etc.</p></li><li><p>Solid experience with basic web technologies including HTML, CSS, XML, SOAP, WSDL, REST, JSON, and JavaScript.</p></li><li><p>Knowledge of developing web-clients to RESTful web-services.</p></li><li><p>Knowledge with web application technologies, such as JBoss, Apache Tomcat, etc.</p></li><li><p>Knowledge of software design patterns.</p></li><li><p>Knowledge of Agile Development methodologies.</p></li><li><p>Proficiency with MS Office Products (i. e., Word, Excel, Visio, &amp; PowerPoint).Desired Qualifications </p></li><li><p>Experience with a version control system (e. g., Git).</p></li><li><p>Experience with an issue/problem tracking system (e. g., Jira).</p></li><li><p>Experience with continuous integration environments (e. g., Jenkins).</p></li><li><p>Experience working in government/defense labs and their computing restrictions.</p></li><li><p>Experience developing in Linux and a virtualized environment.</p></li><li><p>Proficiency with multiple operating systems (Linux, Windows, MacOSX).ASG/MSIO<br>SanDiegoASG<br>TA_4<br>External Referral Eligible<br><strong>Leidos Overview:</strong><br>Leidos is a global science and technology solutions leader working to solve the world s toughest challenges in the defense, intelligence, homeland security, civil, and health markets. The company s 33,000 employees support vital missions for government and commercial customers. Headquartered in Reston, Virginia, Leidos reported pro forma annual revenues of approximately $10 billion for the fiscal year ended January 1, 2016 after giving effect to the recently completed combination of Leidos with Lockheed Martin's Information Systems &amp; Global Solutions business (IS&amp;GS). For more information, visit www. Leidos. com. The company s diverse employees support vital missions for government and commercial customers. Qualified women, minorities, individuals with disabilities and protected veterans are encouraged to apply. Leidos will consider qualified applicants with criminal histories for employment in accordance with relevant Laws. Leidos is an Equal Opportunity Employer. </p></li></ul></div></div><div></div></div></div>"
+  },
+  {
+    "id": "EgTPIH-PSwy10HB-Yc_nDA",
+    "url": "http://jobmote.com/jobs/16564-software-engineer-remote-working-azure-asp-net-c",
+    "title": "Software Engineer - Remote Working - Azure, ASP.NET, C#",
+    "tags": [
+      "DBG:surround``home W base",
+      "DBG_TECH1:k/t/w:angular/frontend/16",
+      "DBG_TECH1:k/t/w:arm/embedded/8",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/16",
+      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/24",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/32",
+      "DBG_TECH1:k/t/w:backbone.js/frontend/16",
+      "DBG_TECH1:k/t/w:c#/c/8",
+      "DBG_TECH1:k/t/w:c#/dotnet/20",
+      "DBG_TECH1:k/t/w:css/frontend/9",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:fabric/python/8",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:knockout.js/frontend/16",
+      "DBG_TECH1:k/t/w:visual-studio/dotnet/8",
+      "DBG_TECH1:k/t/w:wcf/dotnet/24",
+      "DBG_TECH1:techWeightMap:{python=8, other=0, dotnet=156, c=8, mobile=0, go=3, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=8, frontend=59}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 11, 2018 4:20:34 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>Software Engineer - Home / Remote Working - Azure /ASP.NET. / .NET CORE / MVC / C# / WCF / Web API / Entity Framework / HTML / CSS -</strong> Are you a Software Developer / Software Engineer / Full Stack Developer with knowledge and experience of Application Development Life Cycle and Development Best Practices, Web Development and design, including experience with ASP.NET MVC, C#, WCF, Web API, Entity Framework, HTML, CSS and JavaScript UI framework Backbone or Knockout or Angular etc. This opportunity requires a techie at heart with a passion for technology and desire to get involved in the Microsoft Azure technologies.</p><p>Technologies / Skills Microsoft Azure - PaaS or IaaS, ASP.NET MVC, C#, WCF, Web API, Entity Framework, HTML, CSS, JavaScript UI framework with at least one (Backbone, Knockout, Angular, etc.), Visual Studio, Azure SDK and Source Control (VSTS/Git), Developing, modifying and deploying ARM templates, PowerShell &amp; Desired State Configuration, Experience of SQL development, including T-SQL and stored procedures, Agile and waterfall project experience, .NET Core (Desirable), Any Azure services, such as Logic Apps, Azure IoT, Stream Analytics, Automation, Azure app insights, Service Fabric (Desirable), UK Government SC clearance.</p><p>In this role you will be customer facing as you won't only be coding, you will go onsite with customers very occasionally. You will be responsible for owning technical delivery on projects, designing and delivering suitable solutions in line with customer business needs and expectations. This may include owning technical pre-sales activities, resource estimations, workshops and service delivery, ensuring a positive customer relationship is maintained. If you are a Developer with a passion for technology and desire to get involved in the Microsoft Azure technologies this could be the right opportunity for you. This opportunity is home-based paying a salary of £55,000 + Benefits.</p><p></p></div></div><div></div></div></div>"
+  },
+  {
+    "id": "WUVZ2fSxSYi_L3LJvVVG-w",
+    "url": "https://stackoverflow.com/jobs/196666/sql-net-developer-zircoa?a=13XfCyuxNWs8",
+    "title": "SQL/.NET Developer at Zircoa (Solon, OH) ",
+    "tags": [
+      "DBG:surround``remot 9W 4N( OR(offic,onsit), time)",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/88",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/3",
+      "DBG_TECH1:k/t/w:windows/dotnet/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=125, c=4, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=5}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "USD",
+      "minValue": 60000,
+      "maxValue": 80000,
+      "info": "",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 11, 2018 4:06:12 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2><span>SQL/.NET Developer</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>Database Administrator</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Manufacturing</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>51-200 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Zircoa | Solon, OH<br></div>                        <h3>Remote details</h3>                        <div>                            <div>                                    <div>                                        <span>Employer's note:</span>                                        <span>Employees expected to work on-site most of the time, remote work opportunities will become available as this person develops within the organization.</span>                                    </div>                                                                                                                                                            </div>                        </div>                    <h3>Technologies</h3><div></div><div>sql</div><div>c#</div><div>.net</div>                <h3>Job description</h3>                <div><p><strong><u>SQL/.NET Developer job description</u></strong></p><p></p><p><strong>Job brief</strong></p><p>We are looking for a SQL/.Net developer to build software using languages and technologies of the .NET framework. You will manage and create databases, web and windows applications, configure existing systems, write interfaces between systems, and provide user support.</p><p>In this role, you should be able to write functional code with a sharp eye for spotting defects. You should have a strong understanding of relational databases. You should be a team player and excellent communicator. If you are also passionate about the .NET framework, SQL Server, and software design/architecture Zircoa is looking to interview you.</p><p><strong>Responsibilities</strong></p><ul><li>Create relational SQL Server databases.</li><li>Help write and optimize in-application SQL statements</li><li>Ensure performance, security, and availability of databases</li><li>Prepare documentations and specifications</li><li>Handle common database procedures such as upgrade, backup, recovery, migration, etc.</li><li>Participate in requirements analysis</li><li>Collaborate with internal teams to produce software design and architecture</li><li>Integrate existing systems and databases</li><li>Write clean, scalable code using .NET programming languages</li><li>Test and deploy applications and systems</li><li>Revise, update, refactor and debug code</li><li>Improve existing software</li><li>Develop documentation throughout the software development life cycle (SDLC)</li><li>Serve as an expert on applications and provide technical support</li></ul><p><strong>Requirements</strong></p><ul><li>Proven experience as a full stack .NET Developer with knowledge of OOP design patterns and their implementation</li><li>Familiarity with the ASP.NET framework, SQL Server and design/architectural patterns (e.g. Model-View-Controller (MVC))</li><li>Knowledge of at least one of the .NET languages (e.g. C#, Visual Basic .NET) and HTML5/CSS3</li><li>Familiarity with architecture styles/APIs (REST, RPC)</li><li>SQL scripting and relational database design</li><li>Excellent troubleshooting and communication skills</li><li>Ability to write code, test, and document your work</li><li>Attention to detail</li><li>BSc/BA in Computer Science, Engineering or a related field</li><li>5-7 years of experience in software development and database design</li></ul>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/196666?reset=False&amp;ra=13XfCyuxNWs8&amp;oqs=a%3D13XfCyuxNWs8' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Zircoa</h3>            <div><p>This is a new opportunity within our organization.&nbsp; We don't have a huge tech department, and the person who takes the role that we have posted will be able to heavily influence the future of tech at Zircoa as we transition into Industry 4.0.</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>10 different health plans</span>                            </li>                            <li>                                <span></span>                                <span>3 different vision plans</span>                            </li>                            <li>                                <span></span>                                <span>2 dental plans</span>                            </li>                            <li>                                <span></span>                                <span>Paid vacation</span>                            </li>                            <li>                                <span></span>                                <span>Pet Insurance</span>                            </li>                            <li>                                <span></span>                                <span>Identity Theft Protection</span>                            </li>                            <li>                                <span></span>                                <span>Performance Bonus</span>                            </li>                            <li>                                <span></span>                                <span>Profit Share</span>                            </li>                            <li>                                <span></span>                                <span>Flexible work hours</span>                            </li>                    </ul>                "
+  },
+  {
+    "id": "AnEjLEQfQbqNuhg__T7VWQ",
+    "url": "http://jobmote.com/jobs/16467-net-developer-remote-w2-only",
+    "title": ".Net Developer(REMOTE W2 only)",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG:surround``remot 3W onli",
+      "DBG_TECH1:k/t/w:asp.net-web-api/dotnet/8",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=39, c=6, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 11, 2018 3:20:52 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p><strong>.NET Developer</strong></p><p>Locals to WA would be highly preferred</p><p>Location: Bellevue, WA</p><p>Duration: 6 months</p><p><strong>Description:</strong></p><ul><li><p>This person will be 1 of 5 people on the development team</p></li><li><p>This project focuses on several internal projects for the client's website.</p></li></ul><p><strong>Responsibilities:</strong></p><ul><li><p>Work with existing software engineering team to develop new modules and maintain/optimize existing modules</p></li><li><p>Implement back-end services using C# and Postgres</p></li><li><p>Build web APIs for consumption by internal tools and external partners</p></li><li><p>Develop automated testing and benchmarking routines</p></li></ul><p><strong>Qualifications:</strong></p><ul><li><p>5+ years programming in C#</p></li><li><p>5+ years writing SQL stored procedures / functions</p><ul><li>provided by Dice C# and Postgres, SQL stored procedures / functions </li></ul></li></ul></div></div><div></div></div></div>"
+  },
+  {
+    "id": "BA0esS45TranEcaMWyAjpQ",
+    "url": "https://remoteok.io/jobs/67979",
+    "title": "Experienced C# Engineer",
+    "tags": [
+      "DBG:surround``OR(we,team,compani,member,employe,develop,engin,workmat) 2W work W remot",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
+      "DBG_TECH1:k/t/w:elixir/other/5",
+      "DBG_TECH1:k/t/w:go/go/3",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:k/t/w:node.js/nodejs/13",
+      "DBG_TECH1:k/t/w:python/python/2",
+      "DBG_TECH1:k/t/w:ruby/ruby/2",
+      "DBG_TECH1:techWeightMap:{python=2, other=5, dotnet=31, c=6, mobile=1, go=3, nodejs=13, bigdata-ml=0, ruby=2, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 11, 2018 3:10:52 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<td><span><h2>Experienced C# Engineer</h2></span><br><span><h3>Citrusbyte</h3></span> <span>verified</span></td><div><div>[Citrusbyte](https://citrusbyte.com) is a software consultancy that believes in using simple tools to solve complex problems. We build custom systems for both startups and enterprises - You can visit our [portfolio](https://citrusbyte.com/portfolio) for more information about some of the things we've built.<br><br>We have offices in Los Angeles and New York, but we work remotely with people from all around the world.<br><br>Our engineers have experience in a consultative environment, excellent communication skills and a desire to work with talented teams building innovative products. We work closely with our clients, sharing our experience and processes to help them define and create their products.<br><br>Most of our projects are written in Ruby or Elixir, so experience in those languages is a plus, but we are looking for polyglot engineers who have a hunger for learning new languages and tools. We are also currently looking for engineers with experience working with ** C#** and **.Net Core**. At Citrusbyte, learning new languages and technology in general is part of the job, and you should always be able to answer the question: &quot;what have I learned this week?&quot;<br><br>We have also done projects in other languages like Java, Node.js, Go, Python, Lua, etc. And strive to learn new tools and languages everyday. We believe in always choosing the right tool for the job and we are very open-minded about trying different technologies.<p>See more jobs at <span>Citrusbyte</span></p><p>Visit <a href='https://citrusbyte.com' rel='nofollow'>Citrusbyte</a>'s website</p></div></div>"
+  },
+  {
+    "id": "r63Hbb9bRJCJPp4mDs8Z5Q",
+    "url": "https://remote.co/job/senior-net-developer-2/",
+    "title": "Senior .NET Developer",
+    "tags": [
+      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:nuget/dotnet/8",
+      "DBG_TECH1:k/t/w:windows/dotnet/16",
+      "DBG_TECH1:k/t/w:wpf/dotnet/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=64, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/America"
+    ],
+    "tagsNames1": [
+      "American time zones"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 8:56:02 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2>Senior .NET Developer at <span>AbleVets</span></h2><div><span><i></i> Remote</span>        </div><div>            <div><div><div><p><strong>Job Locations: US-VA-Chantilly | US-Remote</strong></p><p><strong>Overview</strong></p><p>AbleVets, LLC is a fast-growing Service Disabled Veteran Owned Small Business (SDVOSB) providing healthcare information technology services and resources to help the VA and DoD improve the lives of the people they serve. AbleVets has an opportunity for an experienced, motivated Software Engineer to support our customer. This position is perferred in our Chantilly, VA office or may be remote.</p><p><strong>Essential Functions and Job Responsibilities</strong></p><p>This position is for a Software Engineer to work in a fast-paced, Agile environment. The successful candidate is responsible for participating in the full Agile application development life cycle for new development design, construction, and testing of mobile and web-based health applications. The Developer will also participate in peer reviews and unit testing, and must be adaptable to different responsibilities, possess strong communications skills, and have a passion for constantly improving the individual and team effectiveness. Duties and responsibilities will include, but are not limited to:</p><ul><li>Design, develop, and enhance existing VA production applications using a wide variety of technologies including .Net Framework 4.x, Windows Forms, and WPF</li><li>Independently research technical solutions and product functionality</li><li>Develop within an Agile delivery approach which supports incremental development of high-quality, fully tested applications every 2 weeks</li><li>Adhere to, promote, and maintain development standards and best practices; participate in code reviews on a regular basis</li><li>Monitor production support issues and develop corrective solutions</li><li>Assist and provide direction for both development and test teams in activities with all areas of testing and troubleshooting</li><li>Support technical documentation deliverables</li><li>Proactively seek opportunities to implement improvements in personal and team processes</li><li>Contribute to an atmosphere of cross-functional teamwork and collaboration within the organization, and contribute responsibly to acceptance testing and functional testing</li></ul><p><strong>Qualifications</strong></p><ul><li>Bachelor’s degree or higher in computer science, electronics engineering, or other engineering or technical discipline</li><li>8 years of demonstrated, hands-on development experience within an Agile environment</li><li>At least 8 years hands-on experience with Windows .Net development</li><li>Knowledge of VistA and integrated business applications</li><li>Familiarity with source control tools including Git of TFS</li><li>Experience with dependency and package management solutions such as NuGet</li><li>Experience with a wide variety of unit testing tools such as NUnit</li><li>Healthcare industry experience</li></ul><p><strong>Additional Desired Qualifications:</strong></p><ul><li>Hands-on VistA (Veterans Health Information Systems and Technology Architecture) experience</li><li>Familiarity with 508 Compliance</li><li>MUMPS development experience</li></ul><p><strong>EEO Statement</strong></p><p><em>AbleVets LLC appreciates your interest in our company as a place of employment. We are proud to be an equal opportunity/affirmative action employer and are committed to hiring and retaining a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, marital status, genetic information, disability, veteran status, or any other protected class. AbleVets is a VEVRAA Federal Contractor.</em></p></div></div></div>        </div><div>        <a href='https://careers-ablevets.icims.com/jobs/1680/senior-.net-developer/job' rel='nofollow'>Apply for job</a>    </div>"
+  },
+  {
+    "id": "tUK9JHe-REijt1aA7wzfMQ",
+    "url": "https://angel.co/infratab/jobs/100153-senior-api-developer",
+    "title": "Senior API Developer",
+    "tags": [
+      "Backend Developer",
+      "Bengaluru",
+      "DBG:surround``OR(work,oper,anywher,remot) 3W OR(feel,creativ)",
+      "DBG_TECH1:k/t/w:android/java/2",
+      "DBG_TECH1:k/t/w:android/mobile/4",
+      "DBG_TECH1:k/t/w:data-science/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:django/python/16",
+      "DBG_TECH1:k/t/w:embedded/c/1",
+      "DBG_TECH1:k/t/w:embedded/embedded/8",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/13",
+      "DBG_TECH1:k/t/w:ios/apple/4",
+      "DBG_TECH1:k/t/w:ios/mobile/4",
+      "DBG_TECH1:k/t/w:python/python/6",
+      "DBG_TECH1:k/t/w:windows/dotnet/16",
+      "DBG_TECH1:techWeightMap:{python=22, other=0, dotnet=16, c=1, mobile=8, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=4, java=2, gamedev=0, php=0, embedded=8, frontend=13}",
+      "Django",
+      "Full Time",
+      "Python",
+      "REMOTE1/100",
+      "Remote OK",
+      "Software Architecture",
+      "Software Design",
+      "TECH1/dotnet",
+      "TECH1/python",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "python"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "INR",
+      "minValue": 1500000,
+      "maxValue": 2500000,
+      "info": "No Equity",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 12:23:43 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "Senior API Developer Job at Infratab - AngelList<div><div><div><div><div><div><a title=&quot;Infratab&quot; href='https://angel.co/infratab/jobs' rel='nofollow'></a></div><div></div><ul><li><span>Infratab</span></li><li><span>Product</span></li><li><span>Jobs</span></li><li><span>Team</span></li></ul><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div><div><div><span>Share</span></div></div></div></div></div></div></div><div><div><div></div></div><div><div><div><a title=&quot;Infratab&quot; href='https://angel.co/infratab' rel='nofollow'></a></div><div><h2>Senior API Developer at Infratab</h2><div>Bengaluru, Remote · Full Time</div><div><div><div><div><div><div><span>Instead of building another midnight donut delivery app, you get to work on building something that makes a big impact for a lot of humanity. Using IOT towards reducing food spoilage which is a major contributor to food wastage. See this - <a href='http://worldfoodclock.com/' rel='nofollow'>http://worldfoodclock.com/</a><span>Read More</span></span></div><div><p>Instead of building another midnight donut delivery app, you get to work on building something that makes a big impact for a lot of humanity. Using IOT towards reducing food spoilage which is a major contributor to food wastage. See this - <a href='http://worldfoodclock.com/' rel='nofollow'>http://worldfoodclock.com/</a></p><p>You can be a part of the core technical team that is aiming to lead the creation and universal adoption of both the language and the tools for managing the condition and freshness of perishables in real-time.</p><p>Self-directed work hours. Work when you feel the most productive. Our office is remote-friendly too. Unless of course it’s release time.</p></div></div></div></div></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply to Infratab</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div><div><div><div><h3>Job Description</h3></div><div><div><p>About Us <br>------------<br>Infratab is an internet-of-things company providing a Freshness monitoring solution, which helps in efficiently handling food and pharmaceutical supply chains.</p><p>Our purpose at Infratab is ambitious yet simple: To make quantifying and measuring Freshness universally accessible, helping you make better decisions about your perishables, and in the process ensuring lesser food wastage and better consumer experiences. </p><p>Our solutions include smart sensors, windows, ios and android apps and cloud services serving reliable metrics for those handling temperature sensitive products, all of which together help in securely monitoring and tracking a perishable’s condition.</p><p>Job Description <br>----------------------<br>This is a senior role, where your job will be to design RESTful APIs as per the evolving needs of the business,maintain our current API functionality, and optimize the API requests based on the requirements.</p><p>As an API developer, your job will be to develop software interfaces to move data from a centralized “data lake”, perform analysis and to create different services for apps on ios, android and windows for visualization.</p><p>You will contribute both to the definition of the data architecture and to its actual implementation.</p><p>Job Requirements<br>-------------------------<br>* Lots of product love and dedication to shipping a quality/bug free product through testable and tested code<br>* An experience of minimum 3-4 years in designing, developing and maintaining server side components in production<br>* Experience leading a team through all phases from inception to completion<br>* Proficiency in Python<br>* Working knowledge of managing deployments<br>* Understand the importance of seamlessly communicating important information<br>* Ability to take complete ownership of your work and respect timelines<br>* Prior experience working in a product development startup<br>* Ability to prioritize projects, communicate progress, keep feedback loops short, and deliver on time</p></div></div><div><div>Skills</div><div>Python, Django, Software Architecture, Software Design</div><div>Compensation</div><div>₹1500K–₹2500K<br>No Equity</div><div>Visa Sponsorship</div><div>Not available</div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply Now</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><div><h3>What We're Building</h3></div><div><div><p>Infratab is an Internet-of-Things company providing a quality monitoring solution for food &amp; pharmaceutical supply chains. Our purpose at Infratab is ambitious yet simple: to measure Freshness and provide our customers tools to make better decisions about their inventory.</p><p>Our Freshtime suite of Sensors, Software &amp; Analytics together help our customers in making better decisions in efficiently handling their perishables supply chains to reduce food spoilage, protect and improve their brand's identity.</p></div></div><div><div><div><div><div></div><div>Hiring in <span>Bengaluru</span>, Remote OK</div><div></div></div><div><div></div><div>11-50 Employees</div><div></div></div><div><div></div><a href='http://www.infratab.com/' rel='nofollow'>infratab.com</a></div></div></div></div></div></div></div><div><div><div><h3>Other Jobs at Infratab</h3><ul><li><div>Design Jobs</div><div><div><div><div><a href='https://angel.co/infratab/jobs/134961-ui-ux-designer' rel='nofollow'>UI/UX Designer</a><div>Bengaluru·Full Time<span></span><span>·₹500K – ₹1000K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></li><li><div>Software Engineering Jobs</div><div><div><div><div><a href='https://angel.co/infratab/jobs/45318-frontend-developer' rel='nofollow'>Frontend Developer</a><div>Bengaluru·Full Time<span></span><span>·₹600K – ₹1200K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><a href='https://angel.co/infratab/jobs/45319-frontend-ui-developer' rel='nofollow'>Frontend/ UI Developer</a><div>Bengaluru·Full Time<span></span><span>·₹400K – ₹1200K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><a href='https://angel.co/infratab/jobs/99182-api-developer' rel='nofollow'>API Developer</a><div>Bengaluru·Full Time<span></span><span>·₹600K – ₹1200K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><a href='https://angel.co/infratab/jobs/119973-software-engineer' rel='nofollow'>Software Engineer</a><div>Bengaluru·Full Time<span></span><span>·₹700K – ₹1500K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div><div><div><div><a href='https://angel.co/infratab/jobs/242040-data-engineer' rel='nofollow'>Data Engineer</a><div>Bengaluru·Full Time<span></span><span>·₹1000K – ₹2500K · No Equity</span></div></div><div><div><div><div><div><a rel='nofollow'><span></span>Applied</a></div></div><div></div><div><span>Apply</span><div><div></div><div></div><div><div><div><div>Add a message to Infratab</div>Apply<div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></li></ul></div></div></div><div><div><div><h3>Infratab Team</h3><div><div><div><div><div><a href='https://angel.co/moosicalbovine' rel='nofollow'></a></div><div><div><a href='https://angel.co/moosicalbovine' rel='nofollow'>Muralidhar Duvvuri</a><span>,</span></div><div>Agricultural Engineer, Product Lead@Infratab, Inc. Cheesecake. Travel|Cycling|Running|Food|Adventure is out there!</div></div></div><div><div><a href='https://angel.co/thiru7niren' rel='nofollow'></a></div><div><div><a href='https://angel.co/thiru7niren' rel='nofollow'>Thiru Niren</a><span>,</span></div><div>Developed web based application using REST API</div></div></div><div><div><a href='https://angel.co/alekhya-vendra' rel='nofollow'></a></div><div><div><a href='https://angel.co/alekhya-vendra' rel='nofollow'>Alekhya Vendra</a></div></div></div><div><div><a href='https://angel.co/k-rahul-1' rel='nofollow'></a></div><div><div><a href='https://angel.co/k-rahul-1' rel='nofollow'>K Rahul</a><span>,</span></div><div>Masters in Embedded &amp; Wireless Technology <a href='https://angel.co/manipal-university' rel='nofollow'><span>@</span><span>Manipal University</span></a> | Worked on Python, Django, Docker</div></div></div><div><div><a href='https://angel.co/philip-lalonde' rel='nofollow'></a></div><div><div><a href='https://angel.co/philip-lalonde' rel='nofollow'>Philip LaLonde</a><span>,</span></div><div>Vice President, Head of Marketing at Infratab</div></div></div><div><div><a href='https://angel.co/priyanka-sinha-4' rel='nofollow'></a></div><div><div><a href='https://angel.co/priyanka-sinha-4' rel='nofollow'>Priyanka Kumari</a></div></div></div></div></div></div><div></div><div><span>See More</span><span></span></div><div></div></div></div></div><div><div><div><div><div>Infratab is one of 25,731 startups hiring on AngelList</div><div></div></div><div><div><span>Browse All Startup Jobs</span><a href='https://angel.co/recruiting/signup?src=job-showcase' rel='nofollow'>Post a Job</a></div></div><div><span>Help</span>·<span>Terms</span>·<span>Jobs by location</span><span>Problem?<span>Report this company</span></span></div></div></div></div></div><div></div>"
+  },
+  {
+    "id": "rMP_nwYjQN6ZtjRm1bm_1Q",
+    "url": "http://jobmote.com/jobs/16367-senior-net-developer-sheffield-55k-flexi-and-remote-working",
+    "title": "Senior .Net Developer Sheffield-£55K- Flexi and remote working",
+    "tags": [
+      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
+      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
+      "DBG_TECH1:k/t/w:javascript/frontend/1",
+      "DBG_TECH1:k/t/w:javascript/nodejs/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=37, c=2, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=1}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 9:20:49 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>Senior Developer - Up to £55,000 - Sheffield - C#, JavaScript, ASP.Net, MVC, SQL - Flexitime, Remote Working Opportunities!<br><strong>The Role</strong><br>Looking for a Senior .net Developer role in Sheffield paying up to £55,000? Work for a friendly software company based in Sheffield who have built a market leading SaaS application..... click apply for full job details </p></div></div><div></div></div></div>"
+  },
+  {
+    "id": "ctfH7rKbQN6HXk1j3qy4Wg",
+    "url": "https://remoteok.io/jobs/67999",
+    "title": "Angular Engineer With .Net Experience",
+    "tags": [
+      "DBG:surround``3N(locat,remot)",
+      "DBG:surround``remot 3W onli",
+      "DBG:surround``remot 3W right",
+      "DBG_TECH1:k/t/w:angular/frontend/32",
+      "DBG_TECH1:k/t/w:c#/c/6",
+      "DBG_TECH1:k/t/w:c#/dotnet/15",
+      "DBG_TECH1:k/t/w:css/frontend/3",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/48",
+      "DBG_TECH1:k/t/w:frontend-developer/frontend/26",
+      "DBG_TECH1:k/t/w:html5/frontend/5",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:k/t/w:typescript/frontend/1",
+      "DBG_TECH1:k/t/w:typescript/nodejs/1",
+      "DBG_TECH1:k/t/w:underscore.js/nodejs/5",
+      "DBG_TECH1:k/t/w:webpack/frontend/5",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=63, c=6, mobile=0, go=0, nodejs=8, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=74}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TECH1/frontend",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet",
+      "frontend"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 10, 2018 4:57:47 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<td><span><h2>Angular Engineer With .net Experience</h2></span><br><span><h3>Railroad19</h3></span></td><div><div><br>Angular Engineer w/.Net experience (Remote U.S. location only)<br>&nbsp;<br>At Railroad19, we develop customized software solutions and provide software development services.&nbsp; We are currently seeking a talented Sr. Front-end Engineer with experience working with C# &amp; .NET. This role will be responsible for contributing to the development and implementation of front-end solutions for our client. In addition to doing front-end work the applicant should have some experience and comfort level with working in C# and/or .NET. In addition to contributing code and tangible deliverables the role is expected to work as an adviser to help identify, educate, and foster best-in-class solutions. The role requires the applicant to create and maintain strong relationships with stakeholders and team members.<br>&nbsp;<br>As a Railroad19 employee, you will be part of a company that values your work and gives you the tools you need to succeed. Our headquarters is in Saratoga Springs, New York.&nbsp; The position will be remote for the right candidate. &nbsp;Railroad19&nbsp;provides competitive compensation and excellent benefits~ Medical/Dental/Vision vacation and 401K.<br><br><br>&nbsp;Core Responsibilities<br><br><br>* Foster strong relationships with key stakeholders and provide expertise as well as customer service to meet a wide variety of requirements<br><br>* Quickly provide insight and options to challenges<br><br>* Collaborate with Product Managers, business teams and other developers to create consumer-like, elegant, intuitive experiences<br><br>* Develop and maintain extensible, stable, code bases for a variety of applications<br><br>* Provide architecture thought leadership<br><br>* Stay current with the fast-changing software development landscape<br><br>* Evaluate frameworks, technology, platforms, and tooling solutions<br><br>* Support and troubleshoot issues (process &amp; system), identify root cause, and proactively implement sustainable corrective actions<br><br>* Foster a strong environment for creating testable code<br><br><br><br><br>Senior Front-End Developer&nbsp;Skills &amp; Experience&nbsp;Required<br><br><br>* Must have excellent working knowledge of Angular (5.x, 6.x, +)<br><br>* Strong understanding of the DOM, HTML5, CSS3, JavaScript and TypeScript<br><br>* Experience with C# and/or .NET<br><br>* 3+ years of experience with additional web libraries and frameworks.<br>Preferred: Underscore, Flux/Redux, Immutable.js, etc.<br><br>* Experience with front-end tooling workflows (i.e. Webpack)<br><br>* Strong understanding of debugging<br><br>* Experience testing code<br><br>* Experience with Responsive Web Design (RWD) patterns<br><br>* Proven ability to create working prototypes (proof of concepts) at varying degrees of fidelity using HTML, CSS, and JavaScript<br><br>* Experience with unidirectional data flow patterns (Redux, etc.)<br><br>* Experience with data integration, microservices experience a plus<br><br>* Agile environment<br><br>* Strong team-building, vendor and customer relations skills<br><br>* GIT and GitHub<br><br>* Strong communication skills (wireframes, rapid prototypes, PoC’s, white boarding)<br><br><br><br><br>Working at Railroad19:<br><br><br>* Competitive salaries and eligibility for yearly bonus<br><br>* Excellent Health Care, Dental and Vision benefits<br><br>* 3 weeks’ vacation, 401K, work life balance<br><br><br><p>See more jobs at <span>Railroad19</span></p></div></div>"
+  },
+  {
     "id": "U8F9fQfpRkKbnqQe035BOQ",
     "url": "http://jobmote.com/jobs/16225-net-developer-remote-working",
     "title": ".NET Developer Remote Working.",
@@ -2016,44 +2724,6 @@
     "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>QA/Test Developer, Graphics/Game Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>3D Models, Computer Vision, deep learning</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>unity3d</a><a rel='nofollow'>python</a><a rel='nofollow'>jira</a><a rel='nofollow'>plasticscm</a><a rel='nofollow'>qa</a>                    </div>                                            <h2>Job description</h2>                <div><p><span>CVEDIA is looking for a QA generalist to help us develop, maintain and expand our tests and mission critical CI/CD. Focusing on keeping systems sane for weekly builds on several concurrent projects you will be also writing documentation among with mainly pytest based functional tests and some unit tests for our jenkins testing framework.</span></p><p><span>Responsibilities:</span></p><p><span>- Creating and maintaining automated tests for our CI/CD pipeline (python, shell, c#, c++)</span></p><p><span>- Maintaining and expanding the existing CI/CD pipeline (jenkins, shell)</span></p><p><span>- Expanding and perfecting systems public documentation (markdown)</span></p><p><span>- Help educating developers improving code, QA and workflows</span></p><p><span>- Provide and develop overview and metrics to improve project development and quality overall</span></p><p><span>Required qualifications:</span></p><p><span>- Python</span></p><p><span>- C#</span></p><p><span>- Shell scripting</span></p><p><span>- Linux</span></p><p><span>- Jenkins</span></p><p><span>- Strong written and verbal communication skills</span></p><p><span>- Strong attention to detail</span></p><p><span>Desired qualifications:</span></p><p><span>- C/C++</span></p><p><span>- Unity3D</span></p><p><span>- Unreal</span></p><p><span>- pytest</span></p><p><span>- Docker</span></p><p><span>- Image manipulation understanding</span></p><p><span>What we offer:</span></p><p><span>Job location is in Cyberspace.</span></p><p><span>- Communication with the all team members is done through Skype</span></p><p><span>- Salary will be paid once a month with a wire transfer</span></p><p><span>- Job capacity: Monday - Friday (8 hours daily) </span></p><p><strong>How should you apply for this job?</strong></p><ul><li><strong><strong>Please state on the mail subject the job position you are applying for.</strong></strong></li></ul><ul><li><strong>Only applications written in English are going to be processed!</strong></li></ul><ul><li><strong>Due to time zone difficulties Only applications that are based in Europe will be processed.</strong></li></ul><ul><li><strong>Please mention your country of origin in the email. </strong></li></ul><ul><li><strong>Please send your applications to jobs at cvedia dot com</strong></li></ul>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://stackoverflow.com/jobs/apply/183850?reset=False&amp;ra=ZELLCvScoes&amp;oqs=a%3DZELLCvScoes' rel='nofollow'>Apply now</a></div>                                                <div>                                                    <a rel='nofollow'>Ask a question</a>                                                                                                        </div>                                    </div>                        </div>        </div>            <h2>About Cvedia PTE. LTD.</h2>            <div><p>We have employees from 4 continents,&nbsp; 13 countries and 8 diffrent time zones and together we build amazing products.&nbsp;</p><p>Unleash the limitations of the physical world with a state-of-the-art simulation platform. SynCity constructs synthetic 3D real or fictitious environments and provides sensor simulations robust enough to train, validate, and verify artificial intelligence algorithms for land, aerial, and marine autonomous applications.</p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>remote work</span>                            </li>                    </ul>                "
   },
   {
-    "id": "qll5nyQhQwC6bZnuNDva7A",
-    "url": "https://stackoverflow.com/jobs/170468/senior-net-core-developer-tsp-consulting-services-inc?a=Vawfxux4ebK",
-    "title": "Senior .net core developer at TSP Consulting Services, Inc  ",
-    "tags": [
-      "DBG:surround``avail 8W 2N( OR(core,busi), hour)",
-      "DBG:surround``your W own W equip",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
-      "DBG_TECH1:k/t/w:visual-studio/dotnet/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=45, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "Jun 24, 2018 9:06:45 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "                                    About this job                                                                                                                            <span>Job type: </span>                                        <span>Contract</span>                                                                                                                <span>Experience level: </span>                                        <span>Senior</span>                                                                                                                <span>Role: </span>                                        <span>Full Stack Developer</span>                                                                                                                                                                        <span>Industry: </span>                                        <span>IT Consulting</span>                                                                                                                <span>Company size: </span>                                        <span>11-50 people</span>                                                                                                                <span>Company type: </span>                                        <span>Private</span>                                                                                                                                        Technologies                                            <a rel='nofollow'>c#</a><a rel='nofollow'>.net</a><a rel='nofollow'>sql</a><a rel='nofollow'>.net-core</a><a rel='nofollow'>asp.net-mvc</a>                                                                Job description                <p><strong>* We are looking for applicants who live within the&nbsp;contiguous United States.</strong></p><p>We are looking for a senior level developer to join our team for the final three months of an active client engagement.&nbsp; You would join our team in building a custom API that exposes services to an integration with an Enterprise level Loan Origination system in an Azure hosted environment.</p><p>As part of that team, you would be expected to work remotely, on your own equipment through a vpn client connection to our internally hosted development environment.&nbsp;</p><p>The initial two week period would involve shadowing a current senior team member to understand the current project and the third party platform that we are integrating with.</p><p><strong>The ideal candidate would have the following skills:</strong></p><p>Exceptional C# and .net core experience.</p><p>Strong understanding of DI and test-driven methodologies.</p><p>Experience with Git</p><p>A personal license for Visual Studio 2017 professional</p><p>Strong knowledge of service based architecture</p><p>Strong SQL experience and knowledge of entity framework</p><p>Experience working in an agile continuous integration environment</p><p>Excellent communication and documentation skills.</p><p>Knowledge and Experience of the mortgage industry is a huge plus</p><p>We are looking for a minimum weekly commitment of 40 hours, but more may be available should you desire extra hours.&nbsp; There is permanent hiring potential for the right applicant moving forward as well.&nbsp; There are no travel requirements, but there are regular meetings and daily standups that you would be expected to attend.&nbsp; We would expect you to be available and working during the client’s normal business hours (they are on the west coast USA)</p><p>Our team primarily communicates though Hipchat and phone calls and is very responsive.&nbsp; You would be in close communication with the team at all times and highly supported.</p><p>If you think this might be a good fit for your skill set, please contact us.&nbsp; This position is available immediately.</p><p><strong>Rate: $75 Hr.</strong></p>                                                        Benefits                    <ul>                            <li>                                <span></span>                                <span>We encourage creative license</span>                            </li>                            <li>                                <span></span>                                <span>Great team of developers</span>                            </li>                            <li>                                <span></span>                                <span>Family oriented</span>                            </li>                            <li>                                <span></span>                                <span>Highly flexible</span>                            </li>                            <li>                                <span></span>                                <span>Offer leading edge development projects</span>                            </li>                    </ul>                "
-  },
-  {
     "id": "MDpYSPjgSjmi7oB0ducNaQ",
     "url": "https://stackoverflow.com/jobs/159135/e-commerce-net-developer-for-digital-agency-cloud-nine-ab?a=RmSdyO8GO9q",
     "title": "E-commerce/ .NET developer for Digital agency (Partly remote work allowed) at Cloud Nine AB (Stockholm, Sweden) ",
@@ -2097,6 +2767,40 @@
     "published": "Jun 24, 2018 9:06:45 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "                                    About this job                                                                                                                            <span>Job type: </span>                                        <span>Full-time</span>                                                                                                                <span>Experience level: </span>                                        <span>Mid-Level, Senior, Lead</span>                                                                                                                <span>Role: </span>                                        <span>Backend Developer</span>                                                                                                                                                                        <span>Industry: </span>                                        <span>Digital Agency, Web Design, Web Development</span>                                                                                                                <span>Company size: </span>                                        <span>51-200 people</span>                                                                                                                <span>Company type: </span>                                        <span>Private</span>                                                                                                                                        Technologies                                            <a rel='nofollow'>.net</a><a rel='nofollow'>c#</a><a rel='nofollow'>.net-core</a><a rel='nofollow'>api</a><a rel='nofollow'>webapi</a>                                                                Job description                <p>We can offer you an innovative environment in an art gallery at one of Sweden's coolest digital agencies.<br>If you live far from Stockholm it is good to know is that we allow our employees to work&nbsp;partly remote.&nbsp;</p><p>We are about 60 people who conceptualize, design and build websites, e-commerce, intranets, mobile apps and other digital services for some of Sweden's most famous and popular brands.</p><p>We work inhouse with strategy, development, design and UX.</p><p>Some of our clients: BMW, Sony Music, Casall, MINI, Stadium, Poolia, SAPA, ActionAid.</p><p>We are looking for someone who wants to be a part of one of our tech teams, were you take part in complex integrations, technical solutions and platform choices. Together with the project manager you'll be the main contact for the client. You'll be a mentor for your junior colleagues and take part in recruitment. Together with Head of tech you are up to date and decide which techniques we will use ahead.</p><p><strong>Experience</strong></p><p>Our solutions are mainly based on .NET or .NET Core and MVC, or .NET Web APIs with a React frontend. We work with a variety of CMS platforms, such as Episerver, Umbraco and Contentful, and e-commerce platforms such as Litium and Episerver Commerce. We mainly use React Native for mobile applications. You should have experience with the .NET Framework, and it is desirable, but not required, that you have worked with any of the CMS platforms listed above.</p><p><strong>Who are you?</strong></p><ul><li>You think long-term and know that fast fixes do not pay off in the long run.</li><li>You have built first-class web services before.</li><li>You love to write amazing code that's easy to maintain.</li><li>You keep an eye on new technology and want to constantly evolve.</li><li>You like to work in teams and see the value of sharing knowledge and lifting others.</li><li>If English is you primary language it's preferable that you understand Swedish.</li></ul><p><strong>What do you get as an employee? </strong></p><p>We invest heavily in making our colleagues feel appreciated and to give them opportunities to grow at Cloud Nine. If we enjoy our work and have fun together, our customer projects are even more successful.</p><ul><li><strong>Professional development.</strong> It is important for us to be at the forefront of technology and UX. Therefore, every employee has an individual annual development fee to spend on activities that promote your skills.</li><li><strong>Activities.</strong> On Cloud Nine there are activities for most people. Yoga, climbing, running, video games, cinema nights, LAN nights, friday drinks, art club, ping pong and karaoke are just a few examples. Some of us participate in everything and others when they feel up for it. Every other year we go on a trip. Last time we went to Barcelona.</li><li><strong>Hackathon and code nights.</strong> In order to stimulate the use of new technologies and to promote creative thinking, we organize hackathons, code quiz and code nights. Recently, we invited our customer Sony Music and ran a 24-hour race to provide new services to them. Sometimes it's less magnificent and there's a smaller bunch that stay after work and code together &nbsp;over a pizza and some beer.</li><li><strong>Participation. </strong>Transparency and participation are important to us. Our employees are largely involved in and influence how we work. This applies both in everyday life but also to major issues like where Cloud Nine should be in 5 years. We feel that if &nbsp;you are able to participate and influence your workplace you also enjoy it a lot more.</li></ul>                                                                                                                                        <a href='https://stackoverflow.com/jobs/apply/159135?reset=False&amp;ra=RmSdyO8GO9q&amp;oqs=a%3DRmSdyO8GO9q' rel='nofollow'>Apply now</a>                                                                                                    <a rel='nofollow'>Ask a question</a>                                                                                                                                                                                        About Cloud Nine AB            <p>We are about 60 people who design and develop digital services for some of Sweden's most famous and popular brands. Technical creativity and data-driven development are our main focus. We are passionate about constantly developing our customers' business by measuring and optimizing their digital presence. A website launch is just the beginning of the journey in our eyes. We know that the culture at Cloud Nine is experienced as warm and welcoming. We have a good mix between seniors and juniors and we like to do things together, both at and outside work. Personal development is also encouraged and every employee receives an annual education grant. Our agency is independent and is owned by private individuals with long-term ambitions. Some of our clients: BMW, Sony Music, Casall, MINI, Stadium, Poolia, Bliwa, SAPA, ActionAid. Welcome to one of the country's coolest digital agencies!</p>                                        Benefits                    <ul>                            <li>                                <span></span>                                <span>Code nights, team activities and events</span>                            </li>                            <li>                                <span></span>                                <span>Pension plan</span>                            </li>                            <li>                                <span></span>                                <span>Creative office within an art gallery</span>                            </li>                            <li>                                <span></span>                                <span>Personal development budget</span>                            </li>                            <li>                                <span></span>                                <span>Wellness contribution</span>                            </li>                            <li>                                <span></span>                                <span>Flexible working hours</span>                            </li>                            <li>                                <span></span>                                <span>Diverse environment, open culture</span>                            </li>                            <li>                                <span></span>                                <span>Ping pong, video games and more.</span>                            </li>                            <li>                                <span></span>                                <span>Your choice PC/MAC or Android/Iphone</span>                            </li>                            <li>                                <span></span>                                <span>Great location</span>                            </li>                    </ul>                "
+  },
+  {
+    "id": "e4srKbPrToah0r9cdtNffA",
+    "url": "http://www.indeed.com/viewjob?t=Net+Developer&jk=871b57e47f6d629f&",
+    "title": ".Net Developer - Ledgeview Partners - Appleton, WI",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/48",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=48, c=0, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 23, 2018 1:13:42 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h4>.Net Developer</h4><div>Company: Ledgeview Partners<br></div><div>Location: Appleton, WI<br></div><span><div><h2><b>.NET Developer</b></h2><h3><b>Overview:</b></h3><p>The ideal .NET Developer candidate will be providing both technical and functional knowledge of the Microsoft Dynamics® CRM application as well as knowledge of Microsoft development technologies and environments.</p><h3><b>This can be a remote position-</b></h3><p><b>All candidates must be legally eligible to work in the United States without sponsorship. Sorry, no Visa Sponsorships or Transfers available at this time.</b></p><h3><b>Responsibilities:</b></h3><p>This .NET Developer is responsible for the design and development of modifications to the standard Microsoft Dynamics® CRM application. This includes entity and form design, as well as developing specialized utility programs and plug ins. This position is so tasked with creating detailed documentation of the customizations and integrations.</p><h3><b>Qualifications:</b></h3><p>Our developers hold a Bachelor's degree in Computer Science, Computer Engineering, Business Information Systems, Information Technology, Software Engineering, or a related technology field. Additionally, they have the following experience:</p><ul><li>One (1) + year of Microsoft Dynamics CRM experience, or similar CRM tool</li><li>Two (5) + years of .NET Framework programming experience</li><li>Two (2) + years of Javascripting</li></ul><br><p><b>Microsoft Dynamics® CRM certifications in Applications, Customization and Configuration, and/or Extending Microsoft Dynamics® CRM is a plus!</b></p><br>XJ6</div></span>"
   },
   {
     "id": "wvFrMWZfQG2Z9UgmJSg1eA",
@@ -2181,6 +2885,41 @@
     "published": "Jun 22, 2018 6:37:51 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "JOB TYPE: Full time<br /><br />LOCATION:<br />Warsaw, Poland<br />(Partial remote)<br /><br />Anywhere in<br />Warsaw<br /><br />EXPERIENCE: expert<br /><br />As a Big Data Developer, you will assist in extending a Big Data Platform to meet the needs and requirements of our Client’s Business stakeholders. You will work under the guidance of team leads and the data solution architects, by supporting and enhancing the current Big data and Data Warehouse environment.<br /><br />Your key Responsibilities: Big Data Development:<br />- Collection of business requirements: identify sources of relevant information and sizing development estimations<br />- Choose the most suitable tools, attending to their commitments and specifications.<br />- Predict speed of every stage of the ETL process, identifying possible bottlenecks and scaling the Infrastructure according to those predictions.<br />- Design the ingestion, transformation and classification ecosystem to extract and refine relevant features<br />- Participating actively in the development of big data solutions<br /><br />You are ideal for this opportunity if you have:<br />- Extensive experience in ETL development using Microsoft SSIS<br />- Strong database skills in SQL Server 2008R2 and 2016 – T-SQL, Stored procedures, Functions, Indexes, Constraints<br />- Strong understanding of Data Warehousing concepts and dimensional Datamodelling<br />- Experience building data-marts and data warehouses<br />- Experience of high-volume Database performance tuning techniques<br />- Experience using Code Repository and coding best practice (ideally using GIT, but TFS, SVN etc. also considered)<br />- Strong analytical and problem-solving abilities<br /><br />The workplace is professional, specialist, driven and inspiring. This includes: challenging big data tasks, an opportunity to develop expertise in the financial industry and a stable and long-term cooperation.<br /><br />If you are interested please apply!"
+  },
+  {
+    "id": "gKN2SZW_RV-wLHb-g_vJ1A",
+    "url": "http://www.indeed.com/viewjob?t=C+Technical+Lead&c=Livit+Ecosystem&l=Remote&jk=b25e1666a3643c76&from=rss",
+    "title": "C# Technical Lead - Livit Ecosystem - Remote",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=10, c=4, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 22, 2018 11:59:14 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><b>C# Technical Lead</b><br><span>Livit Ecosystem</span>     -<span>Remote</span>    </div><span><div><h4><b>The Position:</b></h4><p>Customer Success is incredibly critical to the success of Labster as a whole and as a result, we seek talented specialists to drive our efforts. As Customer Success Manager you will be the link between Labster and the universities. With a focus on quality, efficiency, and solutions, you will ensure that all Labster’s customers experience a world-class service and customer support.</p><br><h2><b>Reimagining Education TED Talk</b></h2><p>Get a feel for the amazing 3D learning simulations we are developing, in this short TED talk:</p><br><br><h4><b>Essential duties and responsibilities:</b></h4><br><ul><li>Ensuring that universities have the best experience possible with Labster by managing the entire relationship, implementation and usage experience.</li><li>Proactively managing your book of business to identify and resolve any potential challenges with your customers.</li><li>Working with clients to renew contracts and upsell.</li><li>Holding recurring governance meetings to ensure Labster and clients are aligned on goals and measures of success.</li><li>Training universities on product features and advising on best practices.</li><li>Assisting universities with integrating Labster into universities own LMS.</li><li>Gathering Customer Feedback, both on features and educational content.</li><li>Provide daily support within the guidelines set by our SLA through email, skype, phone, and user tickets.</li></ul><br><h4><b>Your Profile:</b></h4><ul><li>3+ year in a Sales, Account Management or Support role</li><li>Outstanding sense of service and deep understanding of the customer’s needs and expectations.</li><li>Ability to set expectations and communicate goals with customers.</li><li>Strong coordination and proactive skills to lead implementation projects, coordinate and push forward complex projects involving several contacts within one institution.</li><li>Ability to communicate technical solutions to non-technical users.</li><li>Excellent analytical and decision skills in order to efficiently analyze incoming issues and decide how they should be addressed.</li><li>Strong collaborative mindset and desire to work positively with different teams internally.</li><li>A highly adaptable learning style and openness to quickly adapt to new ideas.</li><li>Excellent English skills written and oral.</li></ul><br><h4><b>The Offer:</b></h4><ul><li>A positive and fun working environment where 15+ nationalities work together</li><li>Being part of and influencing a successful rapid growth business</li><li>Flexible working hours</li><li>Attractive salary package</li></ul><br><h4><b>Location</b></h4><p>You will be working from our newly open office in Boston alongside our US sales team.</p><br><h4><b>About Labster</b></h4><p>Labster is a rapidly growing tech company dedicated to the development of fully interactive learning simulations, with the aim of making science education both accessible and motivational for millions of students globally. We do this by uniting elements from the psychology of learning, with immersive 3D universes, engaging storytelling, and scoring systems, in order to stimulate a student’s natural curiosity and highlight the real-world application of science.</p><p>Labster is currently working in close collaboration with over 150 leading universities in 25 countries, including MIT, Harvard and Imperial College, and has received more than 10m USD in grant funding for cutting-edge R&amp;D projects. Currently, Labster offers 55 different simulations, a number which steadily increases by approximately five new and exciting additions per month.</p><p>The Labster organization is flat, collaborative, and exploratory, and the environment is highly motivational. With its headquarters in Copenhagen, Denmark, Labster has a diverse and engaged team with members spanning from Asia and Europe to North America, and a company culture that is laser-focused on leadership, collaboration and integrity.</p><p>While historically Labster was mainly focused on subscription deals with universities and other educational institutes, moving forward our strategy is to add additional revenue streams through direct consumer sales of commercial off-the-shelf simulations.</p></div></span>"
   },
   {
     "id": "ybhOjnssSwW4USjlr7F_Qw",
@@ -2534,6 +3273,92 @@
     "published": "Jun 20, 2018 1:08:14 AM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<div>                                    <h2>About this job</h2>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Role: </span>                                        <span>QA/Test Developer</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Industry: </span>                                        <span>Computer Software, Cybersecurity, Information Technology</span>                                    </div>                                    <div>                                        <span>Company size: </span>                                        <span>1k-5k people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Public</span>                                    </div>                            </div>                    </div>                                                    <h2>Technologies</h2>                    <div>                        <a rel='nofollow'>automation</a><a rel='nofollow'>cloud</a><a rel='nofollow'>agile</a><a rel='nofollow'>selenium</a><a rel='nofollow'>git</a>                    </div>                                            <h2>Job description</h2>                <div><p><strong>Why Carbon Black?</strong></p><p>At Carbon Black, you’ll have the chance to make an impact in the ever-evolving cybersecurity space. Our advanced technology tackles even the toughest challenges and stays ahead of the latest threats.</p><p>If you want to join an agile company that’s building bleeding edge technology in the cloud, Carbon Black is the place for you. Driven by passionate people who are dedicated to making the world safer, it’s no wonder we’ve been named a “Top Place to Work” by the Boston Globe for&nbsp;four&nbsp;consecutive years. Join us!</p><p><strong>Why You Matter</strong></p><p>We are looking for a&nbsp;Senior&nbsp;automation engineer who will help design and implement an easy to use framework.&nbsp;&nbsp;Simplicity is key; this framework will be data driven, will encompass parallel streams of automation, will encompass end-to-end functionality as well as non-functional cases. Automation is central to our quality strategy as we continue to deepen and expand our product.</p><p><strong>What You’ll Do</strong></p><ul><li>Design an automation architecture that is modular and extensible</li><li>Develop system, software, and component test plans, automated tests, and supporting libraries</li><li>Work with Release Engineering to further integrate automation into the build system</li><li>Assist in automation adoption within the engineering organization</li><li>Lead your scrum team’s automation effort and mentor engineers on industry best practices</li><li>Work with developers on improving the system quality (during design and implementation phases)</li></ul><p><strong>What You’ll Bring</strong></p><ul><li>5+ years of experience with object-oriented Python and C++ programming</li><li>Ability to design and build test frameworks to test enterprise level software</li><li>Knowledge or experience with system internals experience a big plus</li><li>Experience with Agile, Continuous Integration, TDD</li><li>Testing client-server applications on Windows operating systems</li><li>Solid experience with test automation containers such as Docker</li><li>JSON, API blueprint</li><li>AWS Cloud/SaaS experience</li></ul>                </div>                                    <div>                                    <div>                                        <div>        <a href='https://jobs.jobvite.com/careers/carbonblack/job/oBHL7fwU?__jvst=JobBoard&amp;__jvsd=Stack_Overflow' rel='nofollow'>                        Apply now        </a></div>                                    </div>                        </div>        </div>            <h2>About Carbon Black</h2>            <div><p><strong>Who We Are</strong><br>Carbon Black is a leading provider of next-generation endpoint security. Carbon Black serves more than 3,700 customers globally, including 33 of the Fortune 100. As a cybersecurity innovator, Carbon Black has pioneered multiple endpoint security categories, including application control, endpoint detection and response (EDR), and next-generation antivirus (NGAV). Leveraging its big data and analytics cloud platform – the Cb Predictive Security Cloud – Carbon Black solutions enable customers to defend against the most advanced cyber threats, including malware, ransomware, and non-malware attacks. Deployed via the cloud, on premise, or as a managed service, customers use Carbon Black solutions to lock down critical systems, hunt threats, and replace legacy antivirus.</p><p><em>Carbon Black, Inc. is an EEO/AA employer. Carbon Black is an inclusive employer that believes in workplace equality, supports diversity, creates a welcoming environment, and respects the unique qualities each individual brings to the company.</em></p>            </div>                            <h2>Benefits</h2>                    <ul>                            <li>                                <span></span>                                <span>Flexible vacation</span>                            </li>                            <li>                                <span></span>                                <span>Remote/Work-from-home options</span>                            </li>                            <li>                                <span></span>                                <span>Medical/Dental/Vision</span>                            </li>                            <li>                                <span></span>                                <span>Stand-up desks and unique workspaces</span>                            </li>                            <li>                                <span></span>                                <span>Free snacks/drinks, Happy Hours, and regular catering</span>                            </li>                            <li>                                <span></span>                                <span>Care.com access and pet insurance</span>                            </li>                            <li>                                <span></span>                                <span>On-site gym</span>                            </li>                            <li>                                <span></span>                                <span>Career development programs</span>                            </li>                            <li>                                <span></span>                                <span>Lounge/game room</span>                            </li>                            <li>                                <span></span>                                <span>Competitive salaries, 401k, and stock options</span>                            </li>                    </ul>                "
+  },
+  {
+    "id": "l20er1GZTdivvpEH-IthXQ",
+    "url": "http://www.indeed.co.uk/viewjob?t=Software+Developer&c=GPC+Systems&l=Swansea+SA6&jk=756e9e0f8cd971c4&from=rss",
+    "title": "Software Developer - GPC Systems Ltd - Swansea SA6",
+    "tags": [
+      "DBG:surround``OR(thrive,benefit,comfort,hour) 3N 2N(remot,work)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:objective-c/apple/3",
+      "DBG_TECH1:k/t/w:objective-c/c/2",
+      "DBG_TECH1:k/t/w:objective-c/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=21, c=4, mobile=10, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=3, java=1, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 19, 2018 2:43:25 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><b>Software Developer</b><br><span>GPC Systems Ltd</span>     -<span>Swansea SA6</span>    <div>        <span>                £25,000 - £30,000 a year</span>        </div></div><span><p>GPC Systems Ltd develop innovative software applications and services with an emphasis on emerging technology including 3D, machine learning and image analytics. With a strong history of providing technology to the healthcare sector, we have recently expanded our capability into local government and law enforcement as well as a growing private sector customer base. We have over 30 years of experience and provide great opportunities for individuals to develop their skills and whilst actively contributing ideas to advance our innovation. We provide a flexible work place and are looking for someone who will fit well with our current development team in Swansea.</p><p>The technology stacks you’ll be working with includes (but is not limited to):</p><p><b>C#, .NET, Angular 5, Azure, SQL Service, Android, Objective-c</b></p><p>What you need:</p><ul><li>Proficiency with .NET</li><li>SQL Experience</li><li>You will be innovative and able to embrace and learn new technologies quickly</li><li>You should be confident working as part of a team and happy to use collaborative technologies for development and communication.</li><li>Experience of desktop, web and mobile development.</li><li>Machine learning or image analytics will be beneficial but not necessary</li></ul><p>What we will do for you:</p><ul><li>Fun and relaxed environment</li><li>Exposure to a wide range of new and emerging technology</li><li>Flexible hours and remote working (As and when needed)</li><li>Structured development plan</li><li>Unlimited holidays. (Take holidays when you feel like you need a break).</li></ul><p>Job Type: Full-time</p><p>Salary: £25,000.00 to £30,000.00 /year</p><p>Education:</p><ul><li>Bachelor's</li></ul></span>"
+  },
+  {
+    "id": "h1fKMjseQtWAKRnZsljOCw",
+    "url": "http://www.indeed.co.uk/viewjob?t=Software+Developer&jk=756e9e0f8cd971c4&",
+    "title": "Software Developer - GPC Systems Ltd - Swansea SA6",
+    "tags": [
+      "DBG:surround``OR(thrive,benefit,comfort,hour) 3N 2N(remot,work)",
+      "DBG_TECH1:k/t/w:android/java/1",
+      "DBG_TECH1:k/t/w:android/mobile/2",
+      "DBG_TECH1:k/t/w:angular/frontend/8",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
+      "DBG_TECH1:k/t/w:machine-learning/bigdata-ml/4",
+      "DBG_TECH1:k/t/w:objective-c/apple/3",
+      "DBG_TECH1:k/t/w:objective-c/c/2",
+      "DBG_TECH1:k/t/w:objective-c/mobile/8",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=21, c=4, mobile=10, go=0, nodejs=0, bigdata-ml=4, ruby=0, apple=3, java=1, gamedev=0, php=0, embedded=0, frontend=8}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 19, 2018 2:43:25 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>Software Developer</h3><div>Company: GPC Systems Ltd<br></div><div>Location: Swansea SA6<br></div><div>£25,000 - £30,000 a year<br><br></div><span><p>GPC Systems Ltd develop innovative software applications and services with an emphasis on emerging technology including 3D, machine learning and image analytics. With a strong history of providing technology to the healthcare sector, we have recently expanded our capability into local government and law enforcement as well as a growing private sector customer base. We have over 30 years of experience and provide great opportunities for individuals to develop their skills and whilst actively contributing ideas to advance our innovation. We provide a flexible work place and are looking for someone who will fit well with our current development team in Swansea.</p><p>The technology stacks you’ll be working with includes (but is not limited to):</p><p><b>C#, .NET, Angular 5, Azure, SQL Service, Android, Objective-c</b></p><p>What you need:</p><ul><li>Proficiency with .NET</li><li>SQL Experience</li><li>You will be innovative and able to embrace and learn new technologies quickly</li><li>You should be confident working as part of a team and happy to use collaborative technologies for development and communication.</li><li>Experience of desktop, web and mobile development.</li><li>Machine learning or image analytics will be beneficial but not necessary</li></ul><p>What we will do for you:</p><ul><li>Fun and relaxed environment</li><li>Exposure to a wide range of new and emerging technology</li><li>Flexible hours and remote working (As and when needed)</li><li>Structured development plan</li><li>Unlimited holidays. (Take holidays when you feel like you need a break).</li></ul><p>Job Type: Full-time</p><p>Salary: £25,000.00 to £30,000.00 /year</p><p>Education:</p><ul><li>Bachelor's</li></ul></span>"
   },
   {
     "id": "0JLaXOBJTTauXBN_urtfgA",
@@ -3489,6 +4314,84 @@
     "published": "Jun 8, 2018 9:08:05 AM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<div><b>.Net Developer</b><br><span>Menard, Inc</span>     -<span>Eau Claire, WI 54703</span>    </div><span><div><p>The <b>.NET Developer’s </b>role is to assist in design, coordination, and implementation of activities related to developing software for Menard’s internal business users. You will find our work environment to be interesting and challenging. This position will allow you to increase your understanding of design approaches, system architectures, databases, and development methodologies. You will be given the opportunity to impact the daily operations of our business and make measurable contributions through the use of software and technology.</p><p><b>WHO YOU ARE:</b></p><p>You read your favorite development blog regularly. You are always willing to learn new technologies and adjust easily to new ideas. You are innovative. You want to gain experience with SOLID design principles using technologies like C#, Signal R, WebAPI, NUnit, Entity Framework, Oracle, SQL Server, Informix, and more. You love collaborating with others to provide elegant solutions to both complex development problems and complex business problems. You have already searched Stack Overflow to learn more about any of these topics.</p><p><b>PRIMARY RESPONSIBILITIES</b></p><ul><li>Work with senior staff to build our green field, next generation of business applications</li><li>Develop on a small, agile development team</li><li>Work with fellow team members in a cohesive, respectful, and highly communicative manner</li><li>Provide a positive attitude and desire to learn</li><li>Help maintain applications via assigned bug fixes and maintenance tasks</li><li>Perform general development tasks such as estimates, programming, testing, reviews, etc.</li></ul><ul><li>Bachelor’s or Associate’s degree in Computer Science, Computer Programming, or related field</li><li>Knowledge of Object Oriented Design principles</li><li>Understanding of Microsoft .NET</li><li>Basic experience with relational databases</li><li>Knowledge of automated unit testing and integration testing</li><li>Team-oriented and skilled in working within a collaborative environment</li><li>High capacity for learning business processes, technologies, and development methodologies</li><li>Ability to present ideas in business-friendly and user-friendly language</li><li>Proficient written, oral, and interpersonal communication skills</li><li><b>Must work within designated normal office hours - Monday-Friday, 40 hours/week - at the Corporate Office in Eau Claire, WI (remote work is not offered)</b></li><li><b>Candidates must be eligible to work in the United States, presently and in the future, without sponsorship</b></li></ul><p><b>To Apply:</b></p><p><b>1. Submit an online application:</b></p><p>www.menards.com/careers</p><p><b>2. Email resume &amp; unofficial transcripts</b><b> to:</b></p><p>Amy Albers, Corporate Human Resources Coordinator</p><p>aalbers@menard-inc.com</p><p><b>Please complete step 1 &amp; 2 to complete the application process</b></p></div></span>"
+  },
+  {
+    "id": "nPvPAjZ9QAqWVlu7DidHmg",
+    "url": "http://www.indeed.com/viewjob?t=Net+Developer&c=Menard&l=Eau+Claire,+WI&jk=79fb6e7d2c6aa9b8&from=rss",
+    "title": ".Net Developer - Menard, Inc - Eau Claire, WI",
+    "tags": [
+      "DBG:surround``12N(work, OR(home,remot), 5N(OR(offic,headquart,onsit), OR(dai,daili,week,weekli,month,monthli)) )",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=38, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 8, 2018 9:08:05 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><b>.Net Developer</b><br><span>Menard, Inc</span>     -<span>Eau Claire, WI 54703</span>    </div><span><div><p>The <b>.NET Developer’s </b>role is to assist in design, coordination, and implementation of activities related to developing software for Menard’s internal business users. You will find our work environment to be interesting and challenging. This position will allow you to increase your understanding of design approaches, system architectures, databases, and development methodologies. You will be given the opportunity to impact the daily operations of our business and make measurable contributions through the use of software and technology.</p><p><b>WHO YOU ARE:</b></p><p>You read your favorite development blog regularly. You are always willing to learn new technologies and adjust easily to new ideas. You are innovative. You want to gain experience with SOLID design principles using technologies like C#, Signal R, WebAPI, NUnit, Entity Framework, Oracle, SQL Server, Informix, and more. You love collaborating with others to provide elegant solutions to both complex development problems and complex business problems. You have already searched Stack Overflow to learn more about any of these topics.</p><p><b>PRIMARY RESPONSIBILITIES</b></p><ul><li>Work with senior staff to build our green field, next generation of business applications</li><li>Develop on a small, agile development team</li><li>Work with fellow team members in a cohesive, respectful, and highly communicative manner</li><li>Provide a positive attitude and desire to learn</li><li>Help maintain applications via assigned bug fixes and maintenance tasks</li><li>Perform general development tasks such as estimates, programming, testing, reviews, etc.</li></ul><ul><li>Bachelor’s or Associate’s degree in Computer Science, Computer Programming, or related field</li><li>Knowledge of Object Oriented Design principles</li><li>Understanding of Microsoft .NET</li><li>Basic experience with relational databases</li><li>Knowledge of automated unit testing and integration testing</li><li>Team-oriented and skilled in working within a collaborative environment</li><li>High capacity for learning business processes, technologies, and development methodologies</li><li>Ability to present ideas in business-friendly and user-friendly language</li><li>Proficient written, oral, and interpersonal communication skills</li><li><b>Must work within designated normal office hours - Monday-Friday, 40 hours/week - at the Corporate Office in Eau Claire, WI (remote work is not offered)</b></li><li><b>Candidates must be eligible to work in the United States, presently and in the future, without sponsorship</b></li></ul><p><b>To Apply:</b></p><p><b>1. Submit an online application:</b></p><p>www.menards.com/careers</p><p><b>2. Email resume &amp; unofficial transcripts</b><b> to:</b></p><p>Amy Albers, Corporate Human Resources Coordinator</p><p>aalbers@menard-inc.com</p><p><b>Please complete step 1 &amp; 2 to complete the application process</b></p></div></span>"
+  },
+  {
+    "id": "9CL8QuJ-TqyLetLLU8vFuw",
+    "url": "http://www.indeed.com/viewjob?t=Net+Developer&jk=79fb6e7d2c6aa9b8&",
+    "title": ".Net Developer - Menard, Inc - Eau Claire, WI",
+    "tags": [
+      "DBG:surround``12N(work, OR(home,remot), 5N(OR(offic,headquart,onsit), OR(dai,daili,week,weekli,month,monthli)) )",
+      "DBG_TECH1:k/t/w:c#/c/2",
+      "DBG_TECH1:k/t/w:c#/dotnet/5",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
+      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=38, c=2, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/50",
+      "TECH1/dotnet",
+      "TITLE1/dev",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 8, 2018 9:08:05 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>.Net Developer</h3><div>Company: Menard, Inc<br></div><div>Location: Eau Claire, WI 54703<br></div><span><div><p>The <b>.NET Developer’s </b>role is to assist in design, coordination, and implementation of activities related to developing software for Menard’s internal business users. You will find our work environment to be interesting and challenging. This position will allow you to increase your understanding of design approaches, system architectures, databases, and development methodologies. You will be given the opportunity to impact the daily operations of our business and make measurable contributions through the use of software and technology.</p><p><b>WHO YOU ARE:</b></p><p>You read your favorite development blog regularly. You are always willing to learn new technologies and adjust easily to new ideas. You are innovative. You want to gain experience with SOLID design principles using technologies like C#, Signal R, WebAPI, NUnit, Entity Framework, Oracle, SQL Server, Informix, and more. You love collaborating with others to provide elegant solutions to both complex development problems and complex business problems. You have already searched Stack Overflow to learn more about any of these topics.</p><p><b>PRIMARY RESPONSIBILITIES</b></p><ul><li>Work with senior staff to build our green field, next generation of business applications</li><li>Develop on a small, agile development team</li><li>Work with fellow team members in a cohesive, respectful, and highly communicative manner</li><li>Provide a positive attitude and desire to learn</li><li>Help maintain applications via assigned bug fixes and maintenance tasks</li><li>Perform general development tasks such as estimates, programming, testing, reviews, etc.</li></ul><ul><li>Bachelor’s or Associate’s degree in Computer Science, Computer Programming, or related field</li><li>Knowledge of Object Oriented Design principles</li><li>Understanding of Microsoft .NET</li><li>Basic experience with relational databases</li><li>Knowledge of automated unit testing and integration testing</li><li>Team-oriented and skilled in working within a collaborative environment</li><li>High capacity for learning business processes, technologies, and development methodologies</li><li>Ability to present ideas in business-friendly and user-friendly language</li><li>Proficient written, oral, and interpersonal communication skills</li><li><b>Must work within designated normal office hours - Monday-Friday, 40 hours/week - at the Corporate Office in Eau Claire, WI (remote work is not offered)</b></li><li><b>Candidates must be eligible to work in the United States, presently and in the future, without sponsorship</b></li></ul><p><b>To Apply:</b></p><p><b>1. Submit an online application:</b></p><p>www.menards.com/careers</p><p><b>2. Email resume &amp; unofficial transcripts</b><b> to:</b></p><p>Amy Albers, Corporate Human Resources Coordinator</p><p>aalbers@menard-inc.com</p><p><b>Please complete step 1 &amp; 2 to complete the application process</b></p></div></span>"
   },
   {
     "id": "2CyEgms9QGedFgUPZmliTQ",
@@ -4689,362 +5592,6 @@
     "published": "May 24, 2018 1:20:40 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "C# Developer, Software Developer, C#, ASP.Net, Remote Working - Jobmote<div><div><h2>C# Developer, Software Developer, C#, ASP.Net, Remote Working</h2><h5>Corriculo Ltd</h5></div></div><div><div><div><div></div></div><div><div><div><p><strong>C# Developer, Software Developer, C#, ASP.Net, JavaScript, Remote Working</strong><br>This is an excellent opportunity for an experienced C# Developer to join a disruptive technology company who have recently moved their head office to Oxford. Working predominantly from home as part of a fully distributed technical team..... click apply for full job details </p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "OyOoz4i9RRuyhMvO8ugyCQ",
-    "url": "http://jobmote.com/jobs/10368-visualfiles-developer-remote-working-available",
-    "title": "Visualfiles Developer (remote working available)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG:surround``remot 3N OR(options, avail, allow) NOT encourag",
-      "DBG_TECH1:k/t/w:c#/c/4",
-      "DBG_TECH1:k/t/w:c#/dotnet/10",
-      "DBG_TECH1:k/t/w:computer-vision/bigdata-ml/8",
-      "DBG_TECH1:k/t/w:vb.net/dotnet/24",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=34, c=4, mobile=0, go=0, nodejs=0, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/50",
-      "TECH1/dotnet",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 14, 2018 11:23:39 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Visualfiles Developer (remote working available) - Jobmote<div><div><h2>Visualfiles Developer (remote working available)</h2><h5>Anonymous</h5></div></div><div><div><div><div></div></div><div><div><div><p>Capita are partnered with a global consultancy to help resource a Visualfiles Developer to work on-site with a legal sector client. This is a 6 month contract opportunity with immediate start available. The developer will spend one to two weeks with the technical team who are based in Manchester and after that the contract will be remote working. </p><p>We are looking for people with recent Visualfiles experience or case management experience (Aderant, Elite 3E). The developer must also come from a strong Microsoft background with C# VB template design. </p><p>Other Useful Skills </p><ul><li> Openedge Administration<br></li><li> SOS Practice Manager Administration<br></li><li> Writing SQL queries<br></li><li> C#<br></li><li> VB<br></li><li> VB Script<br></li><li> MS Word template design<br></li><li> Workflow Analysis &amp; Design<br></li></ul><p>If you are available within a weeks' time, please apply with your latest CV. </p><p>Capita IT Resourcing is acting as an Employment Business in relation to this vacancy </p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "5M7wJfq1T662criWhbuMJA",
-    "url": "http://jobmote.com/jobs/10360-full-stack-developer-remote",
-    "title": "Full Stack Developer (Remote)",
-    "tags": [
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:c#/c/4",
-      "DBG_TECH1:k/t/w:c#/dotnet/10",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=11, c=4, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=2}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 14, 2018 11:23:32 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Full Stack Developer (Remote) - Jobmote<div><div><h2>Full Stack Developer (Remote)</h2><h5>GTL Europe Ltd</h5></div></div><div><div><div><div></div></div><div><div><div><p>Job Description</p><p>Full Stack Developer (C# / JavaScript)<br>Remote<br>£40,000 - £60,000 plus bonus plus equity </p><p>A hugely successful software house are looking for a talented Full Stack Developer to join their team and help build complex solutions that have a massive impact on thousands of users on a daily basis. There is plenty of scope to develop new markets that can use these applications and the growth potential is enormous. Fantastic team environment and career path for the right candidate. You will be working with a highly talented team building amazing applications. Fantastic chance to elevate your career! </p><p>The Role </p><ul><li> Develop outstanding applications<br></li><li> Ensure that systems are reliable<br></li><li> Build complex new functionality<br></li><li> Working in a collaborative environment<br></li></ul><p>Tech Skills </p><ul><li> C#.NET<br></li><li> MVC framework<br></li><li> JavaScript with knowledge of a variety of frameworks<br></li><li> SQL Server<br></li><li> Cloud technology such as Azure<br></li><li> TDD, Agile processes<br></li></ul><p>If this sounds like the type of outstanding role you have been waiting for then please &quot;click apply&quot; to ensure that one of our dedicated consultants contacts you to tell you more about the role and better understand your requirements.</p><p></p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "NvfRhjKiSAecucBOygrKIw",
-    "url": "http://jobmote.com/jobs/10228-net-developer-remote-or-office-based",
-    "title": ".Net Developer Remote or Office Based",
-    "tags": [
-      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG_TECH1:k/t/w:angularjs/frontend/8",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/40",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
-      "DBG_TECH1:k/t/w:typescript/frontend/1",
-      "DBG_TECH1:k/t/w:typescript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=46, c=2, mobile=0, go=0, nodejs=3, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=11}",
-      "REMOTE1/50",
-      "TECH1/dotnet",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 11, 2018 11:22:42 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": ".Net Developer Remote or Office Based - Jobmote<div><div><h2>.Net Developer Remote or Office Based</h2><h5>Nigel Frank International</h5></div></div><div><div><div><div></div></div><div><div><div><p><strong>My client is looking to hire a .Net Developer to join their team. The position has an option of remote working - but you must be able to be on site once every two weeks for a team meeting.</strong></p><p><strong>Responsibilities:</strong></p><ul><li>Work with the latest tools and technologies</li><li>Have great kit to work with and a sit stand desk to work from</li><li>Follow best practices - domain-driven design, behaviour-driven development, test-driven development, pair programming, refactoring, SCRUM, continuous Integration and code reviews</li><li>Write tests, build features, fix bugs. Code!</li><li>Take responsibility for your work and see it delivered to customers</li><li>Work with a fun team in a great location</li><li>Join a comprehensive health insurance scheme</li><li>Join company pension scheme</li></ul><p><strong>Skills &amp; Requirements</strong></p><p>You'll have:</p><ul><li>Professional experience using C#</li><li>In-depth knowledge of .NET</li><li>Experience of REST API development and JSON</li><li>Knowledge of Domain-Driven Design approach</li><li>Test/Behaviour-Driven development experience</li><li>Deep knowledge of S.O.L.I.D. principles of OOD</li><li>Experience of ReSharper/other refactoring tools</li><li>Experience of profiling tools (RedGate, JetBrains, MSSQL)</li><li>Experience in working with SQL databases</li><li>Experience delivering solutions at scale</li></ul><p>Experience in these would be desireable:</p><ul><li>MongoDb or NoSQL databases in general</li><li>Elasticsearch</li><li>AngularJS or other MVC JS frameworks</li><li>Agile working</li><li>Javascript / Typescript</li><li>Container technologies</li><li>Microservices</li><li>RabbitMQ</li></ul></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "UTbNtrQKRUyEkhQfNIeFAw",
-    "url": "http://workinstartups.com/job-board/job/68939/lead-developer-at-third-way-legal/",
-    "title": "Lead Developer",
-    "tags": [
-      "DBG:surround``OR(employe,develop,engin,team,workmat) 2W locat",
-      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
-      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:css/frontend/3",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:less/frontend/5",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/1",
-      "DBG_TECH1:k/t/w:twitter-bootstrap/frontend/8",
-      "DBG_TECH1:k/t/w:typescript/frontend/1",
-      "DBG_TECH1:k/t/w:typescript/nodejs/1",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=22, c=2, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=26}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TECH1/frontend",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet",
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 11, 2018 4:45:10 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Organisation - Third Way Legal (www.thirdway.pro)<br /><br />Role - Lead / Full Stack Developer<br /><br />Location - Bond Street / Marble Arch<br /><br />Tools & Technologies:<br /><br />Back-End:<br />•    C# 6.0 Programming Language<br />•    Microsoft SQL Server 2014 Database<br />•    ADO.NET Data Access<br /><br />Front-End:<br />•    ASP.NET MVC 5.0<br />•    Twitter Bootstrap 3.3.7 Responsive Front-End Framework<br />•    HTML/CSS (LESS)/JavaScript (TypeScript)/jQuery<br /><br />Company Description<br /><br />Law firms and in-house legal teams spend hundreds of millions annually to attract the top legal candidates in the UK alone. But lawyers are terribly served by traditional recruitment agencies, who rely on anonymised web ads or inexperienced cold callers to engage potential legal recruits.<br /><br />Our founders, Tom Balmer and David Crocker, have been involved in the establishment and growth of some of the best names in the legal recruitment industry since the early noughties.  In 2017 they launched Third Way Legal, a marketplace platform designed to change the way lawyers engage with the jobs market.<br /><br />Third Way is a unique network, where lawyers can confidentially see which firms are looking for lawyers like them (in some ways it is similar to workinginstartups.com!). Following an amazing first year, where we have grown to 6 people and are annualising a million in turnover, we now are looking to build an in-house tech team.<br /><br />It's an extremely exciting time to join the business.  We are expanding into the interim market, looking to grow into new geographies, and have so many new feature ideas it hurts.  We're looking for a full-stack developer, comfortable with front and back end development, who is pragmatic and can eager to grow with the firm.  If that sounds like you, and you'd like to join us on our journey to change the legal recruitment industry, please get in touch!"
-  },
-  {
-    "id": "vYFnCYOySc6T_-DRJtYyCQ",
-    "url": "https://weworkremotely.com/remote-jobs/myhub-intranet-solutions-dnn-web-developer-work-from-anywhere-in-the-us",
-    "title": "MyHub Intranet Solutions: DNN Web Developer - Work From Anywhere In The US",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR( australia, japan, newzealand)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(europ, european, europeanunion)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W usa",
-      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:css/frontend/6",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/16",
-      "DBG_TECH1:k/t/w:iis/dotnet/8",
-      "DBG_TECH1:k/t/w:javascript/frontend/2",
-      "DBG_TECH1:k/t/w:javascript/nodejs/2",
-      "DBG_TECH1:k/t/w:jquery/frontend/16",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=29, c=2, mobile=0, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=24}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TECH1/frontend",
-      "TITLE1/dev",
-      "TZ/America"
-    ],
-    "tagsNames1": [
-      "American time zones"
-    ],
-    "tagsNames2": [
-      "dotnet",
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 11, 2018 6:32:15 AM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div>  <div>    <h2>DNN Web Developer - Work From Anywhere In The US</h2>      <h4>Posted May 11</h4>    <h3>      <span>MyHub Intranet Solutions</span><br>      <span>Headquarters: New Zealand</span><br>        <a href='https://www.myhubintranet.com' rel='nofollow'>https://www.myhubintranet.com</a>      <br>      <a rel='nofollow'>View all MyHub Intranet Solutions jobs →</a>    </h3>  </div>    </div>  <div>    <div>“Exciting International Software as a Service company with exceptional growth and prospects. Beat the daily commute, work from home anywhere in the US!”<span><br></span></div><div></div><div><br></div><div><span>Live the work/life balance dream, beat the daily commute, work from anywhere in the US. Based in Auckland New Zealand, we operate a 100% remote working policy with people based in the US and Europe. The company doesn’t just pay lip service to work-life balance, we live it every day, with flexible time throughout the day, to balance work and family commitments.</span></div><div><span><br></span></div><div><span>Please note</span>: This is a permanent fulltime contacting role, the successful applicant will be paid monthly and will be entitled to up to 5 days sick leave and 4 weeks paid leave per annum. Medical and other benefits will not be provided by the company nor will computing equipment, however, an allowance for these items will be included in the monthly payment.</div><div><br></div><div>We have a vacancy for an experienced DNN Developer who will be tasked with helping the continued development of a well-established web-based product in the global marketplace. We are looking for an enthusiastic intermediate to senior level .Net web developer who has proven experience developing custom web-based solutions using the DNN framework.</div><div><br></div><div>The ideal candidate will also have experience in the hosting, optimization and scaling of the DNN CMS platform. Experience around the user experience and modern presentation layer best practices is also desirable.</div><div><br></div><div><span><b>Job Purpose</b></span></div><div><span><br></span></div><ul><li>Play a key technical development role in helping shape the systems and processes associated with the development, support and delivery of new products, solutions and platforms.</li><li>Work with the management team to provide development solutions that will support online business development, product support, roadmap and marketing activities.</li></ul><div><span><br></span></div><div><span><b>Key Responsibilities</b></span></div><div><span><br></span></div><ul><li>The development and delivery of back and front-end code. This includes but is not limited to the development of C#, HTML, CSS, XML, JavaScript, JQuery, SQL queries and database design.</li><li>Delivery of front-end code designed for the best possible user experience. Where practical implementation of modern presentation layer best practices.</li><li>The development and delivery of hosting optimization, caching and scaling of the DNN CMS platform.</li><li>Continual development project progress reporting to line management.</li><li>De-risk the businesses software delivery lifecycle activities by working with other staff to ensure that proven methodologies are implemented and adhered to. Ensure that all backend and frontend code is delivered in line with modern best practices where practical.</li><li>Manage and where possible improve the development and change control processes across all environments and systems.</li><li>Work to resolve technical issues. Assist with the implementation of processes and policies to limit future occurrences.</li><li>Work with the management team to set goals designed to improve personal performance.</li><li>Work closely with both the management team and other technical resources using clear communications.</li><li>Play a key role from a development perspective in business analysis activities associated with the development of new products, solutions, platforms and internal business systems.</li><li>Where required ensure that requirements are effectively documented in order to de-risk delivery.</li><li>Proactively identify and communicate new product roadmap development and cost reduction opportunities for the business. Actively participate in the development and delivery of customer services solutions for the business as demand grows.</li><li>Work with the management team to help with the sourcing and onboarding of new technical staff into the business.</li></ul><div><span><br></span></div><div><span><b>Requirements</b></span><br></div><div></div><div><span><br></span></div><ul><li>DNN commercial development experience 2+ years</li><li>Several years .Net and MySQL commercial experience</li><li>Excellent verbal and written communication skills</li><li>Knowledge of optimization, caching and scaling techniques</li><li>Experience using IIS, HTML (XHTML, HTML4/5), CSS, Media Queries, XML</li><li>Experience using modern JavaScript frameworks, jQuery</li><li>Familiarity of web usability and W3C standards</li><li>Experience working in an Amazon Web Services environment</li><li>Dedicated workspace to be able to work from home</li><li>High-speed home broadband connection</li><li>Very strong teamwork skills</li><li>Self-motivated problem solver with a strong work ethic</li><li>Ability to work remotely and survive long periods of time without physically seeing your co-workers (although you will be in daily communication with your team via email and video chat)</li><li>Some travel required</li></ul>  </div>  <div>    <h4>Apply for this position</h4>    <p>If you think that you are up for the challenge and would like to discuss working with our awesome team, please get in touch. To be considered for this position can you please send your resume along with a cover letter outlining why you feel you will be suitable for the role to <a href='mailto:mike.mcminn@myhubintranet.com' rel='nofollow'>mike.mcminn@myhubintranet.com</a></p>  </div>"
-  },
-  {
-    "id": "vzK5AoZeREyUOaJmxe_VUA",
-    "url": "https://weworkremotely.com/remote-jobs/onepager-front-end-software-engineer-for-cloud-app-in-net",
-    "title": "OnePager: Front-End Software Engineer for Cloud App in .NET",
-    "tags": [
-      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
-      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
-      "DBG_TECH1:k/t/w:frontend-developer/frontend/26",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=53, c=2, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=51}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TECH1/frontend",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet",
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 10, 2018 11:32:11 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div>  <div>    <h2>Front-End Software Engineer for Cloud App in .NET</h2>      <h4>Posted May 10</h4>    <h3>      <span>OnePager</span><br>      <span>Headquarters: Centennial, CO</span><br>        <a href='http://www.onepager.com' rel='nofollow'>http://www.onepager.com</a>      <br>      <a rel='nofollow'>View all OnePager jobs →</a>    </h3>  </div>    </div>  <div>    <div>Join a high-powered group of people who&nbsp;write amazing graphics softwarefor project planners around the world.&nbsp; Our customers love us because wemake communicating project plans so much easier.&nbsp; We are anagile-methodology company and encourage flexible work arrangements. Most (butnot all) of us are in the Denver area, but we <i><b>all</b></i> work from home and gettogether in small groups when&nbsp;it makes sense.&nbsp; Your job is to be a major contributor on our new SPA cloud app built with anASP.NET Core 2.0 back end.&nbsp; This app is quite&nbsp;challengingbecause our customers expect it to be as powerful as our rich desktop apps.&nbsp; Infact, it's likely that you've never worked on an app like this before.&nbsp; We're looking for someone eager to meet the challenge of putting a high-function graphics application in the cloud.&nbsp; Weare confident that we can get it to market and achieve success, but we could use your expertise especially if you've been down the SPA road and have learned some lessons from experience.</div><div><br></div><div></div><div><b>Minimum Required Skills:</b><br></div><div></div><div></div><div></div><div></div><ul><li>3-5 years experience with C#, JavaScript<br></li><li>Experience with ASP.NET MVC</li><li>Proven skills at software design, coding, unit-testing, troubleshooting,and customer interaction.</li></ul><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div><br></div><div></div><div><b>Desirable Experience:</b><br></div><div></div><div></div><div></div><div></div><div></div><div></div><ul><li>Experience with Single-Page Applications in Angular, React, Vue.js, ...&nbsp;<br></li><li>Experience with .Net Core 2.0<br></li></ul><div><br></div><div><b>Other Job Requirements:</b></div><ul><li>Strong English</li><li>Time zone: Mountain Standard Time (Denver) +- 3 hrs</li></ul><div></div><div></div><div></div><div></div><div></div><div></div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>E-mail your resume, cover letter, location (country/time zone), and compensation requirements to <a href='mailto:careers@onepager.com' rel='nofollow'>careers@onepager.com</a>. No telephone calls, third parties, or outsourcing proposals, please. Check out what we do at our web site: <a href='http://www.onepager.com' rel='nofollow'>www.onepager.com</a>.</p>  </div>"
-  },
-  {
-    "id": "m11z6cp2Qj2W6f3ftHZ9QQ",
-    "url": "https://weworkremotely.com/remote-jobs/onepager-front-end-developer-for-net-cloud-app",
-    "title": "OnePager: Front-End Developer for .NET Cloud App",
-    "tags": [
-      "DBG:surround``OR(you,we,employe,develop,engin,abl,workmat) 2W work 2W from 2W home",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:asp.net-mvc/dotnet/8",
-      "DBG_TECH1:k/t/w:asp.net/dotnet/8",
-      "DBG_TECH1:k/t/w:c#/c/2",
-      "DBG_TECH1:k/t/w:c#/dotnet/5",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/32",
-      "DBG_TECH1:k/t/w:frontend-developer/frontend/26",
-      "DBG_TECH1:k/t/w:javascript/frontend/1",
-      "DBG_TECH1:k/t/w:javascript/nodejs/1",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:vue.js/frontend/8",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=53, c=2, mobile=0, go=0, nodejs=1, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=51}",
-      "REMOTE1/100",
-      "TECH1/dotnet",
-      "TECH1/frontend",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [],
-    "tagsNames2": [
-      "dotnet",
-      "frontend"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 10, 2018 11:32:11 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div>  <div>    <h2>Front-End Developer for .NET Cloud App</h2>      <h4>Posted May 10</h4>    <h3>      <span>OnePager</span><br>      <span>Headquarters: Centennial, CO</span><br>        <a href='http://www.onepager.com' rel='nofollow'>http://www.onepager.com</a>      <br>      <a rel='nofollow'>View all OnePager jobs →</a>    </h3>  </div>    </div>  <div>    <div>Join a high-powered group of people who&nbsp;write amazing graphics softwarefor project planners around the world.&nbsp; Our customers love us because wemake communicating project plans so much easier.&nbsp; We are anagile-methodology company and encourage flexible work arrangements. Most (butnot all) of us are in the Denver area, but we <i><b>all</b></i> work from home and gettogether in small groups when&nbsp;it makes sense.&nbsp; Your job is to be a major contributor on our new SPA cloud app built with anASP.NET Core 2.0 back end.&nbsp; This app is quite&nbsp;challengingbecause our customers expect it to be as powerful as our rich desktop apps.&nbsp; Infact, it's likely that you've never worked on an app like this before.&nbsp; We're looking for someone eager to meet the challenge of putting a high-function graphics application in the cloud.&nbsp; Weare confident that we can get it to market and achieve success, but we could use your expertise especially if you've been down the SPA road and have learned some lessons from experience.</div><div><br></div><div></div><div><b>Minimum Required Skills:</b><br></div><div></div><div></div><div></div><div></div><ul><li>3-5 years experience with C#, JavaScript<br></li><li>Experience with ASP.NET MVC</li><li>Proven skills at software design, coding, unit-testing, troubleshooting,and customer interaction.</li></ul><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div><br></div><div></div><div><b>Desirable Experience:</b><br></div><div></div><div></div><div></div><div></div><div></div><div></div><ul><li>Experience with Single-Page Applications in Angular, React, Vue.js, ...&nbsp;<br></li><li>Experience with .Net Core 2.0<br></li></ul><div><br></div><div><b>Other Job Requirements:</b></div><ul><li>Strong English</li><li>Time zone: Mountain Standard Time (Denver) +- 3 hrs</li></ul><div></div><div></div><div></div><div></div><div></div><div></div><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>E-mail your resume, cover letter, location (country/time zone), and compensation requirements to <a href='mailto:careers@onepager.com' rel='nofollow'>careers@onepager.com</a>. No telephone calls, third parties, or outsourcing proposals, please. Check out what we do at our web site: <a href='http://www.onepager.com' rel='nofollow'>www.onepager.com</a>.</p>  </div>"
-  },
-  {
-    "id": "jgfzBsekS8G7RxkfKhI8oQ",
-    "url": "https://weworkremotely.com/remote-jobs/skapa-tech-llc-senior-net-developer",
-    "title": "Skapa Tech, LLC: Senior .NET Developer",
-    "tags": [
-      "DBG:surround``3N( OR(feasibl,OR(consid,consider),option,occas,opportun,possibl,abil), OR(3N(remot, work),telecommut,2N(work,home)) ) NOT OR(regularli, abracadabra)",
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG_TECH1:k/t/w:angular/frontend/8",
-      "DBG_TECH1:k/t/w:asp.net/dotnet/40",
-      "DBG_TECH1:k/t/w:c#/c/4",
-      "DBG_TECH1:k/t/w:c#/dotnet/10",
-      "DBG_TECH1:k/t/w:dotnet/dotnet/40",
-      "DBG_TECH1:k/t/w:reactjs/frontend/8",
-      "DBG_TECH1:k/t/w:sql-server/dotnet/2",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=92, c=4, mobile=0, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=16}",
-      "REMOTE1/50",
-      "TECH1/dotnet",
-      "TITLE1/dev",
-      "TZ/unknown"
-    ],
-    "tagsNames1": [
-      "50% remote"
-    ],
-    "tagsNames2": [
-      "dotnet"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 10, 2018 3:34:04 PM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "<div>  <div>    <h2>Senior .NET Developer</h2>      <h4>Posted May 10</h4>    <h3>      <span>Skapa Tech, LLC</span><br>      <span>Headquarters: Charlottesville, VA, USA</span><br>        <a href='http://www.skapatech.com/' rel='nofollow'>http://www.skapatech.com/</a>      <br>      <a rel='nofollow'>View all Skapa Tech, LLC jobs →</a>    </h3>  </div>    </div>  <div>    <div>Skapa is an IT Consultancy specializing in the development of high-quality web-based applications. Skapa is seeking a multi-talented .NET developer to join their growing team.&nbsp;</div><div><br></div><div><b>Job Description</b></div><div><br></div><div><i>Job Type</i>: Contract (3-6 months)</div><div><i>Location</i>: Remote/Home-based or Downtown Charlottesville, VA</div><div><br></div><div>We are seeking a mid-level to senior .NET developer responsible for adding new features to an existing ASP.NET WebForms site.&nbsp; The main technologies are: ASP.NET WebForms (C# / Framework 4.6) and SQL Server. Your primary responsibility will be to develop both the front-end and back-end of the new features, and to coordinate with the rest of the team working on different layers of the infrastructure. A commitment to collaborative problem solving, sophisticated design, and quality product is essential.</div><div><br></div><div>The position has the potential to transition to a new ASP.NET Core/Reactjs application that is being developed concurrently.</div><div><br></div><div><b>Responsibilities</b><br></div><ul><li>Translate application storyboards and use cases into functional applications</li><li>Design, build, and maintain efficient, reusable, and reliable code</li><li>Ensure the best possible performance, quality, and responsiveness of applications</li><li>Provide timely updates on tasks and meet internal and client deadlines with high quality deliverables.</li><li>Excellent communication and interpersonal skills</li></ul><div><span><br></span></div><div><span><b>Skills</b></span><br></div><ul><li>Ability to work remotely with a quiet work environment<br></li><li>Self-directed<br></li><li>5+ years of web development experience using ASP.NET WebForms<br></li><li>Strong knowledge of .NET web framework ASP.NET WebForms (C#)&nbsp;&nbsp;<br></li><li>Strong Knowledge of Microsoft SQL Server and stored procedures&nbsp;<br></li><li>Experience with popular web application frameworks<br></li><li>Understanding of fundamental design principles for building a scalable application<br></li><li>Experience creating the database schema that represent and support business processes<br></li><li>Understanding of entire development process, including specification, documentation, and quality assurance<br></li><li>Proficient understanding of code versioning tools such as git</li></ul><div><br></div>  </div>  <div>    <h4>Apply for this position</h4>    <p>Please email your resume to: <a href='mailto:skapa.careers@skapatech.com' rel='nofollow'>skapa.careers@skapatech.com</a>US citizens only; no recruiters or staffing agencies.</p>  </div>"
   }
 ]
 }

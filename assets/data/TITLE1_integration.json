@@ -1,6 +1,116 @@
 {
  "items": [
   {
+    "id": "D94k0SflSR-Hp1MHIGDvjA",
+    "url": "http://jobmote.com/jobs/17084-developer-rpa-robotic-process-automation-remote-position",
+    "title": "Developer - RPA - Robotic Process Automation - remote position",
+    "tags": [
+      "DBG:surround``2N(remot, posit)",
+      "REMOTE1/100",
+      "TECH1/unknown",
+      "TITLE1/integration",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "unknown"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 14, 2018 5:21:06 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><div><div></div></div><div><div><div><p>This is a remote position, scheduled to be 6 months with possibility of extensions.</p><p>Looking for senior developers that have specific experience with: </p><p>RPA (Robotic Process Automation)<br>Blue Prism<br>ABBYY</p><ul><li>provided by Dice RPA - Robotic Process Automation, Blue Prism, ABBYY </li></ul></div></div><div></div></div></div>"
+  },
+  {
+    "id": "jtL6bfE_QfOxqU7lA6xbMw",
+    "url": "http://workinstartups.com/job-board/job/70903/lead-automation-developer-in-test-at-altus-group/",
+    "title": "Lead Automation Developer in Test",
+    "tags": [
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:k/t/w:dotnet/dotnet/8",
+      "DBG_TECH1:k/t/w:java/java/2",
+      "DBG_TECH1:k/t/w:java/mobile/1",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=18, c=4, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
+      "REMOTE1/100",
+      "TECH1/dotnet",
+      "TITLE1/integration",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 12, 2018 7:18:21 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "Who we are<br /><br />Altus Group is a leading provider of software, data solutions and independent advisory services to the global commercial real estate industry. Our businesses, Altus Analytics and Altus Expert Services, empower clients to analyse, gain market insight and recognise value on their real estate investments. Headquartered in Canada, we have approximately 2,300 employees around the world, with operations in North America, Europe and Asia Pacific.<br /><br />Altus Analytics, the software and data solutions division of Altus Group, is driving an evolution in the commercial real estate industry by empowering clients and partners with industry standard software solutions, data products and technology enabled services.<br /><br />The opportunity<br /><br />We are looking for a Lead Automation Developer in Test to join our Core Services team and work across three significant global products. We need a hands-on Lead Developer in Test who understands how to test web services and has experience creating both UI and API test frameworks with Selenium webdriver and C#. Someone who can share their knowledge, introduce best practices, create and coordinate automation in testing. We need a Lead Automation Developer in Test who realises the full potential of automation testing and strives to improve the framework through new insights or existing flaws. We want a champion of Behaviour-Driven Development (BDD) and a forward thinker. Someone who knows the value of automation in Agile software development and the importance of QA to engineer valuable tests. A Lead Automation Developer in Test who can liaise with all sides of the business to get the best results. This is an opportunity to drive and extend Automation for our new platform; to lead the work of remote automation engineers in India; and to build out your role and the team.<br /><br />Who you are<br /><br />You are a hands-on team leader and a thought leader; a Developer and an Automation test specialist. You are looking for an opportunity to join a rapidly growing organization. You may be working as a consultant for a large corporation as part of a team focused on web services implementation. You know how to build relationships and frameworks; how to collaborate across teams and how to create testing in different environments. You have end-to-end project work experience where you worked building and testing Front End Automation frameworks and API Web Services. You have experience determining when and how testing needs to occur; organizing testing; and converting manual to automation.<br /><br />What’s in it for you<br /><br />- Influence. You want to join a rapidly scaling PropTech leader where you can influence and drive the Automation testing of multiple global products. You want to have your opinion valued and have a say in the tools and the processes.<br />- Knowledge and growth. We are passionate about technology and as the industry leaders in Prop Tech, we know the future is in Automation and the cloud. As we grow, you will have an opportunity to build out an Automation Test team and to work on additional products.<br />- Exposure. This is an opportunity to be part of rolling out a unique platform and many products that will support and positively impact users in PropTech around the world.<br /><br />Here’s what our Lead Automation Developer in Test will do:<br /><br />- Provide supervision, guidance and day to day oversight to the offshore QA Automation team.<br />- Automate Functional UI and API tests.<br />- Performance, Scalability and Load tests.<br />- Manage the nightly automated test build on Jenkins.<br />- Coordinate the automation tasks in Jira within the team, including code management using Git.<br />- Work with other members of the QA Team to develop automation across all areas of the system including financial reports, database, UI and Excel integration.<br />- Provide support and training in automation.<br />- Establish best practices for automation, maintain high code quality and drive processes to enable smooth and efficient automation.<br />- Actively participate in team meetings; set and meet sprint deliverables.<br />- Work alongside the development team and product management team to obtain clarification on requirements and functionality and resolve all issues as efficiently as possible.<br />- Conduct research, suggest solutions, and generally do whatever it takes.<br /><br />Position Requirements: <br /><br />How do we know that’s you? You are:<br /><br />- A university graduate. You have a Bachelor’s degree in Computer Science.<br />- An experienced Developer. You have expertise in SQL, .NET, either  C# or Java and building software automation using Selenium WebDriver. You have worked on designing and implementing automation frameworks from end-to-end on multiple complex projects. You have experience testing web services and applications with Gherkin format; creating and testing API frameworks; and testing Front End with NJOY. You have deep knowledge of cloud technology.<br />- An innovative problem-solver. You think creatively in testing commercial grade software. You have exposure to multiple products and tools and you enjoy researching new methods. You have a range of experience implementing and maintaining an automation testing framework and you are able to offer guidance and advice based on deep knowledge of automation testing techniques and tools.<br />- A leader. You are results-driven, with initiative and highly capable of meeting deadlines. You can motivate and support the work of local and offshore teams. You thrive in a fast-paced environment. Experience leading remote teams is an asset.<br />- A strong communicator. You have excellent interpersonal and communication skills. You can build positive relationships with stakeholders, end users and members of a project team.<br /><br />Altus Analytics is:<br /><br />- Fast. We are responsive and fast, working in a startup-like environment, developing new solutions and features that meet the demands of our users. With the solid financial stability of our bigger parent-group, we can offer the best of both worlds - cool tech, great benefits, challenges and rewards.<br />- First. We continuously innovate to stay ahead of our competitors. We set the standard for the CRE industry.<br />- Fun. From social Fridays to summer sailing; from holiday parties to mid-winter hackathons, we know how to take a step back and relax with co-workers.<br />- Future-focused. As an organisation, we are focused on growing our reach and our product offering. For anyone joining us, this means the chance to work on critical projects that will shape the success of our clients and grow your own career moving up to the next level, choosing to specialise or exploring different product teams.<br />- We thank you in advance for taking the time to learn more about what makes Altus a great place to grow your career and do some of your best work. Apply now, refer a friend or stay on top of what’s new by following us on LinkedIn.<br /><br /><br />Altus Group is committed to fostering an inclusive and accessible environment where employees feel valued and respected, and where every employee has the opportunity to realize their potential. We are committed to providing reasonable accommodations, if required, and will work with you to meet your needs."
+  },
+  {
+    "id": "RxwR5xthRkK1gnEUqJh1CQ",
+    "url": "https://stackoverflow.com/jobs/196813/healthcare-integrations-specialist-medical-management-systems?a=140j7WDFK276",
+    "title": "Healthcare Integrations Specialist at Medical Management Systems (London, UK) ",
+    "tags": [
+      "DBG:surround``OR(no,no W central) W offic",
+      "DBG_TECH1:k/t/w:c#/c/4",
+      "DBG_TECH1:k/t/w:c#/dotnet/10",
+      "DBG_TECH1:k/t/w:distributed-database/bigdata-ml/8",
+      "DBG_TECH1:k/t/w:javascript/frontend/3",
+      "DBG_TECH1:k/t/w:javascript/nodejs/3",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=10, c=4, mobile=0, go=0, nodejs=3, bigdata-ml=8, ruby=0, apple=0, java=0, gamedev=0, php=0, embedded=0, frontend=3}",
+      "REMOTE1/100",
+      "TECH1/bigdata-ml",
+      "TECH1/dotnet",
+      "TITLE1/integration",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [],
+    "tagsNames2": [
+      "bigdata-ml",
+      "dotnet"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "GBP",
+      "minValue": 45000,
+      "maxValue": 65000,
+      "info": "",
+      "unit": "YEAR",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jul 12, 2018 6:30:02 PM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h2><span>Healthcare Integrations Specialist</span>                </h2>                    <h3>About this job</h3>                    <div>                            <div>                                    <div>                                        <span>Job type: </span>                                        <span>Full-time</span>                                    </div>                                    <div>                                        <span>Experience level: </span>                                        <span>Mid-Level, Senior</span>                                    </div>                                    <div>                                        <span>Industry: </span>                                        <span>Healthcare, Medical, Medical Software</span>                                    </div>                            </div>                            <div>                                    <div>                                        <span>Company size: </span>                                        <span>11-50 people</span>                                    </div>                                    <div>                                        <span>Company type: </span>                                        <span>Private</span>                                    </div>                            </div>                    </div>                <div>Company: Medical Management Systems | London, UK<br></div>                        <h3>Remote details</h3>                        <div>                            <div>                                    <div>                                        <span>Employer's note:</span>                                        <span>Remote working is supported after an initial trial period.  Staff will be expected to spend some time in the office during the month</span>                                    </div>                                                                                                                                                            </div>                        </div>                    <h3>Technologies</h3><div></div><div>javascript</div><div>c#</div><div>integration</div><div>mirth</div><div>hl7</div>                <h3>Job description</h3>                <div><p>We are looking for a motivated individual who has experience of integrating healthcare systems using the various messaging formats out there. The following requirements are relatively flexible if you have significant integrations experience in other fields:</p><p>Very comfortable with structured data formats including:</p><p>* XML<br>* JSON<br>* HL7</p><p>DICOM familiarity:</p><p>* DICOM Modality Worklist (Query / Retrieve)<br>* DICOM Archive / Storage Servers</p><p>HL7 Standards and integrations<br>TCP communication / Networking familiarity (including HTTP/HTTPS protocols)<br>Basic understanding of javascript and C# programming<br>Background working with both SOAP and REST APIs<br>Javascript or other scripting experience highly desirable</p><p>Bonus:<br>Ever worked with Mirth Connect or Cloverleaf (cross platform HL7 interface and routing engines)</p><p>We develop a very comprehensive healthcare web-application that runs all aspects of a medical practice (from GP practices up to large hospitals groups). Our application includes:</p><p>Patient medical record system<br>Comprehensive consultation suite<br>Document management<br>Scheduling<br>Accounting<br>Email<br>Social network<br>Task management<br>Referral management<br>Reporting and query system for analytics<br>Clinical text analysis using NLP<br>Collaboration system<br>Practice networking<br>Patient portal<br>Occupational health portal<br>PACS system (MRI/X-ray/Ultrasound)<br>And much more...</p><p>We have a very relaxed working environment that is more akin to a start-up than a company that's been running for 12 years. We have a team of 10 developers who are very capable and committed . There are no office politics or any of that nonsense, it's a very collaborative environment. We try to keep quite a flat structure where we expect developers to take responsibility for dealing with everything in their purview (with the CTO there as adviser if needed). This has allowed us to keep the team small and efficient.</p><p>We need creatively minded individuals who can solve unique problems; not just with code and integration problems, but in improving healthcare too. Healthcare professionals are often not very tech-savvy, and are therefore either scared or incapable of communicating with tech-people. So I need individuals that can hear a real world problem and think creatively and with empathy for the end user.</p>                </div>            <div>        <a href='https://stackoverflow.com/jobs/apply/196813?reset=False&amp;ra=140j7WDFK276&amp;oqs=a%3D140j7WDFK276' rel='nofollow'>Apply now</a></div><div>                                                                                                                                                            </div>            <h3>About Medical Management Systems</h3>            <div><p><em><strong>A collaborative and relaxed but professional and talented team</strong></em></p><p>We have a very relaxed working environment that is more akin to a start-up than a company that's been running for 12 years. We have a team of 10 developers (including me) and 2 QA who are very capable and committed - we are looking to get to 1 QA for every 2 devs, so we need to scale up our QA team.</p><p>There are no office politics or any of that nonsense, it's a very collaborative environment. I try to keep quite a&nbsp;<em>flat</em>&nbsp;structure where I expect my developers and QA team to take responsibility for dealing with everything in their purview (with me there as adviser if needed). This has allowed me to keep the team small and efficient - which if you see the scale of our solution is an incredible level of features to developers.</p><p>We have also developed interesting in-house tech of our own (distributed databases for document storage, natural language processing for clinical text parsing, UI frameworks, distributed config systems with PAXOS, language-ext, and echo-process, to name a few). We run on our own machines in high-security data-centres rather than on AWS/Azure, and so we have also developed our own in-house solutions for deployment, etc.</p><p>The people I need are 'self starters' (hate that term, but you know what I mean) and are happy to get their hands dirty as well as look to create innovative solutions to the problems they encounter. I need creatively minded individuals who can solve unique problems; not just with QA, but in improving healthcare too. Healthcare professionals are often not very tech-savvy, and are therefore either scared or incapable of communicating with tech-people. So I need&nbsp;QA than can hear a real world problem and think creatively.</p><p>Paul Louth CTO</p>            </div>                            <h3>Benefits</h3>                    <ul>                            <li>                                <span></span>                                <span>Employee profit share</span>                            </li>                            <li>                                <span></span>                                <span>Pension</span>                            </li>                            <li>                                <span></span>                                <span>Gym membership</span>                            </li>                    </ul>                "
+  },
+  {
     "id": "OiruN1_NRS2of2qERszD8w",
     "url": "https://stackoverflow.com/jobs/180729/integration-engineer-articulate-inc?a=YBSiTzSOFxK",
     "title": "Integration Engineer at Articulate Inc.  ",
@@ -361,6 +471,86 @@
     "content": "<div><b>JUNIOR INTEGRATION DEVELOPER</b><br><span>TUATARA SP. Z O.O.</span>     -<span>Junior, WV</span>    </div><span><div><div><div><div><div><div><div><p><b>ARE YOU:</b></p></div></div></div></div></div></div><div><div><div><div><div><div><ul><li>enthusiastic about translating business needs into solutions that are on the cutting edge of technology and pragmatic at the same time</li><li>passionate about solving problems of the digital natives</li><li>eager to learn and work with the most innovative technologies?</li></ul><p>If you answered YES to any of those, we are looking forward to meeting you.</p><p>By the way, we do a lot of projects in the Middle East. Sounds interesting?</p><p>TUATARA combines the energy and elasticity of a startup with professionalism of a big company that attracts the best talents.</p><p>What we offer:</p><ul><li>regular employment with flexible working conditions and good salary, private medical care</li><li>modern office in the center of Warsaw with good equipment</li><li>welcoming organizational culture, team of people focused on cooperation and development</li><li>remote work possibility</li></ul><p>We are like no other. Apply and see for yourself.</p></div></div></div></div></div></div></div><br><div><h2><b>Your Role:</b></h2><p>You will be a member of a development team that implements projects in the areas of Integration and Business Process Management. You will work in: Java, JavaScript, ESQL, XSLT, SOAP / REST, WebServices and with IBM tools: IBM Integration Bus, IBM API Connect and IBM ODM, in particular.</p><p>Your <b>required</b> experience and skills:</p><ul><li>knowledge of JavaScript, SQL, SOAP and REST</li><li>knowledge of Java basics</li><li> knowledge of XSLT I XPATH</li><li>very good communication and interpersonal skills as well as predispositions for teamwork</li><li>responsibility, initiative, results and goal orientation</li><li>flexibility, willingness to develop and work in a technologically diverse environment</li></ul><p>What we offer:</p><ul><li>welcoming organizational culture, team of people focused on cooperation and development</li><li>the opportunity to gain experience in large IT projects and access to the latest technologies</li><li>permanent cooperation, professional development opportunities and participation in various projects, also abroad</li><li>modern, well equipped office in the center of Warsaw</li><li>good salary and attractive benefits, including free private medical care and sports packages</li></ul><p>If you are interested, please send your application to: praca@tuatara.pl</p></div></span>"
   },
   {
+    "id": "kUtk7RrIQmmtL-d6Gm5VkA",
+    "url": "http://www.indeed.com/viewjob?t=Integration+Developer&c=TUATARA+SP.+Z+O.O.&l=Junior,+WV&jk=8802abba2e80ec22&from=rss",
+    "title": "JUNIOR INTEGRATION DEVELOPER - TUATARA SP. Z O.O. - Junior, WV",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/integration",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 7, 2018 8:07:33 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<div><b>JUNIOR INTEGRATION DEVELOPER</b><br><span>TUATARA SP. Z O.O.</span>     -<span>Junior, WV</span>    </div><span><div><div><div><div><div><div><div><p><b>ARE YOU:</b></p></div></div></div></div></div></div><div><div><div><div><div><div><ul><li>enthusiastic about translating business needs into solutions that are on the cutting edge of technology and pragmatic at the same time</li><li>passionate about solving problems of the digital natives</li><li>eager to learn and work with the most innovative technologies?</li></ul><p>If you answered YES to any of those, we are looking forward to meeting you.</p><p>By the way, we do a lot of projects in the Middle East. Sounds interesting?</p><p>TUATARA combines the energy and elasticity of a startup with professionalism of a big company that attracts the best talents.</p><p>What we offer:</p><ul><li>regular employment with flexible working conditions and good salary, private medical care</li><li>modern office in the center of Warsaw with good equipment</li><li>welcoming organizational culture, team of people focused on cooperation and development</li><li>remote work possibility</li></ul><p>We are like no other. Apply and see for yourself.</p></div></div></div></div></div></div></div><br><div><h2><b>Your Role:</b></h2><p>You will be a member of a development team that implements projects in the areas of Integration and Business Process Management. You will work in: Java, JavaScript, ESQL, XSLT, SOAP / REST, WebServices and with IBM tools: IBM Integration Bus, IBM API Connect and IBM ODM, in particular.</p><p>Your <b>required</b> experience and skills:</p><ul><li>knowledge of JavaScript, SQL, SOAP and REST</li><li>knowledge of Java basics</li><li> knowledge of XSLT I XPATH</li><li>very good communication and interpersonal skills as well as predispositions for teamwork</li><li>responsibility, initiative, results and goal orientation</li><li>flexibility, willingness to develop and work in a technologically diverse environment</li></ul><p>What we offer:</p><ul><li>welcoming organizational culture, team of people focused on cooperation and development</li><li>the opportunity to gain experience in large IT projects and access to the latest technologies</li><li>permanent cooperation, professional development opportunities and participation in various projects, also abroad</li><li>modern, well equipped office in the center of Warsaw</li><li>good salary and attractive benefits, including free private medical care and sports packages</li></ul><p>If you are interested, please send your application to: praca@tuatara.pl</p></div></span>"
+  },
+  {
+    "id": "HT0mpZ-WQeCvyySbVRzWTQ",
+    "url": "http://www.indeed.com/viewjob?t=Integration+Developer&jk=8802abba2e80ec22&",
+    "title": "JUNIOR INTEGRATION DEVELOPER - TUATARA SP. Z O.O. - Junior, WV",
+    "tags": [
+      "DBG:surround``2N(work, remot) 2N OR(option, allow, abl, possibl, permit)",
+      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
+      "DBG_TECH1:k/t/w:java/java/4",
+      "DBG_TECH1:k/t/w:java/mobile/2",
+      "DBG_TECH1:k/t/w:javascript/frontend/2",
+      "DBG_TECH1:k/t/w:javascript/nodejs/2",
+      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=2, go=0, nodejs=2, bigdata-ml=0, ruby=0, apple=0, java=4, gamedev=0, php=0, embedded=0, frontend=2}",
+      "REMOTE1/50",
+      "TECH1/java",
+      "TITLE1/integration",
+      "TZ/unknown"
+    ],
+    "tagsNames1": [
+      "50% remote"
+    ],
+    "tagsNames2": [
+      "java"
+    ],
+    "hiringOrganization": {
+      "name": "UNSET",
+      "sameAs": "UNSET"
+    },
+    "salary": {
+      "currency": "UNSET",
+      "minValue": 0,
+      "maxValue": 0,
+      "info": "",
+      "unit": "UNSET",
+      "isEquity": false
+    },
+    "employmentType": "UNSET",
+    "published": "Jun 7, 2018 8:07:33 AM",
+    "validThrough": "Jan 1, 1970 3:00:00 AM",
+    "content": "<h3>JUNIOR INTEGRATION DEVELOPER</h3><div>Company: TUATARA SP. Z O.O.<br></div><div>Location: Junior, WV<br></div><span><div><div><div><div><div><div><div><p><b>ARE YOU:</b></p></div></div></div></div></div></div><div><div><div><div><div><div><ul><li>enthusiastic about translating business needs into solutions that are on the cutting edge of technology and pragmatic at the same time</li><li>passionate about solving problems of the digital natives</li><li>eager to learn and work with the most innovative technologies?</li></ul><p>If you answered YES to any of those, we are looking forward to meeting you.</p><p>By the way, we do a lot of projects in the Middle East. Sounds interesting?</p><p>TUATARA combines the energy and elasticity of a startup with professionalism of a big company that attracts the best talents.</p><p>What we offer:</p><ul><li>regular employment with flexible working conditions and good salary, private medical care</li><li>modern office in the center of Warsaw with good equipment</li><li>welcoming organizational culture, team of people focused on cooperation and development</li><li>remote work possibility</li></ul><p>We are like no other. Apply and see for yourself.</p></div></div></div></div></div></div></div><br><div><h2><b>Your Role:</b></h2><p>You will be a member of a development team that implements projects in the areas of Integration and Business Process Management. You will work in: Java, JavaScript, ESQL, XSLT, SOAP / REST, WebServices and with IBM tools: IBM Integration Bus, IBM API Connect and IBM ODM, in particular.</p><p>Your <b>required</b> experience and skills:</p><ul><li>knowledge of JavaScript, SQL, SOAP and REST</li><li>knowledge of Java basics</li><li> knowledge of XSLT I XPATH</li><li>very good communication and interpersonal skills as well as predispositions for teamwork</li><li>responsibility, initiative, results and goal orientation</li><li>flexibility, willingness to develop and work in a technologically diverse environment</li></ul><p>What we offer:</p><ul><li>welcoming organizational culture, team of people focused on cooperation and development</li><li>the opportunity to gain experience in large IT projects and access to the latest technologies</li><li>permanent cooperation, professional development opportunities and participation in various projects, also abroad</li><li>modern, well equipped office in the center of Warsaw</li><li>good salary and attractive benefits, including free private medical care and sports packages</li></ul><p>If you are interested, please send your application to: praca@tuatara.pl</p></div></span>"
+  },
+  {
     "id": "p3UpohrmRXyj-dVE8mEmgw",
     "url": "https://news.ycombinator.com/item?id=17206511",
     "title": "Open-Xchange | Release and Integration Engineer USA (Engineering Services) | REMOTE (East Coast USA preferred) | Full-Time",
@@ -395,88 +585,6 @@
     "published": "Jun 1, 2018 6:52:05 PM",
     "validThrough": "Jan 1, 1970 3:00:00 AM",
     "content": "<div>                  <span>Open-Xchange | Release and Integration Engineer USA (Engineering Services) | REMOTE (East Coast USA preferred) | Full-Time<p>Looking for somebody to join the growing US Engineering Services team to coordinate releases and integration. Docker, Vagrant, Chef skills required, as well as scripting and general web development knowledge.</p><p>Open-Xchange is the largest email provider to hosting companies and telecoms with a global reach. We own the Dovecot IMAP server, OX App Suite web frontend and middleware, and PowerDNS. This job entails release management and integration for custom development as requested by customers; some customer interaction is necessary with minimal travel. Trips to Germany a couple times a year for team meetings, as the HQ is located there. Reporting to a US-based manager, flexible schedule, 100% remote, with benefits and annual bonus. Help support OX's mission to make a borderless internet which is open, safe, and free.</p><p>Full job description: <a href='https://www.open-xchange.com/about-ox/career/jobs/release-and-integration-engineer-usa-engineering-services-mfnbsp/' rel='nofollow'>https://www.open-xchange.com/about-ox/career/jobs/release-an...</a></p><p>Please send resume to recruiting@open-xchange.com and include job code &quot;ES01&quot; in the subject line.<span>              </span></p><div>        <p>                      <u></u>                        </p></div></span></div>"
-  },
-  {
-    "id": "SfvGy2jyReaHtlj7LKGLYw",
-    "url": "http://jobmote.com/jobs/10246-network-automation-developer-cisco-python-ansible-remote",
-    "title": "Network Automation Developer Cisco, Python, Ansible REMOTE",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``OR(countri, locat) 3W OR(remot,flexibl)",
-      "DBG:surround``OR(locat, anywher, base, resid) 7W OR(germani, unitedkingdom, austria, croatia, hrvatska, denmark, franc, ireland, netherland, spain, sweden, switzerland)",
-      "DBG_TECH1:k/t/w:java/java/2",
-      "DBG_TECH1:k/t/w:java/mobile/1",
-      "DBG_TECH1:k/t/w:python/python/10",
-      "DBG_TECH1:techWeightMap:{python=10, other=0, dotnet=0, c=0, mobile=1, go=0, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=2, gamedev=0, php=0, embedded=0, frontend=0}",
-      "REMOTE1/100",
-      "TECH1/python",
-      "TITLE1/integration",
-      "TZ/Europe"
-    ],
-    "tagsNames1": [
-      "European time zones"
-    ],
-    "tagsNames2": [
-      "python"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "USD",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 12, 2018 11:21:53 AM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "Network Automation Developer Cisco, Python, Ansible REMOTE - Jobmote<div><div><h2>Network Automation Developer Cisco, Python, Ansible REMOTE</h2><h5>Frank Recruitment Group</h5></div></div><div><div><div><div></div></div><div><div><div><p><strong>Location:</strong> - FULLY REMOTE with initial travel to Germany<br><strong>Rate:</strong> - £465<br><strong>Length:</strong> - 3 month rolling contract </p><p><strong>Client:</strong><br>Consultancy</p><p><strong>Role: Network Automation Developer (Cisco, Python, Ansible)</strong></p><p>Working alongside an agile, cloud expert who have a global reach. The candidate will be required to be on site with the client situated in Germany for the 1st week of the contract. After this the role is fully remote.</p><p><strong>Desired Technical Skills and Experience</strong></p><ul><li>Experience of Ansible</li><li>Java and Python coding skills are desirable</li><li>Strong network experience - DC centric (network design, virtual network functions, dynamic routing protocols, FW, LB)</li><li>Experience with Cisco components (Cisco routers, switches)</li><li>Experience with Cisco UCSD (nice to have)</li><li>Experience with workflow coding</li><li>Experience of automated unit testing mapped to scenarios</li><li>Experience defining a development framework for testing automation</li><li>Experience and understanding of Agile development &amp; Kanban</li><li>Knowledge of Jira / Confluence or similar</li><li>Strong documentation skill-sets</li></ul><p><strong>Personal Skills</strong></p><ul><li>Comfortable working closely with stakeholders and confident communicating at all levels</li><li>Tenacious problem solver who will own issues until full resolution</li><li>Keen to learn new technologies and techniques</li><li>Confident in designing robust, elegant and efficient solutions from scratch</li><li>You can present technical concepts in authoritative and clear manner to customers through white boarding, workshops, presentations and proposals</li><li>Ability to create wow / delighter moments with customers</li></ul><p>The role is looking to commence ASAP!!!</p><p>PLEASE APPLY NOW!!!</p><p>Send any relevant applications to</p><p></p></div></div><div></div></div></div></div><div><a href='http://statcounter.com/' title=&quot;web statistics&quot; rel='nofollow'></a></div>"
-  },
-  {
-    "id": "lzMgErgxR8a09_wh4nCMSw",
-    "url": "https://remote.com/jobs/browse/preview/laravel-developer-that-loves-to-build-creative-and-innovative-startups",
-    "title": "Laravel Developer that loves to build creative and innovative startups",
-    "tags": [
-      "DBG:surround``2W( OR(100,fulli,entir), remot)",
-      "DBG:surround``remot 3N ( OR(employe,develop,engin,team,role,employment,workmat) OR compani OR worldwide)",
-      "DBG:surround``work 3W where 2W want",
-      "DBG_TECH1:k/t/w:go/go/3",
-      "DBG_TECH1:k/t/w:golang/go/8",
-      "DBG_TECH1:k/t/w:html5/frontend/5",
-      "DBG_TECH1:k/t/w:jquery/frontend/8",
-      "DBG_TECH1:k/t/w:laravel/php/24",
-      "DBG_TECH1:techWeightMap:{python=0, other=0, dotnet=0, c=0, mobile=0, go=11, nodejs=0, bigdata-ml=0, ruby=0, apple=0, java=0, gamedev=0, php=24, embedded=0, frontend=13}",
-      "REMOTE1/100",
-      "TECH1/php",
-      "TITLE1/integration",
-      "TZ/Any"
-    ],
-    "tagsNames1": [
-      "Any time zone"
-    ],
-    "tagsNames2": [
-      "php"
-    ],
-    "hiringOrganization": {
-      "name": "UNSET",
-      "sameAs": "UNSET"
-    },
-    "salary": {
-      "currency": "UNSET",
-      "minValue": 0,
-      "maxValue": 0,
-      "info": "",
-      "unit": "UNSET",
-      "isEquity": false
-    },
-    "employmentType": "UNSET",
-    "published": "May 11, 2018 4:34:41 AM",
-    "validThrough": "Jan 1, 1970 3:00:00 AM",
-    "content": "JOB TYPE: Full time<br /><br />EXPERIENCE: beginner<br /><br />COMPANY: Creatella; 75-100 employees; 75-100% remote;<br /><br />SKILLS: <br />• CSS3<br />• Laravel<br />• jQuery<br />• HTML5<br /><br />&quot;ABOUT US<br />We are an ambitious and enthusiastic Venture Builder, empowering visionary entrepreneurs to build the best startups in FinTech, EdTech, HealthTech etc, around the globe. Born in Singapore, with European and Japanese roots and a highly diverse team spanning 12 countries, we aim to become the largest tech startups builder in the bustling South East Asia. <br />Founded by a successful serial entrepreneur, and scaling up at a fast pace, Creatella is co-launching a series of new startups full of challenges, sweat and excitement, and we constantly look for passionate and ambitious developers to join us!<br /><br /><br />WHAT YOU'LL DO<br />■Build projects form the ground up, making them beautiful, intuitive and delightful<br />■Work closely with our team, learning from pros and devloping interns <br />■Grow as a badass engineer, learning the best technologies to write hybrid apps <br />■Be supported to learn and grow towards your goals, whatever they may be<br /><br />WHAT WE OFFER YOU<br />■Exciting, dynamic projects to work on<br />■Flexibility to work remotely where you want and when you want <br />■A skyrocketing learning curve (We give you the freedom to take on challenges, and we know that failing fast is an opportunity to learn)<br />■Experience working on an international team (Antarctica is the only continent we don’t have a team member on. Antarctic applicants are encouraged!)<br />■Join our open, collaborative culture (We want to share our knowledge as well as learn from you!)<br />■Develop your entrepreneurial side<br />■Additional opportunities as we grow and learn together <br /><br />YOUR SKILLS<br />■Excellent knowledge of Laravel<br />■Working knowledge of Docker, Kubernetes, Golang, gRPC, microservice, DevOps, CI/CD is a bonus<br />■Available full-time 40 hours/week or more<br />■Experience on a remote team a plus<br /><br />PERSONAL QUALITIES (as important as skills!)<br />■Creative: You think outside the box. We want your ideas and feedback not only for the project and coding, but also for the whole company<br />■Timely and committed: You manage well your time<br />■Challenger: You like to push yourself and go beyond your own goals. We’re ambitious and we want you to be too!<br />■Quality-driven: You create great work you’re proud of!<br />■Fast learner: You’ll learn a lot with us, and we move fast!<br />■Team player: You share, discuss, ask for advice, and report on your work on yourself. You’ll work independently, we don’t want to be on your back ;-)<br /><br />OTHERS <br />■Work comfortably from home, remotely, at flexible hours"
   }
 ]
 }
