@@ -69,7 +69,7 @@ a.detail-icon:visited{
     color: #999999 !important;
 }
 
-@media only screen and (max-width: 480px) {
+/* @media only screen and (max-width: 480px) {
 
     #table {
         margin-left: -20px !important;
@@ -86,7 +86,7 @@ a.detail-icon:visited{
         padding-right: 0 !important;
     }
 
-}
+} */
 
 /* background on the home page */
 @media screen and (min-width: 768px) {
@@ -194,7 +194,7 @@ input[type=radio]:checked+label:before {
     box-shadow: 0 0 0 6px #428bca inset,0 0 0 11px #fff inset;
 }
 input[type=checkbox]:focus:checked+label:before {
-    box-shadow: 0 0 0 1px #428bca, 0 0 0 11px #428bca inset;
+    box-shadow: 0 0 0 1px #428bca, 0 0 0 12px #428bca inset;
 }
 input[type=checkbox]:focus+label:before,
 input[type=radio]:focus+label:before {
@@ -247,4 +247,9 @@ Create custom navbar-like custom styles */
 }
 .btn-div.open .dropdown-toggle {
   box-shadow: none;
+}
+
+/* Make table fit its parent container */
+#table {
+  word-break: break-all;
 }
